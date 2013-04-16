@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>websnapr提示网站首页截图</title>
+</head>
+
+<body>
+
+<script type="text/javascript" src="http://www.jsfoot.com/skin/js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery-1.3.2.js"></script>
+<script type="text/javascript" src="js/jquery.qtip-1.0.0-rc3.js"></script>
+
+<style type="text/css">
+*{margin:0;padding:0;list-style-type:none;font-style:normal;}
+a,img{border:0;}
+a,a:visited{color:#5e5e5e; text-decoration:none;}
+a:hover{color:#4183C4;text-decoration:underline;}
+body{font:12px/180% Arial, Helvetica, sans-serif, "新宋体";}	
+/* demo */
+.demo{width:950px;margin:180px auto 0 auto;font-size:18px;text-align:center;}
+.demo h2{font-size:18px;height:42px;}
+.demo a{font-weight:800;color:#3366cc;font-size:12px;display:inline-block;padding:5px 10px;}
+/* qtip 提示框基础样式 */
+.qtip .qtip-content{padding:10px;overflow:hidden;}
+.qtip .qtip-content .qtip-title,.qtip-cream .qtip-content .qtip-title{background-color:#F0DE7D;}
+.qtip-light .qtip-content .qtip-title{background-color:#f1f1f1;}
+.qtip-dark .qtip-content .qtip-title{background-color:#404040;}
+.qtip-red .qtip-content .qtip-title{background-color:#F28279;}
+.qtip-green .qtip-content .qtip-title{background-color:#B9DB8C;}
+</style>
+
+<div class="demo">
+   <h2>将鼠标悬停在看到它的缩略图下面的链接！</h2>
+   <p class="cloud">
+      <a class="website" href="http://www.jsfoot.com">jsfoot代码素材</a>
+      <a class="website" href="http://www.taobao.com">淘宝网</a>
+      <a class="website" href="http://www.360buy.com">京东商城</a>
+      <a class="website" href="http://www.sina.com.cn">新浪</a>
+      <a class="website" href="http://www.163.com">网易</a>
+      <a class="website" href="http://www.qq.com">腾讯qq</a>
+   </p>
+</div>
+</div>
+
+<script type="text/javascript" src="http://www.websnapr.com/js/websnapr.js"></script>
+<script class="example" type="text/javascript">
+// 创建工具提示文件加载
+$(document).ready(function(){
+	/*
+	* 你将需要你自己的API key，不要滥用我的！
+	* 你的位置： http://www.websnapr.com/free_services/
+	*/
+	var apiKey = '0KUn7MSO3322';
+
+	// 请注意，使用的每一种方法获得的每个元素单独
+	$('.website').each(function(){
+		// 抓住从我们的链接的URL
+		var url = encodeURIComponent( $(this).attr('href') ),
+
+		// 创建图像缩略图使用Websnapr缩略服务
+		thumbnail = $('<img />').attr({
+			src: 'http://images.websnapr.com/?url=' + url + '&key=' + apiKey + '&hash=' + encodeURIComponent(websnapr_hash),
+			alt: 'Loading thumbnail...',
+			width: 202,
+			height: 152
+		});
+
+		// 设置提示的内容
+		$(this).qtip({
+			content: thumbnail,
+			position: {
+				corner: {
+					tooltip: 'bottomMiddle',
+					target: 'topMiddle'
+				}
+			},
+			style: {
+				tip: true, // 给它一个语音气泡提示与自动角点检测
+				name: 'cream'
+			}
+		});
+		
+	});
+	
+});
+</script>
+
+</body>
+</html>

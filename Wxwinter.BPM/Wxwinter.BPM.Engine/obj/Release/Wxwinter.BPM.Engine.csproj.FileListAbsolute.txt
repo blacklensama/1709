@@ -1,0 +1,61 @@
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.Engine.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.Engine.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.WorkflowStruct.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.WorkflowStruct.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\ResolveAssemblyReference.cache
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\controlControl.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\runInfoControl.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\controlControl.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\runInfoControl.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine_MarkupCompile.cache
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.g.resources
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.Engine.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.Engine.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.WorkflowStruct.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.WorkflowStruct.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\ResolveAssemblyReference.cache
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\controlControl.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\runInfoControl.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\controlControl.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\runInfoControl.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine_MarkupCompile.cache
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.g.resources
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.Engine.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.Engine.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.WorkflowStruct.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.WorkflowStruct.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\controlControl.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\runInfoControl.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\controlControl.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\runInfoControl.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine_MarkupCompile.cache
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.g.resources
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.Engine.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.Engine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.WorkflowStruct.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.WorkflowStruct.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\controlControl.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\runInfoControl.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\controlControl.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\runInfoControl.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine_MarkupCompile.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.g.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Release\controlControl.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Release\controlControl.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine_MarkupCompile.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.g.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.Engine.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Release\Wxwinter.BPM.Engine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Release\Wxwinter.BPM.Engine.dll

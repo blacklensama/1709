@@ -1,0 +1,121 @@
+﻿<sap:ActivityDesigner x:Class="Wxwinter.BPM.WFDesigner.CustomActivities.WhileDesigner"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sap="clr-namespace:System.Activities.Presentation;assembly=System.Activities.Presentation"
+    xmlns:sapv="clr-namespace:System.Activities.Presentation.View;assembly=System.Activities.Presentation"
+                      xmlns:local="clr-namespace:Wxwinter.BPM.WFDesigner.CustomActivities"
+                      ExpandState="True"  
+                      PinState="False" xmlns:main="clr-namespace:Wxwinter.BPM.WFDesigner"
+                      AllowDrop="True" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" d:DesignWidth="547">
+    <sap:ActivityDesigner.Resources>
+        <ResourceDictionary x:Uid="ResourceDictionary_1">
+        <local:OperatorArr x:Key="OpCols" />
+        <local:InputItemArr x:Key="InputItem" />
+        <DataTemplate x:Key="Collapsed">
+                <StackPanel Grid.Column="0"
+                            Grid.Row="0"
+                            Grid.ColumnSpan="3" HorizontalAlignment="Center">
+                    <!--       <TextBlock HorizontalAlignment="Center">扩展视图</TextBlock>-->
+                    <TextBlock HorizontalAlignment="Center">条件</TextBlock>
+                    <StackPanel Orientation="Horizontal">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="60" />
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="60" />
+                                <ColumnDefinition Width="40" />
+                                <ColumnDefinition Width="100" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Column="0">输入条件</Label>
+                            <ComboBox Grid.Column="1"
+                                      x:Name="InputList"
+                                      Width="100"
+                                      HorizontalAlignment="Center"
+                                      ItemsSource="{StaticResource InputItem}"
+                                      DisplayMemberPath="InputItem"></ComboBox>
+                            <Label Grid.Column="2">比较符号</Label>
+                            <ComboBox Grid.Column="3"
+                                      x:Name="OperatorList"
+                                      Width="40"
+                                      HorizontalAlignment="Center"
+                                      ItemsSource="{StaticResource OpCols}"
+                                      DisplayMemberPath="Operator"></ComboBox>
+                            <TextBox Grid.Column="4">输入判断值</TextBox>
+                        </Grid>
+                    </StackPanel>
+                </StackPanel>
+            </DataTemplate>
+        <DataTemplate x:Key="Expanded">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="0">
+          <!--          <TextBlock HorizontalAlignment="Center">扩展视图</TextBlock>-->
+                    <TextBlock HorizontalAlignment="Center">条件</TextBlock>
+                    <StackPanel Orientation="Horizontal" Width="400">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="60" />
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="60" />
+                                <ColumnDefinition Width="40" />
+                                <ColumnDefinition Width="100" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Column="0">输入条件</Label>
+                            <ComboBox Grid.Column="1"
+                                      x:Name="InputList"
+                                      Width="100"
+                                      HorizontalAlignment="Center"
+                                      ItemsSource="{StaticResource InputItem}"
+                                      DisplayMemberPath="InputItem"></ComboBox>
+                            <Label Grid.Column="2">比较符号</Label>
+                            <ComboBox Grid.Column="3"
+                                      x:Name="OperatorList"
+                                      Width="40"
+                                      HorizontalAlignment="Center"
+                                      ItemsSource="{StaticResource OpCols}"
+                                      DisplayMemberPath="Operator"></ComboBox>
+                            <TextBox Grid.Column="4">输入判断值</TextBox>
+                        </Grid>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Grid.Row="1">
+                    <TextBlock HorizontalAlignment="Center">Body</TextBlock>
+                    <Border BorderBrush="#FFE3E3E3"
+                            BorderThickness="1"
+                            Height="Auto"
+                            Width="Auto"
+                            Margin="5">
+                        <sap:WorkflowItemsPresenter HintText="在此处放置活动"
+                                                    FlowDirection="LeftToRight" AllowedItemType="{x:Type main:发起审核活动}"
+                                                    Items="{Binding Path=ModelItem.BodyActivities}">
+                        </sap:WorkflowItemsPresenter>
+                    </Border>
+                </StackPanel>
+            </Grid>
+        </DataTemplate>
+        <Style x:Key="ExpandOrCollapsedStyle"
+               TargetType="{x:Type ContentPresenter}">
+            <Setter Property="ContentTemplate"
+                    Value="{DynamicResource Expanded}" />
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding Path=ShowExpanded}"
+                             Value="false">
+                    <Setter Property="ContentTemplate"
+                            Value="{DynamicResource Collapsed}" />
+                    <!--Collapsed-->
+                </DataTrigger>
+                
+            </Style.Triggers>
+        </Style>
+        </ResourceDictionary>
+    </sap:ActivityDesigner.Resources>
+    <Grid>
+        <ContentPresenter Style="{DynamicResource ExpandOrCollapsedStyle}"
+                          Content="{Binding}" />
+    </Grid>
+</sap:ActivityDesigner>

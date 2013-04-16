@@ -1,0 +1,1 @@
+{"aaa":"bbbb","rules":[{"field":"xxxx","data":"ooooo","op":"lt"},{"field":"xxxx","data":"ooooo","op":"gt"},{"field":"xxyxx","data":"ooooo","op":"lte"}]}

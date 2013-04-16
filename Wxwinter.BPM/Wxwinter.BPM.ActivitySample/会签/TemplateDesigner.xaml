@@ -1,0 +1,12 @@
+﻿<sap:ActivityDesigner x:Class="Wxwinter.BPM.ActivitySample.会签.TemplateDesigner"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sap="clr-namespace:System.Activities.Presentation;assembly=System.Activities.Presentation"
+    xmlns:sapv="clr-namespace:System.Activities.Presentation.View;assembly=System.Activities.Presentation"
+    Width="10" Height="30"         
+                     MinWidth="30"    
+                     MinHeight="30" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" Visibility="Visible">
+
+    <Image HorizontalAlignment="Stretch" Margin="-25,-55,-25,-15" Name="image1" Stretch="Fill" VerticalAlignment="Stretch" Source="/Wxwinter.BPM.ActivitySample;component/Images/Template.png" Grid.ColumnSpan="2" StretchDirection="Both" />
+
+</sap:ActivityDesigner>

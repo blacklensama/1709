@@ -1,0 +1,568 @@
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe.config
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\openChildWorkflowWindow.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\openChildWorkflowWindow.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\App.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_Content.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Microsoft.VisualStudio.Activities.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\readme.txt
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml.txt
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml.txt
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml.txt
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\toolBarImage\resultBookmark.png
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\WPFToolkit.Extended.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Engine.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.UserDesigner.exe
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WorkflowStruct.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Engine.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WorkflowStruct.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.UserDesigner.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.g.resources
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.exe
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe.config
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.exe
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Microsoft.VisualStudio.Activities.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\readme.txt
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml.txt
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml.txt
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml.txt
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\toolBarImage\resultBookmark.png
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\MySQLDriverCS.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\WPFToolkit.Extended.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Engine.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.UserDesigner.exe
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WorkflowStruct.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Engine.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WorkflowStruct.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.UserDesigner.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\openChildWorkflowWindow.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserSelection.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\openChildWorkflowWindow.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserSelection.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\App.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_Content.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.g.resources
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateSelection.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateSelection.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ParallelDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\SequenceDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ParallelDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\SequenceDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\WhileDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\WhileDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfConditionDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfConditionDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ElseDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ThenDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ElseDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ThenDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ElseDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ThenDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\WhileDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\configuration.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\openChildWorkflowWindow.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\EndNodeDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateSelection.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserSelection.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ElseDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfConditionDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ParallelDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\SequenceDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ThenDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\WhileDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\configuration.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\openChildWorkflowWindow.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\EndNodeDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateSelection.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserSelection.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\发起审核活动Desinger.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\App.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_Content.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Microsoft.VisualStudio.Activities.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\readme.txt
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml.txt
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml.txt
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml.txt
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\toolBarImage\resultBookmark.png
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe.config
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\WPFToolkit.Extended.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Engine.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.UserDesigner.exe
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WorkflowStruct.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Engine.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WorkflowStruct.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.UserDesigner.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfConditionDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ParallelDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\SequenceDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\发起审核活动Desinger.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.g.resources
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\GenerateResource.read.1.tlog
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\GenerateResource.write.1.tlog
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.exe
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe.config
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.exe
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Microsoft.VisualStudio.Activities.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\readme.txt
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml.txt
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml.txt
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml.txt
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\toolBarImage\resultBookmark.png
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\WPFToolkit.Extended.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Engine.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.UserDesigner.exe
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WorkflowStruct.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Engine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WorkflowStruct.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.UserDesigner.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ElseDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ThenDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\configuration.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\openChildWorkflowWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\EndNodeDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateSelection.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserSelection.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ElseDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfConditionDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ParallelDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\SequenceDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ThenDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\WhileDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\configuration.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\openChildWorkflowWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\EndNodeDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateSelection.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserSelection.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\发起审核活动Desinger.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\App.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_Content.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfConditionDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ParallelDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\SequenceDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\WhileDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\发起审核活动Desinger.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.g.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\GenerateResource.read.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Release\GenerateResource.write.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ElseDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ThenDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\configuration.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenUserDialog.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenWorkflowWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\EndNodeDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateSelection.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserSelection.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ElseDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\EquivalentDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ExceptionDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfConditionDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ParallelDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\SequenceDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ThenDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\WhileDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\configuration.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenUserDialog.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenWorkflowWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\EndNodeDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateSelection.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserSelection.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\发起审核活动Desinger.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\App.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_Content.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Images\email.png
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Microsoft.VisualStudio.Activities.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\readme.txt
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml.txt
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml.txt
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml.txt
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\toolBarImage\resultBookmark.png
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe.config
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\WPFToolkit.Extended.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\EquivalentDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ExceptionDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfConditionDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ParallelDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\SequenceDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\WhileDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\发起审核活动Desinger.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.g.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\GenerateResource.read.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\GenerateResource.write.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.exe
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe.config
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.exe
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Images\email.png
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Microsoft.VisualStudio.Activities.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\readme.txt
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml.txt
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml.txt
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml.txt
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\toolBarImage\resultBookmark.png
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\WPFToolkit.Extended.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ElseDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ThenDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\configuration.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenUserDialog.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenWorkflowWindow.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\EndNodeDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateSelection.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserSelection.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ElseDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\EquivalentDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ExceptionDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfConditionDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ParallelDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\SequenceDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ThenDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\WhileDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\configuration.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenUserDialog.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenWorkflowWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\EndNodeDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateSelection.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserSelection.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\发起审核活动Desinger.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\App.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_Content.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\EquivalentDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ExceptionDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfConditionDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ParallelDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\SequenceDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\WhileDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\发起审核活动Desinger.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.g.resources
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\ActivityDesigner1.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Window1.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\ActivityDesigner1.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Window1.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenTemplateDialog.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenTemplateDialog.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenUserGroupDialog.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenUserGroupDialog.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe.config
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.exe
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.pdb
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Images\email.png
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Microsoft.VisualStudio.Activities.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\readme.txt
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\activityBuilder.xaml.txt
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\流程图.xaml.txt
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\template\状态机.xaml.txt
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\toolBarImage\resultBookmark.png
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.exe
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.WFDesigner.pdb
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\WPFToolkit.Extended.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Release\Wxwinter.BPM.Machine.pdb
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.csprojResolveAssemblyReference.cache
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\ActivityDesigner1.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ElseDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ThenDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\configuration.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenUserDialog.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenWorkflowWindow.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenTemplateDialog.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenUserGroupDialog.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\EndNodeDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateSelection.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserSelection.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Window1.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\ActivityDesigner1.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\ButtonControlDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ElseDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\EquivalentDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ExceptionDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfConditionDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ParallelDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\SequenceDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ThenDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\WhileDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\designWindow.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\addArgumentWindow.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\configuration.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\CreateWFModelWindow.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\createWorkflowWindow.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenUserDialog.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenWorkflowWindow.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\startWorkflowWindow.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenTemplateDialog.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\OpenUserGroupDialog.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\EndNodeDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\resultBookmarkDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateSelection.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserSelection.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Window1.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\发起审核活动Desinger.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\App.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_Content.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\EquivalentDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ExceptionDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfConditionDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\IfDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\ParallelDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\SequenceDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\CustomActivities\WhileDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\MainWindow.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\TemplateDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\UserDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\发起审核活动Desinger.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.g.resources
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\Wxwinter.BPM.WFDesigner.csproj.GenerateResource.Cache
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\peopleManager.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\dialog\peopleManager.g.cs

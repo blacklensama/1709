@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poolman>
+<management-mode>local</management-mode>
+<datasource>
+<dbname>workflow</dbname>
+<jndiName>workflow</jndiName>
+<driver>com.mysql.jdbc.Driver</driver>
+<url>jdbc:mysql://192.168.61.100:3306/workflow</url>
+<username>root</username>
+<password>123456</password>
+<minimumSize>0</minimumSize>
+<maximumSize>50</maximumSize>
+<logFile>logs/mysql.log</logFile>
+</datasource>　　
+</poolman>

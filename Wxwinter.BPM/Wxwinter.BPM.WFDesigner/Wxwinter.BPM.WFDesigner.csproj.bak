@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7200DBFC-0DC6-432E-A7A2-E0F1D9CEA749}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Wxwinter.BPM.WFDesigner</RootNamespace>
+    <AssemblyName>Wxwinter.BPM.WFDesigner</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySQLDriverCS">
+      <HintPath>..\..\..\Program Files\MySQLDriverCS\dll\MySQLDriverCS.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Activities" />
+    <Reference Include="System.Activities.Core.Presentation" />
+    <Reference Include="System.Activities.DurableInstancing" />
+    <Reference Include="System.Activities.Presentation" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Activities" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Presentation" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WPFToolkit.Extended">
+      <HintPath>..\Wxwinter.BPM.ActivitySample\Toolkit\WPFToolkit.Extended.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="ButtonControl.cs" />
+    <Compile Include="ButtonControlDesigner.xaml.cs">
+      <DependentUpon>ButtonControlDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CustomActivities\ElseActivity.cs" />
+    <Compile Include="CustomActivities\ElseDesigner.xaml.cs">
+      <DependentUpon>ElseDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CustomActivities\Equivalent.cs" />
+    <Compile Include="CustomActivities\EquivalentDesigner.xaml.cs">
+      <DependentUpon>EquivalentDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CustomActivities\ExceptionActivity.cs" />
+    <Compile Include="CustomActivities\ExceptionDesigner.xaml.cs">
+      <DependentUpon>ExceptionDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CustomActivities\IfActivity.cs" />
+    <Compile Include="CustomActivities\IfConditionActivity.cs" />
+    <Compile Include="CustomActivities\IfConditionDesigner.xaml.cs">
+      <DependentUpon>IfConditionDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CustomActivities\IfDesigner.xaml.cs">
+      <DependentUpon>IfDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CustomActivities\ParallelActivity.cs" />
+    <Compile Include="CustomActivities\ParallelDesigner.xaml.cs">
+      <DependentUpon>ParallelDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CustomActivities\SequenceActivity.cs" />
+    <Compile Include="CustomActivities\SequenceDesigner.xaml.cs">
+      <DependentUpon>SequenceDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CustomActivities\ThenActivity.cs" />
+    <Compile Include="CustomActivities\ThenDesigner.xaml.cs">
+      <DependentUpon>ThenDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CustomActivities\WhileActivity.cs" />
+    <Compile Include="CustomActivities\WhileDesigner.xaml.cs">
+      <DependentUpon>WhileDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CustomActivity.cs" />
+    <Compile Include="dialog\addArgumentWindow.xaml.cs">
+      <DependentUpon>addArgumentWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="dialog\configuration.xaml.cs">
+      <DependentUpon>configuration.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="dialog\CreateWFModelWindow.xaml.cs">
+      <DependentUpon>CreateWFModelWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="dialog\OpenUserDialog.xaml.cs">
+      <DependentUpon>OpenUserDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="dialog\OpenWorkflowWindow.xaml.cs">
+      <DependentUpon>OpenWorkflowWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EndNode.cs" />
+    <Compile Include="EndNodeDesigner.xaml.cs">
+      <DependentUpon>EndNodeDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="model\Configuration.cs" />
+    <Compile Include="model\EditConfig.cs" />
+    <Compile Include="model\UserModel.cs" />
+    <Compile Include="model\WFModel.cs" />
+    <Compile Include="PropertyGrid.cs" />
+    <Compile Include="SqlServerConnection.cs" />
+    <Compile Include="Template.cs" />
+    <Compile Include="TemplateDesigner.xaml.cs">
+      <DependentUpon>TemplateDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TemplateSelection.xaml.cs">
+      <DependentUpon>TemplateSelection.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="toolBox.cs" />
+    <Compile Include="resultBookmark.cs" />
+    <Compile Include="resultBookmarkDesigner.xaml.cs">
+      <DependentUpon>resultBookmarkDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <Compile Include="UserDesigner.xaml.cs">
+      <DependentUpon>UserDesigner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserSelection.xaml.cs">
+      <DependentUpon>UserSelection.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="发起审核活动.cs" />
+    <Compile Include="发起审核活动Desinger.xaml.cs">
+      <DependentUpon>发起审核活动Desinger.xaml</DependentUpon>
+    </Compile>
+    <Page Include="ButtonControlDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomActivities\ElseDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomActivities\EquivalentDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomActivities\ExceptionDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomActivities\IfConditionDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomActivities\IfDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomActivities\ParallelDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomActivities\SequenceDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomActivities\ThenDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomActivities\WhileDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="designWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="designerDebugTracking.cs" />
+    <Compile Include="designerTool.cs" />
+    <Compile Include="designWindow.xaml.cs">
+      <DependentUpon>designWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="database.config" />
+    <None Include="template\activityBuilder.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Page Include="dialog\addArgumentWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="dialog\configuration.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="dialog\CreateWFModelWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="dialog\createWorkflowWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="dialog\OpenUserDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="dialog\OpenWorkflowWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="dialog\startWorkflowWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="EndNodeDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="resultBookmarkDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <None Include="template\流程图.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="template\状态机.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Page Include="TemplateDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TemplateSelection.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserDesigner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserSelection.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="发起审核活动Desinger.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dialog\createWorkflowWindow.xaml.cs">
+      <DependentUpon>createWorkflowWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="dialog\startWorkflowWindow.xaml.cs">
+      <DependentUpon>startWorkflowWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="modelItemConverter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Wxwinter.BPM.ActivitySample\Wxwinter.BPM.ActivitySample.csproj">
+      <Project>{9CF73A74-2C89-4466-8E3F-215025E513AD}</Project>
+      <Name>Wxwinter.BPM.ActivitySample</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Wxwinter.BPM.Machine.Design\Wxwinter.BPM.Machine.Design.csproj">
+      <Project>{2A8209C3-243E-4B3B-80C0-9E48164D3254}</Project>
+      <Name>Wxwinter.BPM.Machine.Design</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.csproj">
+      <Project>{1376856C-7D01-43DB-89B9-2BF5AB841558}</Project>
+      <Name>Wxwinter.BPM.Machine</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="template\readme.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="template\activityBuilder.xaml.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="template\流程图.xaml.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="toolBarImage\email.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="toolBarImage\end.PNG">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="toolBarImage\template.png" />
+    <Resource Include="toolBarImage\user.jpg" />
+    <None Include="template\状态机.xaml.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Resource Include="toolBarImage\resultBookmarkResource.png" />
+    <None Include="toolBarImage\resultBookmark.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Resource Include="image\sp.png" />
+    <Content Include="Microsoft.VisualStudio.Activities.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

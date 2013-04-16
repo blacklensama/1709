@@ -1,0 +1,76 @@
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\ResolveAssemblyReference.cache
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.Properties.Resources.resources
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.SR.resources
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\GenerateResource.read.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\GenerateResource.write.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\ResolveAssemblyReference.cache
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.Properties.Resources.resources
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.SR.resources
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\GenerateResource.read.1.tlog
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\GenerateResource.write.1.tlog
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.Properties.Resources.resources
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.SR.resources
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\GenerateResource.read.1.tlog
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\GenerateResource.write.1.tlog
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.Properties.Resources.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.SR.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\GenerateResource.read.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\GenerateResource.write.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.Properties.Resources.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.SR.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\GenerateResource.read.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\GenerateResource.write.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.Properties.Resources.resources
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.SR.resources
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.pdb
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.pdb
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.csprojResolveAssemblyReference.cache
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.Properties.Resources.resources
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.SR.resources
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.csproj.GenerateResource.Cache
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.pdb

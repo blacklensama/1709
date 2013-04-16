@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="csExWB">
+</Property><Property Name="解决方案文件" Value="F:\myProject\2012-06-05\2012-06-05\csExWB\csExWB.sln">
+</Property><Property Name="用户选项文件" Value="F:\myProject\2012-06-05\2012-06-05\csExWB\csExWB.suo">
+</Property><Property Name="Date" Value="2012年10月1日">
+</Property><Property Name="Time" Value="9:05">
+</Property><Property Name="日志号" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="csExWB.sln" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB.sln">
+</Event><Event ErrorLevel="0" Project="" Source="csExWB.suo" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB.suo">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\csExWB.csproj" Description="项目文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB\csExWB.csproj">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\csExWB.csproj.user" Description="项目用户文件成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB\csExWB.csproj.user">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\cEXWB.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB\cEXWB.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\DataBase.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB\DataBase.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\Enums.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB\Enums.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\Events.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB\Events.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\GeneralClasses.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB\GeneralClasses.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\GeneralInterfaces.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB\GeneralInterfaces.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\HTMLEvents.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB\HTMLEvents.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\HTMLInterfaces.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB\HTMLInterfaces.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\OleInterfaces.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB\OleInterfaces.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\Structs.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\csExWB\Structs.cs">
+</Event><Event ErrorLevel="1" Project="csExWB" Source="csExWB\csExWB.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\csExWB.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="csExWB" Source="csExWB\csExWB.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="项目文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\DemoApp.csproj">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj.user" Description="项目用户文件成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\DemoApp.csproj.user">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\AllForms.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\AllForms.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\CustomComboBox.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\CustomComboBox.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\CustomControls.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\CustomControls.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\CustomSplitter.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\CustomSplitter.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Database.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Database.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\baseLayout.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\baseLayout.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\configLoader.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\configLoader.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controlBase.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controlBase.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\alert.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\alert.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\brief.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\brief.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\eframe.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\eframe.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\iframeForm.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\iframeForm.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\iframeForm.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\iframeForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\information.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\information.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\radioEdit.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\radioEdit.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\radioEdit.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\radioEdit.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\radioForm.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\radioForm.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\radioForm.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\radioForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\radioSelection.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\radioSelection.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\rescuePlan.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\rescuePlan.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\rescueReq.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\rescueReq.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\submit.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\submit.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\submitForm.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\submitForm.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\submitForm.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\submitForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\test.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\test.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\textArea.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\textArea.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\dbConnectSettingform.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\dbConnectSettingform.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\dbConnectSettingform.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\dbConnectSettingform.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\dbTemplateForm.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\dbTemplateForm.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\dbTemplateForm.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\dbTemplateForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\dbTools\dbTool.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\dbTools\dbTool.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\imageCtrl.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\imageCtrl.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\JsonBase.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\JsonBase.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\layouts\div.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\layouts\div.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\layouts\table.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\layouts\table.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\layouts\tableLayout.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\layouts\tableLayout.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\layouts\tableLayout.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\layouts\tableLayout.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\layouts\VSplit.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\layouts\VSplit.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\templateBase.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\templateBase.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\templateCreateForm.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\templateCreateForm.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\templateCreateForm.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\templateCreateForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\templateForm.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\templateForm.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\templateForm.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\templateForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\utility.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\utility.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\workEnvironment.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\workEnvironment.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\xmlTool.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\xmlTool.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\FileOperation.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\FileOperation.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmAddMapType.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmAddMapType.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmAddMapType.designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmAddMapType.designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmCheckboxProp.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmCheckboxProp.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmCheckboxProp.designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmCheckboxProp.designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmChooseTemplate.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmChooseTemplate.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmChooseTemplate.designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmChooseTemplate.designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDatalinkProp.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmDatalinkProp.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDatalinkProp.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmDatalinkProp.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDelMapType.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmDelMapType.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDelMapType.designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmDelMapType.designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmMaplinkProp.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmMaplinkProp.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmMaplinkProp.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmMaplinkProp.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDOM.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmDOM.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDOM.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmDOM.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmHTMLeditor.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmHTMLeditor.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmHTMLeditor.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmHTMLeditor.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmMain.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmMain.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmFind.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmFind.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmFind.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmFind.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmInput.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmInput.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmInput.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmInput.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmLog.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmLog.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmLog.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmLog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmMaplinkTypeProp.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmMaplinkTypeProp.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmMaplinkTypeProp.designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmMaplinkTypeProp.designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmRadioProp.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmRadioProp.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmRadioProp.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmRadioProp.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmSaveHtmldocProp.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmSaveHtmldocProp.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmSaveHtmldocProp.designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmSaveHtmldocProp.designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmSaveToDBProp.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmSaveToDBProp.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmSaveToDBProp.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmSaveToDBProp.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmSendEmailProp.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmSendEmailProp.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmSendEmailProp.designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmSendEmailProp.designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmTable.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmTable.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmTable.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmTable.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmTableCellProp.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmTableCellProp.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmTableCellProp.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmTableCellProp.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\HtmlColorSelector.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\HtmlColorSelector.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\HtmlColorSelectorComboBox.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\HtmlColorSelectorComboBox.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\HtmlRichTextBox.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\HtmlRichTextBox.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Program.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Program.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\testForm.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\testForm.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\testForm.Designer.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\testForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\WinExternal.cs" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\WinExternal.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\app.config" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\app.config">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Properties\Settings.settings" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\App.ICO" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\App.ICO">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\XMLFile1.xml" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\XMLFile1.xml">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\MySQLDriverCS.dll" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\MySQLDriverCS.dll">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\build.png" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\build.png">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\button.jpg" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\button.jpg">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\checkbox.jpg" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\checkbox.jpg">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\database.png" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\database.png">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\datalink.jpg" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\datalink.jpg">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\energy.png" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\energy.png">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\human.png" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\human.png">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\map.png" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\map.png">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\money.png" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\money.png">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\radio.jpg" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\radio.jpg">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\releaseHtml.jpg" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\releaseHtml.jpg">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\sendEmail.jpg" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\sendEmail.jpg">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\textArea.jpg" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\textArea.jpg">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\tree.png" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\tree.png">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\winexternal.html" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\winexternal.html">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmMain.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Properties\Resources.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmFind.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmFind.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmInput.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmInput.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmLog.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmLog.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\IeToolbar.bmp" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\IeToolbar.bmp">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\iframeForm.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\iframeForm.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\radioEdit.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\radioEdit.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\radioForm.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\radioForm.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\controls\submitForm.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\controls\submitForm.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\dbConnectSettingform.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\dbConnectSettingform.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\dbTemplateForm.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\dbTemplateForm.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\layouts\tableLayout.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\layouts\tableLayout.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\templateCreateForm.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\templateCreateForm.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\eq_controls\templateForm.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\eq_controls\templateForm.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmAddMapType.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmAddMapType.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmCheckboxProp.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmCheckboxProp.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmChooseTemplate.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmChooseTemplate.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDatalinkProp.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmDatalinkProp.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDelMapType.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmDelMapType.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmMaplinkProp.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmMaplinkProp.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmMaplinkTypeProp.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmMaplinkTypeProp.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmRadioProp.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmRadioProp.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmSaveHtmldocProp.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmSaveHtmldocProp.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmSaveToDBProp.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmSaveToDBProp.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmSendEmailProp.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmSendEmailProp.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\blank.gif" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\Resources\blank.gif">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmHTMLeditor.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmHTMLeditor.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDOM.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmDOM.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmTable.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmTable.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmTableCellProp.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\frmTableCellProp.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\testForm.resx" Description="文件已成功备份为 F:\myProject\2012-06-05\2012-06-05\csExWB\Backup1\DemoApp\testForm.resx">
+</Event><Event ErrorLevel="1" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="csExWB.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="csExWB.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\csExWB.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\app.config" Description="文件已成功转换。所有的 &lt;supportedRuntime&gt; 和 &lt;requiredRuntime&gt; 标记都已移除，以使项目能够用 Visual Studio 2005 生成并运行。">
+</Event><Event ErrorLevel="3" Project="DemoApp" Source="DemoApp\app.config" Description="Converted">
+</Event></UpgradeLog>

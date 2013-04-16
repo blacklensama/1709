@@ -1,0 +1,64 @@
+modelresult_casualty
+CasualtyInfo 12
+CasualtyInfo_peopleByOval 12
+CasualtyInfo_intensity 12
+CasualtyInfo_longtitude 12
+CasualtyInfo_latitude 12
+CasualtyInfo_deathRatio 12
+CasualtyInfo_deathPeople 12
+earthquakeID
+taskID
+#
+modelresult_construction
+ConstructionLossInfo 12
+ConstructionLossInfo_earthquakeDamageRatio 12
+ConstructionLossInfo_intensity 12
+ConstructionLossInfo_magnitude 12
+ConstructionLossInfo_longtitude 12
+ConstructionLossInfo_latitude 12
+taskID
+earthquakeID
+#
+modelresult_economic
+economicLoss
+magnitude
+longitude
+latitude
+earthquakeID
+taskID
+#
+modelresult_intensity
+circles 12
+circles_longAxis 12
+circles_intensity 12
+circles_longitude 12
+circles_azimuth 12
+circles_latitude 12
+circles_shortAxis 12
+earthquakeID
+taskID
+#
+modelresult_landslide
+magnitude
+possibility
+taskID
+earthquakeID
+#
+modelresult_mudsilide
+magnitude
+possibility
+taskID
+earthquakeID
+#
+modelresult_traffic
+trafficLoss
+magnitude
+taskID
+earthquakeID
+#
+modelresult_tsunami
+waterGrowth
+magnitude
+taskID
+earthquakeID
+#

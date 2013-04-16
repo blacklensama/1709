@@ -1,0 +1,61 @@
+C:\Users\jimmy\Desktop\csEXWB\csExWB\csExWB\bin\Debug\csExWB.dll
+C:\Users\jimmy\Desktop\csEXWB\csExWB\csExWB\bin\Debug\csExWB.pdb
+C:\Users\jimmy\Desktop\csEXWB\csExWB\csExWB\bin\Debug\Interop.CSEXWBDLMANLib.dll
+C:\Users\jimmy\Desktop\csEXWB\csExWB\csExWB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jimmy\Desktop\csEXWB\csExWB\csExWB\obj\Debug\Interop.CSEXWBDLMANLib.dll
+C:\Users\jimmy\Desktop\csEXWB\csExWB\csExWB\obj\Debug\csExWB.csproj.ResolveComReference.cache
+C:\Users\jimmy\Desktop\csEXWB\csExWB\csExWB\obj\Debug\csExWB.dll
+C:\Users\jimmy\Desktop\csEXWB\csExWB\csExWB\obj\Debug\csExWB.pdb
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\bin\Debug\csExWB.dll
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\bin\Debug\csExWB.pdb
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\bin\Debug\Interop.CSEXWBDLMANLib.dll
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Debug\Interop.CSEXWBDLMANLib.dll
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Debug\csExWB.csproj.ResolveComReference.cache
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Debug\csExWB.dll
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Debug\csExWB.pdb
+C:\Users\Jimmy\Desktop\实验室项目相关\程序相关2003\程序原型\csEXWB简单抽离\csExWB\csExWB\bin\Debug\csExWB.dll
+C:\Users\Jimmy\Desktop\实验室项目相关\程序相关2003\程序原型\csEXWB简单抽离\csExWB\csExWB\bin\Debug\csExWB.pdb
+C:\Users\Jimmy\Desktop\实验室项目相关\程序相关2003\程序原型\csEXWB简单抽离\csExWB\csExWB\bin\Debug\Interop.CSEXWBDLMANLib.dll
+C:\Users\Jimmy\Desktop\实验室项目相关\程序相关2003\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jimmy\Desktop\实验室项目相关\程序相关2003\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Debug\Interop.CSEXWBDLMANLib.dll
+C:\Users\Jimmy\Desktop\实验室项目相关\程序相关2003\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Debug\csExWB.csproj.ResolveComReference.cache
+C:\Users\Jimmy\Desktop\实验室项目相关\程序相关2003\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Debug\csExWB.dll
+C:\Users\Jimmy\Desktop\实验室项目相关\程序相关2003\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Debug\csExWB.pdb
+C:\Users\Jimmy\Desktop\实验室项目相关\程序相关2003\程序原型\csEXWB简单抽离\csExWB\csExWB\bin\Debug\MySQLDriverCS.dll
+E:\devwork\csExWB\csExWB\bin\Debug\csExWB.dll
+E:\devwork\csExWB\csExWB\bin\Debug\csExWB.pdb
+E:\devwork\csExWB\csExWB\bin\Debug\MySQLDriverCS.dll
+E:\devwork\csExWB\csExWB\bin\Debug\Interop.CSEXWBDLMANLib.dll
+E:\devwork\csExWB\csExWB\obj\Debug\ResolveAssemblyReference.cache
+E:\devwork\csExWB\csExWB\obj\Debug\Interop.CSEXWBDLMANLib.dll
+E:\devwork\csExWB\csExWB\obj\Debug\csExWB.csproj.ResolveComReference.cache
+E:\devwork\csExWB\csExWB\obj\Debug\csExWB.dll
+E:\devwork\csExWB\csExWB\obj\Debug\csExWB.pdb
+C:\Documents and Settings\ghm\桌面\项目\csExWB-g-2\csExWB\csExWB\bin\Debug\csExWB.dll
+C:\Documents and Settings\ghm\桌面\项目\csExWB-g-2\csExWB\csExWB\bin\Debug\csExWB.pdb
+C:\Documents and Settings\ghm\桌面\项目\csExWB-g-2\csExWB\csExWB\bin\Debug\MySQLDriverCS.dll
+C:\Documents and Settings\ghm\桌面\项目\csExWB-g-2\csExWB\csExWB\bin\Debug\Interop.CSEXWBDLMANLib.dll
+C:\Documents and Settings\ghm\桌面\项目\csExWB-g-2\csExWB\csExWB\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ghm\桌面\项目\csExWB-g-2\csExWB\csExWB\obj\Debug\Interop.CSEXWBDLMANLib.dll
+C:\Documents and Settings\ghm\桌面\项目\csExWB-g-2\csExWB\csExWB\obj\Debug\csExWB.csproj.ResolveComReference.cache
+C:\Documents and Settings\ghm\桌面\项目\csExWB-g-2\csExWB\csExWB\obj\Debug\csExWB.dll
+C:\Documents and Settings\ghm\桌面\项目\csExWB-g-2\csExWB\csExWB\obj\Debug\csExWB.pdb
+E:\2012-06-05\2012-06-05\csExWB\csExWB\bin\Debug\csExWB.dll
+E:\2012-06-05\2012-06-05\csExWB\csExWB\bin\Debug\csExWB.pdb
+E:\2012-06-05\2012-06-05\csExWB\csExWB\bin\Debug\MySQLDriverCS.dll
+E:\2012-06-05\2012-06-05\csExWB\csExWB\bin\Debug\Interop.CSEXWBDLMANLib.dll
+E:\2012-06-05\2012-06-05\csExWB\csExWB\obj\Debug\ResolveAssemblyReference.cache
+E:\2012-06-05\2012-06-05\csExWB\csExWB\obj\Debug\Interop.CSEXWBDLMANLib.dll
+E:\2012-06-05\2012-06-05\csExWB\csExWB\obj\Debug\csExWB.csproj.ResolveComReference.cache
+E:\2012-06-05\2012-06-05\csExWB\csExWB\obj\Debug\csExWB.dll
+E:\2012-06-05\2012-06-05\csExWB\csExWB\obj\Debug\csExWB.pdb
+F:\myProject\2012-06-05\2012-06-05\csExWB\csExWB\bin\Debug\csExWB.dll
+F:\myProject\2012-06-05\2012-06-05\csExWB\csExWB\bin\Debug\csExWB.pdb
+F:\myProject\2012-06-05\2012-06-05\csExWB\csExWB\bin\Debug\MySQLDriverCS.dll
+F:\myProject\2012-06-05\2012-06-05\csExWB\csExWB\bin\Debug\Interop.CSEXWBDLMANLib.dll
+F:\myProject\2012-06-05\2012-06-05\csExWB\csExWB\obj\Debug\csExWB.csprojResolveAssemblyReference.cache
+F:\myProject\2012-06-05\2012-06-05\csExWB\csExWB\obj\Debug\Interop.CSEXWBDLMANLib.dll
+F:\myProject\2012-06-05\2012-06-05\csExWB\csExWB\obj\Debug\csExWB.csproj.ResolveComReference.cache
+F:\myProject\2012-06-05\2012-06-05\csExWB\csExWB\obj\Debug\csExWB.dll
+F:\myProject\2012-06-05\2012-06-05\csExWB\csExWB\obj\Debug\csExWB.pdb

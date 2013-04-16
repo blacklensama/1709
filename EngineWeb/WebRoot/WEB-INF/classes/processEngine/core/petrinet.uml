@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_qb8akM37EdqwVrslYOdUDA" name="petrinet">
+  <packagedElement xmi:type="uml:Package" xmi:id="_T-H78DlgEeKSeNi1QrK5Rw" name="cn">
+    <packagedElement xmi:type="uml:Package" xmi:id="_T-H78TlgEeKSeNi1QrK5Rw" name="edu">
+      <packagedElement xmi:type="uml:Package" xmi:id="_T-H78jlgEeKSeNi1QrK5Rw" name="buaa">
+        <packagedElement xmi:type="uml:Package" xmi:id="_T-H78zlgEeKSeNi1QrK5Rw" name="processEngine">
+          <packagedElement xmi:type="uml:Package" xmi:id="_T-IjADlgEeKSeNi1QrK5Rw" name="core">
+            <packagedElement xmi:type="uml:Interface" xmi:id="_T-IjATlgEeKSeNi1QrK5Rw" name="Transition">
+              <ownedComment xmi:id="_T-KYMDlgEeKSeNi1QrK5Rw">
+                <body>/** 
+ * @author Yan Biying
+ */
+</body>
+              </ownedComment>
+              <ownedOperation xmi:id="_UBYEQDlgEeKSeNi1QrK5Rw" name="barrier" visibility="public">
+                <ownedParameter xmi:id="_UBYEQTlgEeKSeNi1QrK5Rw" name="token" type="_T-PQsTlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UBYEQjlgEeKSeNi1QrK5Rw" name="src" type="_T-cFADlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UBYEQzlgEeKSeNi1QrK5Rw" name="return" type="_T-PQsTlgEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_UBYrUDlgEeKSeNi1QrK5Rw" name="process" visibility="public">
+                <ownedParameter xmi:id="_UBYrUTlgEeKSeNi1QrK5Rw" name="tokens" type="_T-PQsTlgEeKSeNi1QrK5Rw">
+                  <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_UBYrUjlgEeKSeNi1QrK5Rw" value="*"/>
+                  <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_UBYrUzlgEeKSeNi1QrK5Rw"/>
+                </ownedParameter>
+                <ownedParameter xmi:id="_UBYrVDlgEeKSeNi1QrK5Rw" name="return" type="_T-PQsTlgEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Class" xmi:id="_T-K_QDlgEeKSeNi1QrK5Rw" name="PTNet">
+              <ownedComment xmi:id="_T-PQsDlgEeKSeNi1QrK5Rw">
+                <body>/** 
+ * @author Yan Biying
+ */
+</body>
+              </ownedComment>
+              <ownedAttribute xmi:id="_UCMjoDlgEeKSeNi1QrK5Rw" name="places" visibility="package" type="_UCKucDlgEeKSeNi1QrK5Rw"/>
+              <ownedAttribute xmi:id="_UCQ1EDlgEeKSeNi1QrK5Rw" name="transitions" visibility="package" type="_UCO_4DlgEeKSeNi1QrK5Rw"/>
+              <ownedOperation xmi:id="_UCTRUTlgEeKSeNi1QrK5Rw" name="addPlace" visibility="public">
+                <ownedComment xmi:id="_UCVGgDlgEeKSeNi1QrK5Rw">
+                  <body>/** 
+ * Add a new Place into PetriNet
+ * @param place the new Place to be added
+ * @return false indicates that this Place already exists in the PetriNet
+ */
+</body>
+                </ownedComment>
+                <ownedParameter xmi:id="_UCTRUjlgEeKSeNi1QrK5Rw" name="place" type="_T-cFADlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCTRUzlgEeKSeNi1QrK5Rw" name="return" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_UCVGgTlgEeKSeNi1QrK5Rw" name="addTransition" visibility="public">
+                <ownedComment xmi:id="_UCXiwDlgEeKSeNi1QrK5Rw">
+                  <body>/** 
+ * Add a new Transition into PetriNet
+ * @param transition the new Transition to be added
+ * @return false indicates that this Transition already exists in the PetriNet
+ */
+</body>
+                </ownedComment>
+                <ownedParameter xmi:id="_UCVGgjlgEeKSeNi1QrK5Rw" name="transition" type="_T-IjATlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCVGgzlgEeKSeNi1QrK5Rw" name="return" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_UCXiwTlgEeKSeNi1QrK5Rw" name="addArc" visibility="public">
+                <ownedComment xmi:id="_UCZ_ADlgEeKSeNi1QrK5Rw">
+                  <body>/** 
+ * Add a new Arc (from Place to Transition) without Condition into PetriNet
+ * @param place source of the Arc
+ * @param transition destination of the Arc
+ * @return true indicates success
+ */
+</body>
+                </ownedComment>
+                <ownedParameter xmi:id="_UCXiwjlgEeKSeNi1QrK5Rw" name="place" type="_T-cFADlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCXiwzlgEeKSeNi1QrK5Rw" name="transition" type="_T-IjATlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCXixDlgEeKSeNi1QrK5Rw" name="return" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_UCZ_ATlgEeKSeNi1QrK5Rw" name="addArc" visibility="public">
+                <ownedComment xmi:id="_UCb0MDlgEeKSeNi1QrK5Rw">
+                  <body>/** 
+ * Add a new Arc (from Place to Transition) into PetriNet
+ * @param place source of the Arc
+ * @param transition destination of the Arc
+ * @param condition can be null
+ * @return true indicates success
+ */
+</body>
+                </ownedComment>
+                <ownedParameter xmi:id="_UCZ_AjlgEeKSeNi1QrK5Rw" name="place" type="_T-cFADlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCZ_AzlgEeKSeNi1QrK5Rw" name="transition" type="_T-IjATlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCZ_BDlgEeKSeNi1QrK5Rw" name="condition" type="_T-VXUDlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCZ_BTlgEeKSeNi1QrK5Rw" name="return" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_UCcbQDlgEeKSeNi1QrK5Rw" name="addArc" visibility="public">
+                <ownedComment xmi:id="_UCe3gDlgEeKSeNi1QrK5Rw">
+                  <body>/** 
+ * Add a new Arc (from Transition to Place) without Condition into PetriNet
+ * @param transition source of the Arc
+ * @param place destination of the Arc
+ * @return true indicates success
+ */
+</body>
+                </ownedComment>
+                <ownedParameter xmi:id="_UCcbQTlgEeKSeNi1QrK5Rw" name="transition" type="_T-IjATlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCcbQjlgEeKSeNi1QrK5Rw" name="place" type="_T-cFADlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCcbQzlgEeKSeNi1QrK5Rw" name="return" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_UCfekDlgEeKSeNi1QrK5Rw" name="addArc" visibility="public">
+                <ownedComment xmi:id="_UCjI8DlgEeKSeNi1QrK5Rw">
+                  <body>/** 
+ * Add a new Arc (from Transition to Place) into PetriNet
+ * @param transition source of the Arc
+ * @param place destination of the Arc
+ * @param condition can be null
+ * @return true indicates success
+ */
+</body>
+                </ownedComment>
+                <ownedParameter xmi:id="_UCfekTlgEeKSeNi1QrK5Rw" name="transition" type="_T-IjATlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCfekjlgEeKSeNi1QrK5Rw" name="place" type="_T-cFADlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCfekzlgEeKSeNi1QrK5Rw" name="condition" type="_T-VXUDlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCfelDlgEeKSeNi1QrK5Rw" name="return" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_UCjI8jlgEeKSeNi1QrK5Rw" name="toString" visibility="public">
+                <ownedParameter xmi:id="_UCjI8zlgEeKSeNi1QrK5Rw" name="return" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Interface" xmi:id="_T-PQsTlgEeKSeNi1QrK5Rw" name="Token">
+              <ownedComment xmi:id="_T-Qe0DlgEeKSeNi1QrK5Rw">
+                <body>/** 
+ * @author Yan Biying
+ */
+</body>
+              </ownedComment>
+              <ownedOperation xmi:id="_UCllMDlgEeKSeNi1QrK5Rw" name="clone" visibility="public">
+                <ownedParameter xmi:id="_UCllMTlgEeKSeNi1QrK5Rw" name="return" type="_T-PQsTlgEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_UCmMQDlgEeKSeNi1QrK5Rw" name="destroy" visibility="public"/>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Class" xmi:id="_T-RF4DlgEeKSeNi1QrK5Rw" name="PlaceWithArc">
+              <ownedAttribute xmi:id="_UCnaYDlgEeKSeNi1QrK5Rw" name="place" visibility="package" type="_T-cFADlgEeKSeNi1QrK5Rw" association="_UFK_IDlgEeKSeNi1QrK5Rw"/>
+              <ownedAttribute xmi:id="_UCpPkDlgEeKSeNi1QrK5Rw" name="arcs" visibility="package" type="_UCoogDlgEeKSeNi1QrK5Rw"/>
+              <nestedClassifier xmi:type="uml:Class" xmi:id="_T-TiIDlgEeKSeNi1QrK5Rw" name="Arc" visibility="package">
+                <ownedAttribute xmi:id="_UCthADlgEeKSeNi1QrK5Rw" name="succ" visibility="package" type="_T-XMgDlgEeKSeNi1QrK5Rw"/>
+                <ownedAttribute xmi:id="_UC1c0DlgEeKSeNi1QrK5Rw" name="cond" visibility="package" type="_T-VXUDlgEeKSeNi1QrK5Rw"/>
+              </nestedClassifier>
+              <ownedOperation xmi:id="_UCqdsDlgEeKSeNi1QrK5Rw" name="createArc" visibility="package">
+                <ownedParameter xmi:id="_UCqdsTlgEeKSeNi1QrK5Rw" name="succ" type="_T-XMgDlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCqdsjlgEeKSeNi1QrK5Rw" name="cond" type="_T-VXUDlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UCqdszlgEeKSeNi1QrK5Rw" name="return" type="_T-TiIDlgEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_UCrr0DlgEeKSeNi1QrK5Rw" name="toString" visibility="public">
+                <ownedParameter xmi:id="_UCrr0TlgEeKSeNi1QrK5Rw" name="return" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Interface" xmi:id="_T-VXUDlgEeKSeNi1QrK5Rw" name="Condition">
+              <ownedComment xmi:id="_T-WlcDlgEeKSeNi1QrK5Rw">
+                <body>/** 
+ * @author Yan Biying
+ */
+</body>
+              </ownedComment>
+              <ownedOperation xmi:id="_UC2q8DlgEeKSeNi1QrK5Rw" name="pass" visibility="public">
+                <ownedParameter xmi:id="_UC2q8TlgEeKSeNi1QrK5Rw" name="token" type="_T-PQsTlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UC2q8jlgEeKSeNi1QrK5Rw" name="return" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+                </ownedParameter>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Class" xmi:id="_T-XMgDlgEeKSeNi1QrK5Rw" name="TransitionWithArc">
+              <ownedAttribute xmi:id="_UC35EDlgEeKSeNi1QrK5Rw" name="transition" visibility="package" type="_T-IjATlgEeKSeNi1QrK5Rw" association="_UFK_IjlgEeKSeNi1QrK5Rw"/>
+              <ownedAttribute xmi:id="_UC6VUDlgEeKSeNi1QrK5Rw" name="inputArcs" visibility="package" type="_UC5HMDlgEeKSeNi1QrK5Rw"/>
+              <ownedAttribute xmi:id="_UC8KgDlgEeKSeNi1QrK5Rw" name="arcs" visibility="package" type="_UC7jcDlgEeKSeNi1QrK5Rw"/>
+              <nestedClassifier xmi:type="uml:Class" xmi:id="_T-ZowDlgEeKSeNi1QrK5Rw" name="Arc" visibility="package">
+                <ownedAttribute xmi:id="_UDBDADlgEeKSeNi1QrK5Rw" name="succ" visibility="package" type="_T-RF4DlgEeKSeNi1QrK5Rw"/>
+                <ownedAttribute xmi:id="_UDC4MDlgEeKSeNi1QrK5Rw" name="cond" visibility="package" type="_T-VXUDlgEeKSeNi1QrK5Rw"/>
+              </nestedClassifier>
+              <ownedOperation xmi:id="_UC9YoDlgEeKSeNi1QrK5Rw" name="createArc" visibility="package">
+                <ownedParameter xmi:id="_UC9_sDlgEeKSeNi1QrK5Rw" name="succ" type="_T-RF4DlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UC9_sTlgEeKSeNi1QrK5Rw" name="cond" type="_T-VXUDlgEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_UC9_sjlgEeKSeNi1QrK5Rw" name="return" type="_T-ZowDlgEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_UC_N0DlgEeKSeNi1QrK5Rw" name="toString" visibility="public">
+                <ownedParameter xmi:id="_UC_N0TlgEeKSeNi1QrK5Rw" name="return" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Interface" xmi:id="_T-cFADlgEeKSeNi1QrK5Rw" name="Place">
+              <ownedComment xmi:id="_T-dTIDlgEeKSeNi1QrK5Rw">
+                <body>/** 
+ * @author Yan Biying
+ */
+</body>
+              </ownedComment>
+              <ownedOperation xmi:id="_UDEGUDlgEeKSeNi1QrK5Rw" name="arrive" visibility="public">
+                <ownedParameter xmi:id="_UDEGUTlgEeKSeNi1QrK5Rw" name="token" type="_T-PQsTlgEeKSeNi1QrK5Rw"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_UDEtYDlgEeKSeNi1QrK5Rw" name="fetch" visibility="public">
+                <ownedParameter xmi:id="_UDEtYTlgEeKSeNi1QrK5Rw" name="return" type="_T-PQsTlgEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Association" xmi:id="_UFK_IDlgEeKSeNi1QrK5Rw" memberEnd="_UCnaYDlgEeKSeNi1QrK5Rw _UFK_ITlgEeKSeNi1QrK5Rw">
+              <ownedEnd xmi:id="_UFK_ITlgEeKSeNi1QrK5Rw" name="PlaceWithArc" type="_T-RF4DlgEeKSeNi1QrK5Rw" association="_UFK_IDlgEeKSeNi1QrK5Rw"/>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Association" xmi:id="_UFK_IjlgEeKSeNi1QrK5Rw" memberEnd="_UC35EDlgEeKSeNi1QrK5Rw _UFK_IzlgEeKSeNi1QrK5Rw">
+              <ownedEnd xmi:id="_UFK_IzlgEeKSeNi1QrK5Rw" name="TransitionWithArc" type="_T-XMgDlgEeKSeNi1QrK5Rw" association="_UFK_IjlgEeKSeNi1QrK5Rw"/>
+            </packagedElement>
+          </packagedElement>
+          <packagedElement xmi:type="uml:Package" xmi:id="_UBNFIjlgEeKSeNi1QrK5Rw" name="ptnetCustom">
+            <packagedElement xmi:type="uml:DataType" xmi:id="_UBNFIzlgEeKSeNi1QrK5Rw" name="CustomedPlace"/>
+            <packagedElement xmi:type="uml:DataType" xmi:id="_UBNFJDlgEeKSeNi1QrK5Rw" name="CustomedTransition"/>
+          </packagedElement>
+        </packagedElement>
+      </packagedElement>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_UBMeEDlgEeKSeNi1QrK5Rw" name="java">
+    <packagedElement xmi:type="uml:Package" xmi:id="_UBMeETlgEeKSeNi1QrK5Rw" name="util">
+      <packagedElement xmi:type="uml:DataType" xmi:id="_UBMeEjlgEeKSeNi1QrK5Rw" name="ArrayList"/>
+      <packagedElement xmi:type="uml:DataType" xmi:id="_UBMeEzlgEeKSeNi1QrK5Rw" name="HashMap"/>
+      <packagedElement xmi:type="uml:DataType" xmi:id="_UBMeFDlgEeKSeNi1QrK5Rw" name="Iterator"/>
+      <packagedElement xmi:type="uml:DataType" xmi:id="_UBNFIDlgEeKSeNi1QrK5Rw" name="Map"/>
+      <packagedElement xmi:type="uml:DataType" xmi:id="_UBNFITlgEeKSeNi1QrK5Rw" name="Set"/>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:DataType" xmi:id="_UCKucDlgEeKSeNi1QrK5Rw" name="Map&lt;Place,PlaceWithArc>"/>
+  <packagedElement xmi:type="uml:DataType" xmi:id="_UCO_4DlgEeKSeNi1QrK5Rw" name="Map&lt;Transition,TransitionWithArc>"/>
+  <packagedElement xmi:type="uml:DataType" xmi:id="_UCoogDlgEeKSeNi1QrK5Rw" name="Map&lt;TransitionWithArc,Arc>"/>
+  <packagedElement xmi:type="uml:DataType" xmi:id="_UC5HMDlgEeKSeNi1QrK5Rw" name="ArrayList&lt;PlaceWithArc>"/>
+  <packagedElement xmi:type="uml:DataType" xmi:id="_UC7jcDlgEeKSeNi1QrK5Rw" name="Map&lt;PlaceWithArc,Arc>"/>
+</uml:Model>

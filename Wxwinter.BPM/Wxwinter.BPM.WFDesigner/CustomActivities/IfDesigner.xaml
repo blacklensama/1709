@@ -1,0 +1,227 @@
+﻿<sap:ActivityDesigner x:Class="Wxwinter.BPM.WFDesigner.CustomActivities.IfDesigner"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:sap="clr-namespace:System.Activities.Presentation;assembly=System.Activities.Presentation"
+                      xmlns:sapv="clr-namespace:System.Activities.Presentation.View;assembly=System.Activities.Presentation"
+                      xmlns:local="clr-namespace:Wxwinter.BPM.WFDesigner.CustomActivities" 
+                      mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+                       xmlns:main="clr-namespace:Wxwinter.BPM.WFDesigner" xmlns:my="clr-namespace:Wxwinter.BPM.WFDesigner.CustomActivities" d:DesignWidth="511">
+    <sap:ActivityDesigner.Resources>
+        <ResourceDictionary x:Uid="ResourceDictionary_1">
+        <local:OperatorArr x:Key="OpCols" />
+        <local:InputItemArr x:Key="InputItem" />
+            <local:Days x:Key="Days" />
+            <local:Hours x:Key="Hours" />
+            <local:Minutes x:Key="Minutes" />
+            <DataTemplate x:Key="Collapsed">
+            
+            <StackPanel Grid.Column="0"
+                            Grid.Row="0"
+                            Grid.ColumnSpan="3" HorizontalAlignment="Center">
+                <!--       <TextBlock HorizontalAlignment="Center">扩展视图</TextBlock>-->
+                <StackPanel Orientation="Horizontal">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="60" />
+                            <ColumnDefinition Width="100" />
+                            <ColumnDefinition Width="60" />
+                            <ColumnDefinition Width="40" />
+                            <ColumnDefinition Width="100" />
+                        </Grid.ColumnDefinitions>
+
+                        <Label Grid.Column="0">输入条件</Label>
+                        <ComboBox Grid.Column="1"
+                                      x:Name="InputList"
+                                      Width="100"
+                                      HorizontalAlignment="Center"
+                                      ItemsSource="{StaticResource InputItem}" SelectedValue="{Binding Path=ModelItem.conName}"
+                                      DisplayMemberPath=""></ComboBox>
+                        <Label Grid.Column="2">比较符号</Label>
+                        <ComboBox Grid.Column="3"
+                                      x:Name="OperatorList"
+                                      Width="40"
+                                      HorizontalAlignment="Center"
+                                      ItemsSource="{StaticResource OpCols}" SelectedValue="{Binding Path=ModelItem.conOp}"
+                                      DisplayMemberPath=""></ComboBox>
+                            <TextBox Grid.Column="4" Text="{Binding Path=ModelItem.conValue}"></TextBox>
+                    </Grid>
+                </StackPanel>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Key="Expanded">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                 
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0"
+                            Grid.Row="0"
+                            Grid.ColumnSpan="3" HorizontalAlignment="Center">
+             <!--       <TextBlock HorizontalAlignment="Center">扩展视图</TextBlock>-->
+                        <!--chenjian<Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="110" />
+                                <ColumnDefinition Width="40" />
+                                <ColumnDefinition Width="40" />
+                                <ColumnDefinition Width="40" />
+                                <ColumnDefinition Width="40" />
+                                <ColumnDefinition Width="40" />
+                                <ColumnDefinition Width="40" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Column="0">截止时间</Label>
+                            <ComboBox x:Name="day"
+                                      Width="40"
+                                      HorizontalAlignment="Center" MaxDropDownHeight="50"
+                                      ItemsSource="{StaticResource Days}" SelectedValue="{Binding Path=ModelItem.deadDay}"
+                                      DisplayMemberPath="" Grid.Column="1"></ComboBox>
+                            <Label Grid.Column="2">天</Label>
+                            <ComboBox x:Name="hours"
+                                      Width="40" 
+                                      HorizontalAlignment="Center" MaxDropDownHeight="50"
+                                      ItemsSource="{StaticResource Hours}" SelectedValue="{Binding Path=ModelItem.deadHour}"
+                                      DisplayMemberPath="" Grid.Column="3"></ComboBox>
+                            <Label Grid.Column="4">小时</Label>
+                            <ComboBox Grid.Column="5" MaxDropDownHeight="50"
+                                      x:Name="mimnutes"
+                                      Width="40"
+                                      HorizontalAlignment="Center"
+                                      ItemsSource="{StaticResource Minutes}" SelectedValue="{Binding Path=ModelItem.deadMinute}"
+                                      DisplayMemberPath=""></ComboBox>
+                            <Label Grid.Column="6">分钟</Label>
+                        </Grid>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="110" />
+                                <ColumnDefinition Width="40" />
+                                <ColumnDefinition Width="40" />
+                                <ColumnDefinition Width="40" />
+                                <ColumnDefinition Width="40" />
+                                <ColumnDefinition Width="40" />
+                                <ColumnDefinition Width="40" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Column="0">距离上个活动时间</Label>
+                            <ComboBox x:Name="day1"
+                                      Width="40"
+                                      HorizontalAlignment="Center" MaxDropDownHeight="50"
+                                      ItemsSource="{StaticResource Hours}" SelectedValue="{Binding Path=ModelItem.distDay}"
+                                      DisplayMemberPath="" Grid.Column="1"></ComboBox>
+                            <Label Grid.Column="2">天</Label>
+                            <ComboBox x:Name="hours1"
+                                      Width="40"
+                                      HorizontalAlignment="Center" MaxDropDownHeight="50"
+                                      ItemsSource="{StaticResource Hours}" SelectedValue="{Binding Path=ModelItem.distHour}"
+                                      DisplayMemberPath="" Grid.Column="3"></ComboBox>
+                            <Label Grid.Column="4">小时</Label>
+                            <ComboBox Grid.Column="5"
+                                      x:Name="mimnutes1" MaxDropDownHeight="50"
+                                      Width="40"
+                                      HorizontalAlignment="Center"
+                                      ItemsSource="{StaticResource Minutes}" SelectedValue="{Binding Path=ModelItem.distMinute}"
+                                      DisplayMemberPath=""></ComboBox>
+                            <Label Grid.Column="6">分钟</Label>
+                        </Grid>
+                    -->
+                        <StackPanel Orientation="Horizontal">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="60" />
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="60" />
+                                <ColumnDefinition Width="40" />
+                                <ColumnDefinition Width="100" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Column="0">输入条件</Label>
+                            <ComboBox Grid.Column="1"
+                                      x:Name="InputList"
+                                      Width="100"
+                                      HorizontalAlignment="Center"
+                                      ItemsSource="{StaticResource InputItem}" SelectedValue="{Binding Path=ModelItem.conName}"
+                                      DisplayMemberPath=""></ComboBox>
+                            <Label Grid.Column="2">比较符号</Label>
+                            <ComboBox Grid.Column="3"
+                                      x:Name="OperatorList"
+                                      Width="40"
+                                      HorizontalAlignment="Center"
+                                      ItemsSource="{StaticResource OpCols}" SelectedValue="{Binding Path=ModelItem.conOp}"
+                                      DisplayMemberPath=""></ComboBox>
+                                <TextBox Grid.Column="4"  Text="{Binding Path=ModelItem.conValue}"></TextBox>
+                        </Grid>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Grid.Column="0"
+                            Grid.Row="1">
+                    <TextBlock HorizontalAlignment="Center">Then</TextBlock>
+                    <Border BorderBrush="#FFE3E3E3"
+                            BorderThickness="1"
+                            Height="Auto" Width="Auto"
+                            Margin="5">
+                        <sap:WorkflowItemsPresenter HintText="在此处放置活动"
+                                                    FlowDirection="LeftToRight" AllowedItemType="{x:Type main:发起审核活动}"
+                                                    Items="{Binding Path=ModelItem.ThenActivities}">
+                        </sap:WorkflowItemsPresenter>
+                    </Border>
+                </StackPanel>
+                    <StackPanel Grid.Column="1"  Grid.ColumnSpan="2"
+                            Grid.Row="1">
+                    <TextBlock HorizontalAlignment="Center">Else</TextBlock>
+                    <Border BorderBrush="#FFE3E3E3"
+                            BorderThickness="1"
+                            Height="Auto"
+                            Width="Auto"
+                            Margin="5">
+                        <sap:WorkflowItemsPresenter HintText="在此处放置活动"
+                                                    FlowDirection="LeftToRight" AllowedItemType="{x:Type main:发起审核活动}"
+                                                    Items="{Binding Path=ModelItem.ElseActivities}">
+                        </sap:WorkflowItemsPresenter>
+                    </Border>
+                        
+                </StackPanel>
+                   <!--chenjian <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="3">
+                        <TextBlock HorizontalAlignment="Left">等价替换活动</TextBlock>
+                        <sap:WorkflowItemsPresenter HintText="在此处放置等价替换活动"
+                                                    FlowDirection="LeftToRight"
+                                                    Items="{Binding Path=ModelItem.equivalentActivity}">
+                        </sap:WorkflowItemsPresenter>
+                        <TextBlock HorizontalAlignment="Left">异常处理活动</TextBlock>
+                        <sap:WorkflowItemsPresenter HintText="在此处放置异常处理活动"
+                                                    FlowDirection="LeftToRight" AllowedItemType="{x:Type my:ExceptionActivity}"
+                                                    Items="{Binding Path=ModelItem.exceptionActivity}">
+                        </sap:WorkflowItemsPresenter>
+                    </StackPanel>-->
+                </Grid>
+        </DataTemplate>
+        <Style x:Key="ExpandOrCollapsedStyle"
+               TargetType="{x:Type ContentPresenter}">
+            <Setter Property="ContentTemplate"
+                    Value="{DynamicResource Expanded}" />
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding Path=ShowExpanded}"
+                             Value="false">
+                    <Setter Property="ContentTemplate"
+                            Value="{DynamicResource Expanded}" />
+                </DataTrigger>
+                
+            </Style.Triggers>
+        </Style>
+        </ResourceDictionary>
+        
+    </sap:ActivityDesigner.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="306" />
+            <ColumnDefinition Width="54" />
+        </Grid.ColumnDefinitions>
+        <ContentPresenter Style="{DynamicResource ExpandOrCollapsedStyle}"
+                          Content="{Binding}" Grid.ColumnSpan="2" />
+    </Grid>
+</sap:ActivityDesigner>

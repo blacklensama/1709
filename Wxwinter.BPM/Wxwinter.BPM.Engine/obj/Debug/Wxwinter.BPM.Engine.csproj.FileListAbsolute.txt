@@ -1,0 +1,147 @@
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.dll
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.pdb
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.XMLTool.dll
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.XMLTool.pdb
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\ResolveAssemblyReference.cache
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.dll
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.pdb
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.baml
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.g.cs
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine_MarkupCompile.cache
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.g.resources
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.baml
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.g.cs
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.dll
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.pdb
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.XMLTool.dll
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.XMLTool.pdb
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\ResolveAssemblyReference.cache
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.baml
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.baml
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.g.cs
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.g.cs
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine_MarkupCompile.cache
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.g.resources
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.dll
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.pdb
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.dll
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.pdb
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\ResolveAssemblyReference.cache
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.baml
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.baml
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.g.cs
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.g.cs
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine_MarkupCompile.cache
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.g.resources
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.dll
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.pdb
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.dll
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.pdb
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\ResolveAssemblyReference.cache
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.baml
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.baml
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.g.cs
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.g.cs
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine_MarkupCompile.cache
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.g.resources
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.dll
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine_MarkupCompile.cache
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.g.resources
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine_MarkupCompile.cache
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.g.resources
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\ResolveAssemblyReference.cache
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine_MarkupCompile.cache
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.g.resources
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\ResolveAssemblyReference.cache
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine_MarkupCompile.cache
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.g.resources
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\ResolveAssemblyReference.cache
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine_MarkupCompile.cache
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.g.resources
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\ResolveAssemblyReference.cache
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine_MarkupCompile.cache
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.g.resources
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.Engine.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Engine\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\ResolveAssemblyReference.cache
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\controlControl.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\runInfoControl.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine_MarkupCompile.cache
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.g.resources
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Engine\obj\Debug\Wxwinter.BPM.Engine.pdb

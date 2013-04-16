@@ -1,0 +1,684 @@
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\flowChar.xaml
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+d:\users\wxd\documents\visual studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+D:\Users\wxd\Documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\activityTreeControl.g.cs
+D:\Users\wxd\Documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\wxd\Documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+D:\Users\wxd\Documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\activityTreeControl.baml
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\activityTreeControl.g.cs
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\activityTreeControl.baml
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.XMLTool.dll
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.XMLTool.pdb
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\sequence.xaml
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\sequence.xaml.txt
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+D:\Users\wxd\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\sequence.xaml
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\sequence.xaml.txt
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.XMLTool.dll
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.XMLTool.pdb
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\activityTreeControl.g.cs
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\activityTreeControl.baml
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+F:\资料\NET4笔记\WF4笔记\wfB2\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\activityTreeControl.g.cs
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\sequence.xaml
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\sequence.xaml.txt
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.XMLTool.dll
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.XMLTool.pdb
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\activityTreeControl.baml
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Microsoft.VisualStudio.Activities.dll
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_Content.g.cs
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\toolBarImage\resultBookmark.png
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.baml
+E:\myConfig\Desktop\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.g.cs
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Microsoft.VisualStudio.Activities.dll
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\toolBarImage\resultBookmark.png
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.XMLTool.dll
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.XMLTool.pdb
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.baml
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.g.cs
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_Content.g.cs
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.dll
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.pdb
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\标准流程图.xaml
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\标准流程图.xaml.txt
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.baml
+F:\资料\1_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.g.cs
+F:\资料\01_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+F:\资料\01_开发笔记\04_WF4\myBook\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Microsoft.VisualStudio.Activities.dll
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\标准流程图.xaml
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\标准流程图.xaml.txt
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\toolBarImage\resultBookmark.png
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.dll
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.XMLTool.dll
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.pdb
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.XMLTool.pdb
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.baml
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.baml
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.g.cs
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.g.cs
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_Content.g.cs
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.baml
+F:\资料\01_开发笔记\04_WF4\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.g.cs
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.baml
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.baml
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.baml
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.g.cs
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.g.cs
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.g.cs
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_Content.g.cs
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Microsoft.VisualStudio.Activities.dll
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\标准流程图.xaml
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\标准流程图.xaml.txt
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\toolBarImage\resultBookmark.png
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.dll
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.pdb
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Microsoft.VisualStudio.Activities.dll
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\标准流程图.xaml
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\标准流程图.xaml.txt
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\toolBarImage\resultBookmark.png
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.dll
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.pdb
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.baml
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.baml
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.baml
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.g.cs
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.g.cs
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.g.cs
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_Content.g.cs
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+D:\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Microsoft.VisualStudio.Activities.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\toolBarImage\resultBookmark.png
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_Content.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml.txt
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml.txt
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Microsoft.VisualStudio.Activities.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml.txt
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml.txt
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\toolBarImage\resultBookmark.png
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_Content.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ButtonControlDesigner.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ButtonControlDesigner.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_Content.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Microsoft.VisualStudio.Activities.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml.txt
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml.txt
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\toolBarImage\resultBookmark.png
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Microsoft.VisualStudio.Activities.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml.txt
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml.txt
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\toolBarImage\resultBookmark.png
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ButtonControlDesigner.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ButtonControlDesigner.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_Content.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\WPFToolkit.Extended.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Microsoft.VisualStudio.Activities.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml.txt
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml.txt
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\toolBarImage\resultBookmark.png
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\WPFToolkit.Extended.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ButtonControlDesigner.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ButtonControlDesigner.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_Content.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\MainWindow.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\MainWindow.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ButtonControlDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ButtonControlDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\MainWindow.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_Content.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Microsoft.VisualStudio.Activities.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml.txt
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml.txt
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\toolBarImage\resultBookmark.png
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe.config
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\WPFToolkit.Extended.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\MainWindow.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Microsoft.VisualStudio.Activities.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.exe
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\WPFToolkit.Extended.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Engine.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.Machine.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WorkflowStruct.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.UserDesigner.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ButtonControlDesigner.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\CreateWFModelWindow.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ButtonControlDesigner.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\CreateWFModelWindow.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\openChildWorkflowWindow.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\MainWindow.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_Content.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.lref
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\MainWindow.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.g.resources
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.Properties.Resources.resources
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe.config
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\readme.txt
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\activityBuilder.xaml.txt
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\流程图.xaml.txt
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\template\状态机.xaml.txt
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\toolBarImage\resultBookmark.png
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe.config
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe.config
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\bin\Debug\Wxwinter.BPM.WFDesigner.exe.config
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.exe
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ActivityDesigner1.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ButtonControlDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\CustomActivities\ElseDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\CustomActivities\ThenDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\configuration.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\CreateWFModelWindow.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\OpenUserDialog.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\OpenWorkflowWindow.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\OpenTemplateDialog.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\OpenUserGroupDialog.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\EndNodeDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\TemplateSelection.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\UserSelection.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Window1.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ActivityDesigner1.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\ButtonControlDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\CustomActivities\ElseDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\CustomActivities\EquivalentDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\CustomActivities\ExceptionDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\CustomActivities\IfConditionDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\CustomActivities\IfDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\CustomActivities\ParallelDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\CustomActivities\SequenceDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\CustomActivities\ThenDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\CustomActivities\WhileDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\designWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\addArgumentWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\configuration.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\CreateWFModelWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\createWorkflowWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\OpenUserDialog.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\OpenWorkflowWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\startWorkflowWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\OpenTemplateDialog.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\dialog\OpenUserGroupDialog.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\EndNodeDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\resultBookmarkDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\TemplateDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\TemplateSelection.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\UserDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\UserSelection.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Window1.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\发起审核活动Desinger.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\App.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_Content.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.cache
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Debug\Wxwinter.BPM.WFDesigner_MarkupCompile.lref

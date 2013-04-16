@@ -1,0 +1,27 @@
+#
+#Thu Feb 21 20:42:38 CST 2013
+CAS__IP=localhost
+TEMPLATE_USER=root
+TEMPLATE_NAME=template
+EMAIL_PORT=25
+TEMPLATE_DB_URL=jdbc\:mysql\://localhost\:3306/template?useUnicode\=true&characterEncoding\=utf8
+EMAIL_SMTP=smtp.mail.yahoo.com.cn
+MODELDATA_NAME=modeldatabase
+REPEAT_SIZE=12
+WORKFLOW_IP=localhost
+MODELDATA_USER=root
+TOMCAT_IP=localhost\:8080
+CAS_USER=root
+WORKFLOW_USER=root
+WORKFLOW_DB_URL=jdbc\:mysql\://localhost\:3306/workflow?useUnicode\=true&characterEncoding\=utf8
+WORKFLOW_NAME=workflow
+MODELDATA_IP=localhost
+TEMPLATE_PASSWORD=131127
+WORKFLOW_PASSWORD=131127
+EMAIL_ADDRESS=newmainbuild@yahoo.cn
+MODELDATA_DB_URL=jdbc\:mysql\://localhost\:3306/modeldatabase?useUnicode\=true&characterEncoding\=utf8
+TEMPLATE_IP=localhost
+CAS_DB_URL=jdbc\:mysql\://localhost\:3306/cas?useUnicode\=true&characterEncoding\=utf8
+CAS_PASSWORD=131127
+MODELDATA_PASSWORD=131127
+EMAIL_PASSWORD=131127chenjian

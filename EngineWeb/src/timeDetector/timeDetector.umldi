@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrams:Diagrams xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.topcased.org/DI/1.0" xmlns:diagrams="http://www.topcased.org/Diagrams/1.0" xmi:id="_6ru_QD-BEeKTgbWAxIAH-Q" activeDiagram="_6ru_QT-BEeKTgbWAxIAH-Q">
+  <model href="timeDetector.uml#_qb8akM37EdqwVrslYOdUDA"/>
+  <diagrams xmi:id="_6ru_QT-BEeKTgbWAxIAH-Q" position="0,0" size="100,100" name="timeDetector" viewport="0,232">
+    <property xmi:id="_6sLrMD-BEeKTgbWAxIAH-Q" key="pageFormatName" value=""/>
+    <property xmi:id="_6sLrMT-BEeKTgbWAxIAH-Q" key="diagramWidth" value="1099"/>
+    <property xmi:id="_6sLrMj-BEeKTgbWAxIAH-Q" key="diagramHeight" value="1413"/>
+    <property xmi:id="_6sLrMz-BEeKTgbWAxIAH-Q" key="pageMarginName" value=""/>
+    <property xmi:id="_6sLrND-BEeKTgbWAxIAH-Q" key="diagramTopMargin" value="20"/>
+    <property xmi:id="_6sLrNT-BEeKTgbWAxIAH-Q" key="diagramBottomMargin" value="20"/>
+    <property xmi:id="_6sLrNj-BEeKTgbWAxIAH-Q" key="diagramLeftMargin" value="20"/>
+    <property xmi:id="_6sLrNz-BEeKTgbWAxIAH-Q" key="diagramRightMargin" value="20"/>
+    <property xmi:id="_6sLrOD-BEeKTgbWAxIAH-Q" key="orientation" value="portrait"/>
+    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_6ru_Qj-BEeKTgbWAxIAH-Q" presentation="org.topcased.modeler.uml.classdiagram">
+      <element href="timeDetector.uml#_qb8akM37EdqwVrslYOdUDA"/>
+    </semanticModel>
+    <contained xsi:type="di:GraphNode" xmi:id="_721gcD-BEeKTgbWAxIAH-Q" position="34,30" size="990,1307">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_721gcT-BEeKTgbWAxIAH-Q">
+        <element href="timeDetector.uml#_7oLZYD-BEeKTgbWAxIAH-Q"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_BBj44D-CEeKTgbWAxIAH-Q" position="2,773" size="523,-1">
+        <anchorage xmi:id="_rp7-kD-CEeKTgbWAxIAH-Q" graphEdge="_uDjhUD-CEeKTgbWAxIAH-Q _9bCosD-CEeKTgbWAxIAH-Q"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj44T-CEeKTgbWAxIAH-Q">
+          <element href="timeDetector.uml#_AzLeoT-CEeKTgbWAxIAH-Q"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_BBj44j-CEeKTgbWAxIAH-Q">
+          <property xmi:id="_BBj44z-CEeKTgbWAxIAH-Q" key="eStructuralFeatureID" value="37"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj45D-CEeKTgbWAxIAH-Q">
+            <element href="timeDetector.uml#_AzLeoT-CEeKTgbWAxIAH-Q"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj45T-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj45j-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A42BwD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj45z-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj46D-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A49WgD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj46T-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj46j-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A5DdID-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj46z-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj47D-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A5I8sD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj47T-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj47j-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A5PDUD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj47z-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj48D-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A5VJ8D-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj48T-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj48j-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A5bQkD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj48z-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj49D-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A5hXMD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_BBj49T-CEeKTgbWAxIAH-Q">
+          <property xmi:id="_BBj49j-CEeKTgbWAxIAH-Q" key="eStructuralFeatureID" value="47"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj49z-CEeKTgbWAxIAH-Q">
+            <element href="timeDetector.uml#_AzLeoT-CEeKTgbWAxIAH-Q"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj4-D-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj4-T-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A5kagD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj4-j-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj4-z-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A5nd0D-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj4_D-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj4_T-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A5rIMD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj4_j-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj4_z-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A5uLgD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj5AD-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj5AT-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A5x14D-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj5Aj-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj5Az-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A51gQD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj5BD-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj5BT-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A55KoD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj5Bj-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj5Bz-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A58N8D-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj5CD-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj5CT-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A6BtgD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj5Cj-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj5Cz-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A6Ew0D-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj5DD-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj5DT-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A6IbMD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj5Dj-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj5Dz-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A6LegD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj5ED-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj5ET-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A6Zg8D-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj5Ej-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj5Ez-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A6dLUD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj5FD-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj5FT-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A6g1sD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj5Fj-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj5Fz-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A6kgED-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_BBj5GD-CEeKTgbWAxIAH-Q" position="128,324">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BBj5GT-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_A6oxgD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_CLmqID-CEeKTgbWAxIAH-Q" position="683,260" size="215,-1">
+        <anchorage xmi:id="_CgI6QD-DEeKTgbWAxIAH-Q" graphEdge="_CgKvcD-DEeKTgbWAxIAH-Q _EXfdcD-DEeKTgbWAxIAH-Q"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_CLmqIT-CEeKTgbWAxIAH-Q">
+          <element href="timeDetector.uml#_B-98UD-CEeKTgbWAxIAH-Q"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_CLmqIj-CEeKTgbWAxIAH-Q">
+          <property xmi:id="_CLmqIz-CEeKTgbWAxIAH-Q" key="eStructuralFeatureID" value="37"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_CLmqJD-CEeKTgbWAxIAH-Q">
+            <element href="timeDetector.uml#_B-98UD-CEeKTgbWAxIAH-Q"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_CLmqJT-CEeKTgbWAxIAH-Q" position="696,223">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_CLmqJj-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_CEZ18D-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_CLmqJz-CEeKTgbWAxIAH-Q" position="696,223">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_CLmqKD-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_CEcSMD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_CLmqKT-CEeKTgbWAxIAH-Q" position="696,223">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_CLmqKj-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_CEpGgD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_CLmqKz-CEeKTgbWAxIAH-Q">
+          <property xmi:id="_CLmqLD-CEeKTgbWAxIAH-Q" key="eStructuralFeatureID" value="47"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_CLmqLT-CEeKTgbWAxIAH-Q">
+            <element href="timeDetector.uml#_B-98UD-CEeKTgbWAxIAH-Q"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_CLmqLj-CEeKTgbWAxIAH-Q" position="696,223">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_CLmqLz-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_CEq7sD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_E1JfQD-CEeKTgbWAxIAH-Q" position="637,34" size="313,-1">
+        <anchorage xmi:id="_IMcVwD-DEeKTgbWAxIAH-Q" graphEdge="_IMdj4D-DEeKTgbWAxIAH-Q"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_E1JfQT-CEeKTgbWAxIAH-Q">
+          <element href="timeDetector.uml#_En2qID-CEeKTgbWAxIAH-Q"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_E1JfQj-CEeKTgbWAxIAH-Q">
+          <property xmi:id="_E1JfQz-CEeKTgbWAxIAH-Q" key="eStructuralFeatureID" value="37"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_E1JfRD-CEeKTgbWAxIAH-Q">
+            <element href="timeDetector.uml#_En2qID-CEeKTgbWAxIAH-Q"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_E1JfRT-CEeKTgbWAxIAH-Q" position="608,141">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_E1JfRj-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_EtlesD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_E1JfRz-CEeKTgbWAxIAH-Q" position="608,141">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_E1JfSD-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_EtpJED-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_E1JfST-CEeKTgbWAxIAH-Q" position="608,141">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_E1JfSj-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_EtsMYD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_E1JfSz-CEeKTgbWAxIAH-Q">
+          <property xmi:id="_E1JfTD-CEeKTgbWAxIAH-Q" key="eStructuralFeatureID" value="47"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_E1JfTT-CEeKTgbWAxIAH-Q">
+            <element href="timeDetector.uml#_En2qID-CEeKTgbWAxIAH-Q"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_E1JfTj-CEeKTgbWAxIAH-Q" position="608,141">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_E1JfTz-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_EtuBkD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_E1JfUD-CEeKTgbWAxIAH-Q" position="608,141">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_E1JfUT-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_EtyTAT-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_E1JfUj-CEeKTgbWAxIAH-Q" position="608,141">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_E1JfUz-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_Et0IMT-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_E1JfVD-CEeKTgbWAxIAH-Q" position="608,141">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_E1JfVT-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_Et19YD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_723VoD-BEeKTgbWAxIAH-Q" position="107,484" size="740,-1">
+        <anchorage xmi:id="_9bAzgD-CEeKTgbWAxIAH-Q" graphEdge="_9bCosD-CEeKTgbWAxIAH-Q _CgKvcD-DEeKTgbWAxIAH-Q _MXgA8D-DEeKTgbWAxIAH-Q"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723VoT-BEeKTgbWAxIAH-Q">
+          <element href="timeDetector.uml#_7oMngD-BEeKTgbWAxIAH-Q"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_723Voj-BEeKTgbWAxIAH-Q">
+          <property xmi:id="_723Voz-BEeKTgbWAxIAH-Q" key="eStructuralFeatureID" value="37"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723VpD-BEeKTgbWAxIAH-Q">
+            <element href="timeDetector.uml#_7oMngD-BEeKTgbWAxIAH-Q"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_723VpT-BEeKTgbWAxIAH-Q" position="69,45">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723Vpj-BEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_7uF0ID-BEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_723Vpz-BEeKTgbWAxIAH-Q" position="69,45">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723VqD-BEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_7uVEsD-BEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_723VqT-BEeKTgbWAxIAH-Q" position="69,45">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723Vqj-BEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_7uigED-BEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_723Vqz-BEeKTgbWAxIAH-Q" position="69,45">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723VrD-BEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_7uwigD-BEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_723VrT-BEeKTgbWAxIAH-Q" position="69,45">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723Vrj-BEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_7vI9AD-BEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_723Vrz-BEeKTgbWAxIAH-Q">
+          <property xmi:id="_723VsD-BEeKTgbWAxIAH-Q" key="eStructuralFeatureID" value="47"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723VsT-BEeKTgbWAxIAH-Q">
+            <element href="timeDetector.uml#_7oMngD-BEeKTgbWAxIAH-Q"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_723Vsj-BEeKTgbWAxIAH-Q" position="69,45">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723Vsz-BEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_7vQRwD-BEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_723VtD-BEeKTgbWAxIAH-Q" position="69,45">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723VtT-BEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_7vYNkD-BEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_723Vtj-BEeKTgbWAxIAH-Q" position="69,45">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723Vtz-BEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_7ve7QD-BEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_723VuD-BEeKTgbWAxIAH-Q" position="69,45">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723VuT-BEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_7vmQAD-BEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_723Vuj-BEeKTgbWAxIAH-Q" position="69,45">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723Vuz-BEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_7vs9sD-BEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_723VvD-BEeKTgbWAxIAH-Q" position="69,45">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723VvT-BEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_7vzrYD-BEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_723Vvj-BEeKTgbWAxIAH-Q" position="69,45">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_723Vvz-BEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_7v7AID-BEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_uDjhUD-CEeKTgbWAxIAH-Q" anchor="_i5jHAD-CEeKTgbWAxIAH-Q _rp7-kD-CEeKTgbWAxIAH-Q">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_uDjhUT-CEeKTgbWAxIAH-Q" presentation="default">
+          <element href="timeDetector.uml#_uDlWgD-CEeKTgbWAxIAH-Q"/>
+        </semanticModel>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_uDjhUj-CEeKTgbWAxIAH-Q" id="stereotypeEdgeObject"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_uDjhUz-CEeKTgbWAxIAH-Q" id="middleNameEdgeObject" offset="-27,126"/>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_DUNQ8D-CEeKTgbWAxIAH-Q" position="100,2" size="437,-1">
+        <anchorage xmi:id="_i5jHAD-CEeKTgbWAxIAH-Q" graphEdge="_uDjhUD-CEeKTgbWAxIAH-Q _EXfdcD-DEeKTgbWAxIAH-Q _IMdj4D-DEeKTgbWAxIAH-Q _MXgA8D-DEeKTgbWAxIAH-Q"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUNQ8T-CEeKTgbWAxIAH-Q">
+          <element href="timeDetector.uml#_DGaFgD-CEeKTgbWAxIAH-Q"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_DUNQ8j-CEeKTgbWAxIAH-Q">
+          <property xmi:id="_DUNQ8z-CEeKTgbWAxIAH-Q" key="eStructuralFeatureID" value="37"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUNQ9D-CEeKTgbWAxIAH-Q">
+            <element href="timeDetector.uml#_DGaFgD-CEeKTgbWAxIAH-Q"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUNQ9T-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUNQ9j-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DL4bYD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUNQ9z-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUNQ-D-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DL8s0D-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUNQ-T-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUNQ-j-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DMBlUD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUNQ-z-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUNQ_D-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DMGd0D-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUNQ_T-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUNQ_j-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DMLWUD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUNQ_z-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUNRAD-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DMPnwD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4AD-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4AT-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DMT5MD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4Aj-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4Az-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DMiisD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4BD-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4BT-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DMoCQD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+        </contained>
+        <contained xsi:type="di:GraphNode" xmi:id="_DUN4Bj-CEeKTgbWAxIAH-Q">
+          <property xmi:id="_DUN4Bz-CEeKTgbWAxIAH-Q" key="eStructuralFeatureID" value="47"/>
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4CD-CEeKTgbWAxIAH-Q">
+            <element href="timeDetector.uml#_DGaFgD-CEeKTgbWAxIAH-Q"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4CT-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4Cj-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DMqegD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4Cz-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4DD-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DMth0D-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4DT-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4Dj-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DMv-ED-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4Dz-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4ED-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DMyaUD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4ET-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4Ej-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DM1doD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4Ez-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4FD-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DM4g8D-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4FT-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4Fj-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DM69MT-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4Fz-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4GD-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DM9ZcD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4GT-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4Gj-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DNAcwD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4Gz-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4HD-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DNC5AD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4HT-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4Hj-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DNFVQD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4Hz-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4ID-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DNI_oD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4IT-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4Ij-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DNMC8D-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+          <contained xsi:type="di:GraphNode" xmi:id="_DUN4Iz-CEeKTgbWAxIAH-Q" position="536,126">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_DUN4JD-CEeKTgbWAxIAH-Q">
+              <element href="timeDetector.uml#_DNPGQD-CEeKTgbWAxIAH-Q"/>
+            </semanticModel>
+          </contained>
+        </contained>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_9bCosD-CEeKTgbWAxIAH-Q" anchor="_9bAzgD-CEeKTgbWAxIAH-Q _rp7-kD-CEeKTgbWAxIAH-Q">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_9bCosT-CEeKTgbWAxIAH-Q" presentation="default">
+          <element href="timeDetector.uml#_9bEd4D-CEeKTgbWAxIAH-Q"/>
+        </semanticModel>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_9bCosj-CEeKTgbWAxIAH-Q" id="stereotypeEdgeObject"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_9bCosz-CEeKTgbWAxIAH-Q" id="middleNameEdgeObject" offset="35,0"/>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_CgKvcD-DEeKTgbWAxIAH-Q" anchor="_9bAzgD-CEeKTgbWAxIAH-Q _CgI6QD-DEeKTgbWAxIAH-Q">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_CgKvcT-DEeKTgbWAxIAH-Q" presentation="default">
+          <element href="timeDetector.uml#_CgL9kD-DEeKTgbWAxIAH-Q"/>
+        </semanticModel>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_CgKvcj-DEeKTgbWAxIAH-Q" id="stereotypeEdgeObject"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_CgKvcz-DEeKTgbWAxIAH-Q" id="middleNameEdgeObject" offset="26,-2"/>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_EXfdcD-DEeKTgbWAxIAH-Q" anchor="_CgI6QD-DEeKTgbWAxIAH-Q _i5jHAD-CEeKTgbWAxIAH-Q">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_EXfdcT-DEeKTgbWAxIAH-Q" presentation="default">
+          <element href="timeDetector.uml#_EXgrkD-DEeKTgbWAxIAH-Q"/>
+        </semanticModel>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_EXfdcj-DEeKTgbWAxIAH-Q" id="stereotypeEdgeObject"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_EXfdcz-DEeKTgbWAxIAH-Q" id="middleNameEdgeObject" offset="0,20"/>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_IMdj4D-DEeKTgbWAxIAH-Q" anchor="_i5jHAD-CEeKTgbWAxIAH-Q _IMcVwD-DEeKTgbWAxIAH-Q">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_IMdj4T-DEeKTgbWAxIAH-Q" presentation="default">
+          <element href="timeDetector.uml#_IMfZED-DEeKTgbWAxIAH-Q"/>
+        </semanticModel>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_IMdj4j-DEeKTgbWAxIAH-Q" id="stereotypeEdgeObject"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_IMdj4z-DEeKTgbWAxIAH-Q" id="middleNameEdgeObject" offset="0,20"/>
+      </contained>
+      <contained xsi:type="di:GraphEdge" xmi:id="_MXgA8D-DEeKTgbWAxIAH-Q" anchor="_9bAzgD-CEeKTgbWAxIAH-Q _i5jHAD-CEeKTgbWAxIAH-Q">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_MXgA8T-DEeKTgbWAxIAH-Q" presentation="default">
+          <element href="timeDetector.uml#_MXh2ID-DEeKTgbWAxIAH-Q"/>
+        </semanticModel>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_MXgA8j-DEeKTgbWAxIAH-Q" id="stereotypeEdgeObject"/>
+        <contained xsi:type="di:EdgeObjectOffset" xmi:id="_MXgA8z-DEeKTgbWAxIAH-Q" id="middleNameEdgeObject" offset="32,0"/>
+      </contained>
+    </contained>
+  </diagrams>
+</diagrams:Diagrams>

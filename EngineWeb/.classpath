@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_6_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="refers/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="refers/jdbc.jar"/>
+	<classpathentry kind="lib" path="refers/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="refers/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="refers/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="refers/poolman.jar"/>
+	<classpathentry kind="lib" path="refers/emailJar/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="refers/emailJar/htmllexer.jar"/>
+	<classpathentry kind="lib" path="refers/emailJar/htmlparser.jar"/>
+	<classpathentry kind="lib" path="refers/emailJar/jdbc.jar"/>
+	<classpathentry kind="lib" path="refers/emailJar/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="refers/emailJar/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="refers/emailJar/jsoup-1.6.3.jar"/>
+	<classpathentry kind="lib" path="refers/emailJar/mail.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files/Java/html_zh_CN.zip!/html/zh_CN/api"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="refers/emailJar/morph-sandbox-1.1.1.jar"/>
+	<classpathentry kind="lib" path="refers/emailJar/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="refers/emailJar/sitecapturer.jar"/>
+	<classpathentry kind="lib" path="refers/emailJar/thumbelina.jar"/>
+	<classpathentry kind="lib" path="refers/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="refers/junit-4.1.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

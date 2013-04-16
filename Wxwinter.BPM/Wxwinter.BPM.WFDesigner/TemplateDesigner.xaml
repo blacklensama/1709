@@ -1,0 +1,61 @@
+﻿<sap:ActivityDesigner x:Class="Wxwinter.BPM.WFDesigner.TemplateDesigner"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:sap="clr-namespace:System.Activities.Presentation;assembly=System.Activities.Presentation"
+                      xmlns:sapv="clr-namespace:System.Activities.Presentation.View;assembly=System.Activities.Presentation"
+                      xmlns:local="clr-namespace:Wxwinter.BPM.WFDesigner" 
+                      MinWidth="30"  MinHeight="30"  Height="114"
+                      Width="130"
+                      mc:Ignorable="d"
+                      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                       Collapsible="False"
+                      Visibility="Visible"
+                      FocusManager.FocusedElement="{Binding RelativeSource={x:Static RelativeSource.Self}, Mode=OneTime}">
+
+   
+    <sap:ActivityDesigner.Icon>
+    <DrawingBrush>
+
+        <DrawingBrush.Drawing>
+
+            <ImageDrawing>
+
+                <ImageDrawing.Rect>
+
+                    <Rect Location="0,0" Size="16,16" ></Rect>
+
+                </ImageDrawing.Rect>
+
+                <ImageDrawing.ImageSource>
+
+                    <BitmapImage UriSource="/Wxwinter.BPM.WFDesigner;component/toolBarImage/template.png" ></BitmapImage>
+
+                </ImageDrawing.ImageSource>
+
+            </ImageDrawing>
+
+        </DrawingBrush.Drawing>
+
+    </DrawingBrush>
+
+    </sap:ActivityDesigner.Icon>
+  
+    <StackPanel Height="77">
+        
+        <Image 
+           Name="image1" Width="58" Height="52"
+           Stretch="Fill" Source="/Wxwinter.BPM.WFDesigner;component/toolBarImage/template.png"
+           Grid.ColumnSpan="2"
+           StretchDirection="Both">
+        
+    </Image>
+        <DockPanel>
+            <TextBlock FontWeight="Bold" Text="名称：" Height="25" />
+            <TextBox Text="{Binding Path=ModelItem.Name}" Width="60"  IsEnabled="False" Name="name" />
+            <Button Content="..." Height="23" Name="button1" Width="20"  Click="button1_Click"/>
+            <TextBox   Text="{Binding Path=ModelItem.Name}" Height="28" Name="tb_name"  />
+        </DockPanel>
+        
+    </StackPanel>
+</sap:ActivityDesigner>

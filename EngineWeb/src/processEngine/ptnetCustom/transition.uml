@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_qb8akM37EdqwVrslYOdUDA" name="transition">
+  <packagedElement xmi:type="uml:Package" xmi:id="_8GwW0DliEeKSeNi1QrK5Rw" name="cn">
+    <packagedElement xmi:type="uml:Package" xmi:id="_8GwW0TliEeKSeNi1QrK5Rw" name="edu">
+      <packagedElement xmi:type="uml:Package" xmi:id="_8Gw94DliEeKSeNi1QrK5Rw" name="buaa">
+        <packagedElement xmi:type="uml:Package" xmi:id="_8Gw94TliEeKSeNi1QrK5Rw" name="processEngine">
+          <packagedElement xmi:type="uml:Package" xmi:id="_8Gw94jliEeKSeNi1QrK5Rw" name="core">
+            <packagedElement xmi:type="uml:Interface" xmi:id="_8Gxk8DliEeKSeNi1QrK5Rw" name="Transition">
+              <ownedComment xmi:id="_8GyzEDliEeKSeNi1QrK5Rw">
+                <body>/** 
+ * @author Yan Biying
+ */
+</body>
+              </ownedComment>
+              <ownedOperation xmi:id="_8L5VgDliEeKSeNi1QrK5Rw" name="barrier" visibility="public">
+                <ownedParameter xmi:id="_8L5VgTliEeKSeNi1QrK5Rw" name="token" type="_8LoPwDliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8L5VgjliEeKSeNi1QrK5Rw" name="src" type="_8LnoszliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8L5VgzliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_8L58kDliEeKSeNi1QrK5Rw" name="process" visibility="public">
+                <ownedParameter xmi:id="_8L58kTliEeKSeNi1QrK5Rw" name="tokens" type="_8LoPwDliEeKSeNi1QrK5Rw">
+                  <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8L58kjliEeKSeNi1QrK5Rw" value="*"/>
+                  <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8L58kzliEeKSeNi1QrK5Rw"/>
+                </ownedParameter>
+                <ownedParameter xmi:id="_8L58lDliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:DataType" xmi:id="_8LnoszliEeKSeNi1QrK5Rw" name="Place"/>
+            <packagedElement xmi:type="uml:DataType" xmi:id="_8LoPwDliEeKSeNi1QrK5Rw" name="Token"/>
+          </packagedElement>
+          <packagedElement xmi:type="uml:Package" xmi:id="_8G12YDliEeKSeNi1QrK5Rw" name="ptnetCustom">
+            <packagedElement xmi:type="uml:Class" xmi:id="_8G2dcDliEeKSeNi1QrK5Rw" name="AndJoinTransition" clientDependency="_8L8Y0DliEeKSeNi1QrK5Rw">
+              <generalization xmi:id="_8L8Y0TliEeKSeNi1QrK5Rw" general="_8G6u4DliEeKSeNi1QrK5Rw"/>
+              <interfaceRealization xmi:id="_8L8Y0DliEeKSeNi1QrK5Rw" name="Transition" supplier="_8Gxk8DliEeKSeNi1QrK5Rw" client="_8G2dcDliEeKSeNi1QrK5Rw" contract="_8Gxk8DliEeKSeNi1QrK5Rw"/>
+              <ownedOperation xmi:id="_8L8_4DliEeKSeNi1QrK5Rw" name="barrier" visibility="public">
+                <ownedParameter xmi:id="_8L8_4TliEeKSeNi1QrK5Rw" name="token" type="_8LoPwDliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8L8_4jliEeKSeNi1QrK5Rw" name="src" type="_8LnoszliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8L8_4zliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_8MAqQDliEeKSeNi1QrK5Rw" name="process" visibility="public">
+                <ownedParameter xmi:id="_8MAqQTliEeKSeNi1QrK5Rw" name="tokens" type="_8LoPwDliEeKSeNi1QrK5Rw">
+                  <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8MAqQjliEeKSeNi1QrK5Rw" value="*"/>
+                  <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8MAqQzliEeKSeNi1QrK5Rw"/>
+                </ownedParameter>
+                <ownedParameter xmi:id="_8MAqRDliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Class" xmi:id="_8G45sDliEeKSeNi1QrK5Rw" name="AndSplitTransition" clientDependency="_8MCfcDliEeKSeNi1QrK5Rw">
+              <generalization xmi:id="_8MCfcTliEeKSeNi1QrK5Rw" general="_8G6u4DliEeKSeNi1QrK5Rw"/>
+              <interfaceRealization xmi:id="_8MCfcDliEeKSeNi1QrK5Rw" name="Transition" supplier="_8Gxk8DliEeKSeNi1QrK5Rw" client="_8G45sDliEeKSeNi1QrK5Rw" contract="_8Gxk8DliEeKSeNi1QrK5Rw"/>
+              <ownedOperation xmi:id="_8MDtkDliEeKSeNi1QrK5Rw" name="barrier" visibility="public">
+                <ownedParameter xmi:id="_8MDtkTliEeKSeNi1QrK5Rw" name="token" type="_8LoPwDliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8MDtkjliEeKSeNi1QrK5Rw" name="src" type="_8LnoszliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8MDtkzliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_8MGJ0DliEeKSeNi1QrK5Rw" name="process" visibility="public">
+                <ownedParameter xmi:id="_8MGJ0TliEeKSeNi1QrK5Rw" name="tokens" type="_8LoPwDliEeKSeNi1QrK5Rw">
+                  <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8MGJ0jliEeKSeNi1QrK5Rw" value="*"/>
+                  <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8MGJ0zliEeKSeNi1QrK5Rw"/>
+                </ownedParameter>
+                <ownedParameter xmi:id="_8MGJ1DliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Class" xmi:id="_8G6u4DliEeKSeNi1QrK5Rw" name="CustomedTransition" clientDependency="_8MImEDliEeKSeNi1QrK5Rw" isAbstract="true">
+              <ownedAttribute xmi:id="_8NreMDliEeKSeNi1QrK5Rw" name="id" visibility="protected">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+                <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_8NreMTliEeKSeNi1QrK5Rw"/>
+              </ownedAttribute>
+              <ownedAttribute xmi:id="_8Nyy8DliEeKSeNi1QrK5Rw" name="buf" visibility="protected" type="_8NwWsDliEeKSeNi1QrK5Rw">
+                <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8Nyy8TliEeKSeNi1QrK5Rw" value="*"/>
+                <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8Nyy8jliEeKSeNi1QrK5Rw"/>
+              </ownedAttribute>
+              <ownedAttribute xmi:id="_8N3EYDliEeKSeNi1QrK5Rw" name="inputPlaceCount" visibility="protected">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+                <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_8N3EYTliEeKSeNi1QrK5Rw"/>
+              </ownedAttribute>
+              <interfaceRealization xmi:id="_8MImEDliEeKSeNi1QrK5Rw" name="Transition" supplier="_8Gxk8DliEeKSeNi1QrK5Rw" client="_8G6u4DliEeKSeNi1QrK5Rw" contract="_8Gxk8DliEeKSeNi1QrK5Rw"/>
+              <ownedOperation xmi:id="_8N45kDliEeKSeNi1QrK5Rw" name="getId" visibility="public">
+                <ownedParameter xmi:id="_8N45kTliEeKSeNi1QrK5Rw" name="return" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_8N7V0DliEeKSeNi1QrK5Rw" name="setId" visibility="public">
+                <ownedParameter xmi:id="_8N7V0TliEeKSeNi1QrK5Rw" name="id">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_8N9yEDliEeKSeNi1QrK5Rw" name="addInputPlace" visibility="public"/>
+              <ownedOperation xmi:id="_8OAOUDliEeKSeNi1QrK5Rw" name="getInputPlaceCount" visibility="public">
+                <ownedParameter xmi:id="_8OAOUTliEeKSeNi1QrK5Rw" name="return" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+                </ownedParameter>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Class" xmi:id="_8G9yMDliEeKSeNi1QrK5Rw" name="OrSplitTransition" clientDependency="_8OCDgDliEeKSeNi1QrK5Rw">
+              <generalization xmi:id="_8OCDgTliEeKSeNi1QrK5Rw" general="_8G6u4DliEeKSeNi1QrK5Rw"/>
+              <interfaceRealization xmi:id="_8OCDgDliEeKSeNi1QrK5Rw" name="Transition" supplier="_8Gxk8DliEeKSeNi1QrK5Rw" client="_8G9yMDliEeKSeNi1QrK5Rw" contract="_8Gxk8DliEeKSeNi1QrK5Rw"/>
+              <ownedOperation xmi:id="_8ODRoDliEeKSeNi1QrK5Rw" name="barrier" visibility="public">
+                <ownedParameter xmi:id="_8ODRoTliEeKSeNi1QrK5Rw" name="token" type="_8LoPwDliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8ODRojliEeKSeNi1QrK5Rw" name="src" type="_8LnoszliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8ODRozliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_8OQF8DliEeKSeNi1QrK5Rw" name="process" visibility="public">
+                <ownedParameter xmi:id="_8OQF8TliEeKSeNi1QrK5Rw" name="tokens" type="_8LoPwDliEeKSeNi1QrK5Rw">
+                  <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8OQF8jliEeKSeNi1QrK5Rw" value="*"/>
+                  <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8OQF8zliEeKSeNi1QrK5Rw"/>
+                </ownedParameter>
+                <ownedParameter xmi:id="_8OQF9DliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Class" xmi:id="_8G_nYDliEeKSeNi1QrK5Rw" name="ExceptionTransition" clientDependency="_8OR7IDliEeKSeNi1QrK5Rw">
+              <generalization xmi:id="_8OSiMDliEeKSeNi1QrK5Rw" general="_8G6u4DliEeKSeNi1QrK5Rw"/>
+              <interfaceRealization xmi:id="_8OR7IDliEeKSeNi1QrK5Rw" name="Transition" supplier="_8Gxk8DliEeKSeNi1QrK5Rw" client="_8G_nYDliEeKSeNi1QrK5Rw" contract="_8Gxk8DliEeKSeNi1QrK5Rw"/>
+              <ownedOperation xmi:id="_8OTJQDliEeKSeNi1QrK5Rw" name="barrier" visibility="public">
+                <ownedParameter xmi:id="_8OTJQTliEeKSeNi1QrK5Rw" name="token" type="_8LoPwDliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8OTJQjliEeKSeNi1QrK5Rw" name="src" type="_8LnoszliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8OTJQzliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_8OU-cDliEeKSeNi1QrK5Rw" name="process" visibility="public">
+                <ownedParameter xmi:id="_8OU-cTliEeKSeNi1QrK5Rw" name="tokens" type="_8LoPwDliEeKSeNi1QrK5Rw">
+                  <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8OU-cjliEeKSeNi1QrK5Rw" value="*"/>
+                  <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8OU-czliEeKSeNi1QrK5Rw"/>
+                </ownedParameter>
+                <ownedParameter xmi:id="_8OU-dDliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Class" xmi:id="_8HBckDliEeKSeNi1QrK5Rw" name="ForwardTransition" clientDependency="_8OWzoDliEeKSeNi1QrK5Rw">
+              <ownedComment xmi:id="_8HEf4DliEeKSeNi1QrK5Rw">
+                <body>/** 
+ * Form Forward Transition
+ * responding to forward activity
+ * @author yby
+ */
+</body>
+              </ownedComment>
+              <generalization xmi:id="_8OWzoTliEeKSeNi1QrK5Rw" general="_8G6u4DliEeKSeNi1QrK5Rw"/>
+              <ownedAttribute xmi:id="_8OaeADliEeKSeNi1QrK5Rw" name="users" visibility="private" type="_8Lu9cjliEeKSeNi1QrK5Rw">
+                <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8OaeATliEeKSeNi1QrK5Rw" value="*"/>
+                <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8OaeAjliEeKSeNi1QrK5Rw"/>
+              </ownedAttribute>
+              <interfaceRealization xmi:id="_8OWzoDliEeKSeNi1QrK5Rw" name="Transition" supplier="_8Gxk8DliEeKSeNi1QrK5Rw" client="_8HBckDliEeKSeNi1QrK5Rw" contract="_8Gxk8DliEeKSeNi1QrK5Rw"/>
+              <ownedOperation xmi:id="_8OeIYDliEeKSeNi1QrK5Rw" name="getUsers" visibility="public">
+                <ownedParameter xmi:id="_8OeIYTliEeKSeNi1QrK5Rw" name="return" type="_8Lu9cjliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_8OhywDliEeKSeNi1QrK5Rw" name="setUsers" visibility="public">
+                <ownedParameter xmi:id="_8OhywTliEeKSeNi1QrK5Rw" name="users" type="_8Lu9cjliEeKSeNi1QrK5Rw">
+                  <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8OhywjliEeKSeNi1QrK5Rw" value="*"/>
+                  <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8OhywzliEeKSeNi1QrK5Rw"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_8OldIDliEeKSeNi1QrK5Rw" name="barrier" visibility="public">
+                <ownedParameter xmi:id="_8OldITliEeKSeNi1QrK5Rw" name="token" type="_8LoPwDliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8OldIjliEeKSeNi1QrK5Rw" name="src" type="_8LnoszliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8OldIzliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_8OpukDliEeKSeNi1QrK5Rw" name="process" visibility="public">
+                <ownedParameter xmi:id="_8OpukTliEeKSeNi1QrK5Rw" name="tokens" type="_8LoPwDliEeKSeNi1QrK5Rw">
+                  <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8OpukjliEeKSeNi1QrK5Rw" value="*"/>
+                  <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8OpukzliEeKSeNi1QrK5Rw"/>
+                </ownedParameter>
+                <ownedParameter xmi:id="_8OpulDliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Class" xmi:id="_8HFG8DliEeKSeNi1QrK5Rw" name="OrJoinTransition" clientDependency="_8Osx4DliEeKSeNi1QrK5Rw">
+              <generalization xmi:id="_8OtY8DliEeKSeNi1QrK5Rw" general="_8G6u4DliEeKSeNi1QrK5Rw"/>
+              <interfaceRealization xmi:id="_8Osx4DliEeKSeNi1QrK5Rw" name="Transition" supplier="_8Gxk8DliEeKSeNi1QrK5Rw" client="_8HFG8DliEeKSeNi1QrK5Rw" contract="_8Gxk8DliEeKSeNi1QrK5Rw"/>
+              <ownedOperation xmi:id="_8OunEDliEeKSeNi1QrK5Rw" name="barrier" visibility="public">
+                <ownedParameter xmi:id="_8OunETliEeKSeNi1QrK5Rw" name="token" type="_8LoPwDliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8OunEjliEeKSeNi1QrK5Rw" name="src" type="_8LnoszliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8OunEzliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_8OxDUDliEeKSeNi1QrK5Rw" name="process" visibility="public">
+                <ownedParameter xmi:id="_8OxDUTliEeKSeNi1QrK5Rw" name="tokens" type="_8LoPwDliEeKSeNi1QrK5Rw">
+                  <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8OxDUjliEeKSeNi1QrK5Rw" value="*"/>
+                  <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8OxDUzliEeKSeNi1QrK5Rw"/>
+                </ownedParameter>
+                <ownedParameter xmi:id="_8OxDVDliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Class" xmi:id="_8HG8IDliEeKSeNi1QrK5Rw" name="EquivalentTransition" clientDependency="_8Oy4gDliEeKSeNi1QrK5Rw">
+              <generalization xmi:id="_8Oy4gTliEeKSeNi1QrK5Rw" general="_8G6u4DliEeKSeNi1QrK5Rw"/>
+              <interfaceRealization xmi:id="_8Oy4gDliEeKSeNi1QrK5Rw" name="Transition" supplier="_8Gxk8DliEeKSeNi1QrK5Rw" client="_8HG8IDliEeKSeNi1QrK5Rw" contract="_8Gxk8DliEeKSeNi1QrK5Rw"/>
+              <ownedOperation xmi:id="_8OzfkDliEeKSeNi1QrK5Rw" name="barrier" visibility="public">
+                <ownedParameter xmi:id="_8OzfkTliEeKSeNi1QrK5Rw" name="token" type="_8LoPwDliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8OzfkjliEeKSeNi1QrK5Rw" name="src" type="_8LnoszliEeKSeNi1QrK5Rw"/>
+                <ownedParameter xmi:id="_8OzfkzliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_8O1UwDliEeKSeNi1QrK5Rw" name="process" visibility="public">
+                <ownedParameter xmi:id="_8O1UwTliEeKSeNi1QrK5Rw" name="tokens" type="_8LoPwDliEeKSeNi1QrK5Rw">
+                  <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8O1UwjliEeKSeNi1QrK5Rw" value="*"/>
+                  <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8O1UwzliEeKSeNi1QrK5Rw"/>
+                </ownedParameter>
+                <ownedParameter xmi:id="_8O1UxDliEeKSeNi1QrK5Rw" name="return" type="_8LoPwDliEeKSeNi1QrK5Rw" direction="return"/>
+              </ownedOperation>
+            </packagedElement>
+          </packagedElement>
+          <packagedElement xmi:type="uml:Package" xmi:id="_8Lu9cDliEeKSeNi1QrK5Rw" name="business">
+            <packagedElement xmi:type="uml:DataType" xmi:id="_8Lu9cTliEeKSeNi1QrK5Rw" name="Form"/>
+            <packagedElement xmi:type="uml:DataType" xmi:id="_8Lu9cjliEeKSeNi1QrK5Rw" name="User"/>
+          </packagedElement>
+        </packagedElement>
+      </packagedElement>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_8LnosDliEeKSeNi1QrK5Rw" name="java">
+    <packagedElement xmi:type="uml:Package" xmi:id="_8LnosTliEeKSeNi1QrK5Rw" name="util">
+      <packagedElement xmi:type="uml:DataType" xmi:id="_8LnosjliEeKSeNi1QrK5Rw" name="LinkedList"/>
+      <packagedElement xmi:type="uml:DataType" xmi:id="_8LuWYDliEeKSeNi1QrK5Rw" name="ArrayList"/>
+      <packagedElement xmi:type="uml:DataType" xmi:id="_8LuWYTliEeKSeNi1QrK5Rw" name="List"/>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_8LvkgDliEeKSeNi1QrK5Rw" name="emailInterface">
+    <packagedElement xmi:type="uml:DataType" xmi:id="_8LvkgTliEeKSeNi1QrK5Rw" name="SimpleMailSender"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:DataType" xmi:id="_8NwWsDliEeKSeNi1QrK5Rw" name="Object"/>
+</uml:Model>

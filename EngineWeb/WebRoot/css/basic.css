@@ -1,0 +1,145 @@
+#head {
+	margin: 0;
+	padding: 0;
+	height: 30px;
+	border: 1px solid #C9D7F1;
+}
+
+#head ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#head ul li {
+	display: inline;
+}
+
+#headFunction {
+	float: left;
+	padding: 5px;
+	width: 300px;
+	height: 30px;
+	border: 1px solid #C9D7F1;
+}
+
+#headLogin {
+	float: right;
+	padding: 5px;
+	width: 300px;
+	height: 30px;
+	text-align: right;
+	border: 1px solid #C9D7F1;
+}
+
+#search {
+	margin: 0;
+	padding: 0;
+	height: 10%;
+	border: 1px solid #C9D7F1;
+}
+
+#searchLogo {
+	position: absolute;
+	width: 150px;
+	height: 100%;
+	border: 1px solid #C9D7F1;
+}
+
+#searchLogo img {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	border: 1px solid #C9D7F1;
+}
+
+#searchBar {
+	position: absolute;
+	left: 160px;
+	width: 70%;
+	height: 100%;
+	border: 1px solid #C9D7F1;
+}
+
+#searchWords {
+	position: relative;
+	top: 30%;
+	width: 800px;
+	height: 50%;
+	font-size: 20px;
+	font-family: sans-serif;
+	margin: 0px;
+}
+
+#searchButton {
+	position: relative;
+	top: 30%;
+	width: 55px;
+	height: 50%;
+	font-family:sans-serif;
+	font-size: 15px;
+	border-right: #2C59AA 1px solid;
+	border-top: #2C59AA 1px solid;
+	filter: progid :     DXImageTransform.Microsoft.Gradient (    
+		GradientType =     0, StartColorStr =     #FFFFFF, EndColorStr =    
+		#C1DAD7 );
+	border-left: #2C59AA 1px solid;
+	cursor: pointer;
+	border-bottom: #2C59AA 1px solid;
+}
+
+#station {
+	position: relative;
+	top: 30%;
+	margin: 0px;
+}
+
+#device {
+	position: relative;
+	top: 30%;
+	margin: 0px;
+}
+
+#main {
+	height: 100%;
+	border: 1px solid #C9D7F1;
+}
+
+#searchTree {
+	float: left;
+	width: 30%;
+	height: 100%;
+	border: 1px solid #C9D7F1;
+}
+
+#content {
+	float: right;
+	width: 100%;
+	height: 100%;
+	overflow-y:scroll;
+	border: 1px solid #C9D7F1;
+}
+
+#category {
+	float: left;
+	width: 30%;
+	height: 30%;
+	border: 1px solid #C9D7F1;
+}
+
+#result {
+	float: left;
+	width: 30%;
+	height: 70%;
+	border: 1px solid #C9D7F1;
+}
+
+#foot {
+	padding: 2px;
+	height: 30px;
+	text-align: center;
+	border: 1px solid #C9D7F1;
+	height: 30px;
+	color: #666;
+	font-size: smaller;
+}

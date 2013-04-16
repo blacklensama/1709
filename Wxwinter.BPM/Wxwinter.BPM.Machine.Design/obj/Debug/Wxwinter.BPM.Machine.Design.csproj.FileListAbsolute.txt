@@ -1,0 +1,273 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Themes\Icons.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.SR.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.pdb
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\ResolveAssemblyReference.cache
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Themes\Icons.baml
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.g.cs
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.g.cs
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.g.cs
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.g.cs
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.g.cs
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.g.cs
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.dll
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.dll
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.pdb
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.baml
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.baml
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.baml
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.baml
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.baml
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.baml
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.g.resources
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.SR.resources
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.read.1.tlog
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.write.1.tlog
+D:\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Themes\Icons.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.g.resources
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.SR.resources
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.read.1.tlog
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.write.1.tlog
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM.Machine\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.g.resources
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.SR.resources
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.read.1.tlog
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.write.1.tlog
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.g.resources
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.SR.resources
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\ResolveAssemblyReference.cache
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.g.resources
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.SR.resources
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.read.1.tlog
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.write.1.tlog
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\ResolveAssemblyReference.cache
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.g.resources
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.SR.resources
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.read.1.tlog
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.write.1.tlog
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\ResolveAssemblyReference.cache
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.g.resources
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.SR.resources
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.read.1.tlog
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.write.1.tlog
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\ResolveAssemblyReference.cache
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.g.resources
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.SR.resources
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.read.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.write.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.Design.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Debug\Wxwinter.BPM.Machine.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\ResolveAssemblyReference.cache
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\FreeFormEditing\Connector.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\InitialNode.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateContainerEditor.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateDesigner.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\StateMachineDesigner.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\TransitionDesigner.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.g.resources
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.SR.resources
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.read.1.tlog
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\GenerateResource.write.1.tlog
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Debug\Wxwinter.BPM.Machine.Design.pdb

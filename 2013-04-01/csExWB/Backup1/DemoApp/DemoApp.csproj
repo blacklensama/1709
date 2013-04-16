@@ -1,0 +1,461 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ED4D7A89-B456-4D4A-9E24-570D9D8ECA46}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DemoApp</RootNamespace>
+    <AssemblyName>DemoApp</AssemblyName>
+    <ApplicationIcon>App.ICO</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft.NET\Primary Interop Assemblies\Microsoft.mshtml.dll</HintPath>
+    </Reference>
+    <Reference Include="MySQLDriverCS, Version=3.0.1735.36021, Culture=neutral, PublicKeyToken=172f94dfb0faf263, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllForms.cs" />
+    <Compile Include="CustomComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomControls.cs">
+    </Compile>
+    <Compile Include="CustomSplitter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Database.cs" />
+    <Compile Include="eq_controls\baseLayout.cs" />
+    <Compile Include="eq_controls\configLoader.cs" />
+    <Compile Include="eq_controls\controlBase.cs" />
+    <Compile Include="eq_controls\controls\alert.cs" />
+    <Compile Include="eq_controls\controls\brief.cs" />
+    <Compile Include="eq_controls\controls\eframe.cs" />
+    <Compile Include="eq_controls\controls\iframeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eq_controls\controls\iframeForm.Designer.cs">
+      <DependentUpon>iframeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eq_controls\controls\information.cs" />
+    <Compile Include="eq_controls\controls\radioEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eq_controls\controls\radioEdit.Designer.cs">
+      <DependentUpon>radioEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eq_controls\controls\radioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eq_controls\controls\radioForm.Designer.cs">
+      <DependentUpon>radioForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eq_controls\controls\radioSelection.cs" />
+    <Compile Include="eq_controls\controls\rescuePlan.cs" />
+    <Compile Include="eq_controls\controls\rescueReq.cs" />
+    <Compile Include="eq_controls\controls\submit.cs" />
+    <Compile Include="eq_controls\controls\submitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eq_controls\controls\submitForm.Designer.cs">
+      <DependentUpon>submitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eq_controls\controls\test.cs" />
+    <Compile Include="eq_controls\controls\textArea.cs" />
+    <Compile Include="eq_controls\dbConnectSettingform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eq_controls\dbConnectSettingform.Designer.cs">
+      <DependentUpon>dbConnectSettingform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eq_controls\dbTemplateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eq_controls\dbTemplateForm.Designer.cs">
+      <DependentUpon>dbTemplateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eq_controls\dbTools\dbTool.cs" />
+    <Compile Include="eq_controls\imageCtrl.cs" />
+    <Compile Include="eq_controls\JsonBase.cs" />
+    <Compile Include="eq_controls\layouts\div.cs" />
+    <Compile Include="eq_controls\layouts\table.cs" />
+    <Compile Include="eq_controls\layouts\tableLayout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eq_controls\layouts\tableLayout.Designer.cs">
+      <DependentUpon>tableLayout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eq_controls\layouts\VSplit.cs" />
+    <Compile Include="eq_controls\templateBase.cs" />
+    <Compile Include="eq_controls\templateCreateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eq_controls\templateCreateForm.Designer.cs">
+      <DependentUpon>templateCreateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eq_controls\templateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eq_controls\templateForm.Designer.cs">
+      <DependentUpon>templateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eq_controls\utility.cs" />
+    <Compile Include="eq_controls\workEnvironment.cs" />
+    <Compile Include="eq_controls\xmlTool.cs" />
+    <Compile Include="FileOperation.cs" />
+    <Compile Include="frmAddMapType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddMapType.designer.cs">
+      <DependentUpon>frmAddMapType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckboxProp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckboxProp.designer.cs">
+      <DependentUpon>frmCheckboxProp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChooseTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChooseTemplate.designer.cs">
+      <DependentUpon>frmChooseTemplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDatalinkProp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDatalinkProp.Designer.cs">
+      <DependentUpon>frmDatalinkProp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDelMapType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDelMapType.designer.cs">
+      <DependentUpon>frmDelMapType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaplinkProp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaplinkProp.Designer.cs">
+      <DependentUpon>frmMaplinkProp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDOM.Designer.cs">
+      <DependentUpon>frmDOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHTMLeditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHTMLeditor.Designer.cs">
+      <DependentUpon>frmHTMLeditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFind.Designer.cs">
+      <DependentUpon>frmFind.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInput.Designer.cs">
+      <DependentUpon>frmInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLog.Designer.cs">
+      <DependentUpon>frmLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaplinkTypeProp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaplinkTypeProp.designer.cs">
+      <DependentUpon>frmMaplinkTypeProp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRadioProp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRadioProp.Designer.cs">
+      <DependentUpon>frmRadioProp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSaveHtmldocProp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSaveHtmldocProp.designer.cs">
+      <DependentUpon>frmSaveHtmldocProp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSaveToDBProp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSaveToDBProp.Designer.cs">
+      <DependentUpon>frmSaveToDBProp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSendEmailProp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSendEmailProp.designer.cs">
+      <DependentUpon>frmSendEmailProp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTable.Designer.cs">
+      <DependentUpon>frmTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTableCellProp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTableCellProp.Designer.cs">
+      <DependentUpon>frmTableCellProp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HtmlColorSelector.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HtmlColorSelectorComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HtmlRichTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="testForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testForm.Designer.cs">
+      <DependentUpon>testForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinExternal.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\csExWB\csExWB.csproj">
+      <Project>{E8E8BB5D-3302-4763-94F2-A8A238F7D6EA}</Project>
+      <Name>csExWB</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmFind.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmFind.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInput.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\IeToolbar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App.ICO" />
+    <Content Include="eq_controls\XMLFile1.xml" />
+    <Content Include="MySQLDriverCS.dll" />
+    <Content Include="Resources\build.png" />
+    <Content Include="Resources\button.jpg" />
+    <Content Include="Resources\checkbox.jpg" />
+    <Content Include="Resources\database.png" />
+    <Content Include="Resources\datalink.jpg" />
+    <Content Include="Resources\energy.png" />
+    <Content Include="Resources\human.png" />
+    <Content Include="Resources\map.png" />
+    <Content Include="Resources\money.png" />
+    <Content Include="Resources\radio.jpg" />
+    <Content Include="Resources\releaseHtml.jpg" />
+    <Content Include="Resources\sendEmail.jpg" />
+    <Content Include="Resources\textArea.jpg" />
+    <Content Include="Resources\tree.png" />
+    <Content Include="winexternal.html" />
+    <EmbeddedResource Include="eq_controls\controls\iframeForm.resx">
+      <DependentUpon>iframeForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eq_controls\controls\radioEdit.resx">
+      <DependentUpon>radioEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eq_controls\controls\radioForm.resx">
+      <DependentUpon>radioForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eq_controls\controls\submitForm.resx">
+      <DependentUpon>submitForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eq_controls\dbConnectSettingform.resx">
+      <DependentUpon>dbConnectSettingform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eq_controls\dbTemplateForm.resx">
+      <DependentUpon>dbTemplateForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eq_controls\layouts\tableLayout.resx">
+      <DependentUpon>tableLayout.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eq_controls\templateCreateForm.resx">
+      <DependentUpon>templateCreateForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eq_controls\templateForm.resx">
+      <DependentUpon>templateForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddMapType.resx">
+      <DependentUpon>frmAddMapType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckboxProp.resx">
+      <DependentUpon>frmCheckboxProp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChooseTemplate.resx">
+      <DependentUpon>frmChooseTemplate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDatalinkProp.resx">
+      <DependentUpon>frmDatalinkProp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDelMapType.resx">
+      <DependentUpon>frmDelMapType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaplinkProp.resx">
+      <DependentUpon>frmMaplinkProp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaplinkTypeProp.resx">
+      <DependentUpon>frmMaplinkTypeProp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRadioProp.resx">
+      <DependentUpon>frmRadioProp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSaveHtmldocProp.resx">
+      <DependentUpon>frmSaveHtmldocProp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSaveToDBProp.resx">
+      <DependentUpon>frmSaveToDBProp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSendEmailProp.resx">
+      <DependentUpon>frmSendEmailProp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\blank.gif" />
+    <EmbeddedResource Include="frmHTMLeditor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmHTMLeditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDOM.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTableCellProp.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTableCellProp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testForm.resx">
+      <DependentUpon>testForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="CSEXWBDLMANLib">
+      <Guid>{8F81BC06-C252-4437-92EC-E343AFBAA03A}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

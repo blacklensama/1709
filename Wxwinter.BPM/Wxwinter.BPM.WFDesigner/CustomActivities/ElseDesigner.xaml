@@ -1,0 +1,51 @@
+﻿<sap:ActivityDesigner x:Class="Wxwinter.BPM.WFDesigner.CustomActivities.ElseDesigner"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sap="clr-namespace:System.Activities.Presentation;assembly=System.Activities.Presentation"
+                      xmlns:sapv="clr-namespace:System.Activities.Presentation.View;assembly=System.Activities.Presentation"
+                      ExpandState="True"
+                      PinState="False"
+                      AllowDrop="True">
+    <sap:ActivityDesigner.Resources>
+        <DataTemplate x:Key="Collapsed">
+            <StackPanel>
+                <!--    <TextBlock HorizontalAlignment="Center">折叠视图</TextBlock>-->
+                <TextBlock HorizontalAlignment="Center">双击以查看</TextBlock>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Key="Expanded">
+            <Grid>
+                <StackPanel>
+                    <!--   <TextBlock HorizontalAlignment="Center">扩展视图</TextBlock>-->
+                    <TextBlock HorizontalAlignment="Center">Else</TextBlock>
+                    <Border BorderBrush="#FFE3E3E3"
+                            BorderThickness="1"
+                            Height="150"
+                            Width="150"
+                            Margin="5">
+                        <sap:WorkflowItemsPresenter HintText="在此处放置活动"
+                                                    FlowDirection="LeftToRight"
+                                                    Items="{Binding Path=ModelItem.Activities}">
+                        </sap:WorkflowItemsPresenter>
+                    </Border>
+                </StackPanel>
+            </Grid>
+        </DataTemplate>
+        <Style x:Key="ExpandOrCollapsedStyle"
+               TargetType="{x:Type ContentPresenter}">
+            <Setter Property="ContentTemplate"
+                    Value="{DynamicResource Expanded}" /> 
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding Path=ShowExpanded}"
+                             Value="true">
+                    <Setter Property="ContentTemplate"
+                            Value="{DynamicResource Expanded}" /> <!--Collapsed-->
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+    </sap:ActivityDesigner.Resources>
+    <Grid>
+        <ContentPresenter Style="{DynamicResource ExpandOrCollapsedStyle}"
+                          Content="{Binding}" />
+    </Grid>
+</sap:ActivityDesigner>

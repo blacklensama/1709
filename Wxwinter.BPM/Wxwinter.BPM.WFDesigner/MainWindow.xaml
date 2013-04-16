@@ -1,0 +1,109 @@
+﻿<Window x:Class="Wxwinter.BPM.WFDesigner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:wpg="clr-namespace:System.Windows.Controls"
+        Title="Wxwinter.BPM 流程设计器"   MaxWidth="1440" MaxHeight="900" MinHeight="500" MinWidth="600"
+        mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" d:DesignHeight="500" d:DesignWidth="870" SizeToContent="WidthAndHeight">
+
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200" />
+            <ColumnDefinition  Width="451*" />
+            <ColumnDefinition Width="197" />
+        </Grid.ColumnDefinitions>
+        <GridSplitter  HorizontalAlignment="Right"  VerticalAlignment="Stretch" Width="5" Grid.Row="1" />
+        <GridSplitter  HorizontalAlignment="Left"    VerticalAlignment="Stretch" Grid.Column="2"  Width="5" Grid.Row="1" />
+
+        <StackPanel Height="30" Grid.ColumnSpan="3" Background="Blue">
+            <Menu Height="25" VerticalAlignment="Top" Grid.ColumnSpan="2">
+
+                <MenuItem Header="文件" >
+                    <MenuItem Header="新建"   Click="MenuItem_Click" />
+                    <MenuItem Header="从数据库打开"  Click="MenuItem_Click" />
+                    <MenuItem Header="从文件打开"  Click="MenuItem_Click" />
+                    <MenuItem Header="保存至数据库"  Click="MenuItem_Click" />
+
+
+                </MenuItem>
+
+                <MenuItem Header="操作"   >
+                    <MenuItem Header="撤销"   Click="MenuItem_Click" />
+                    <MenuItem Header="重做" Click="MenuItem_Click"  />
+                    <MenuItem Header="清空流程设计日志" Click="MenuItem_Click"  />
+                    <!--<MenuItem Header="显示选中Activity" Click="MenuItem_Click"  />-->
+                </MenuItem>
+                <MenuItem Header="配置"   >
+                    <MenuItem Header="数据库配置"   Click="MenuItem_Click" />
+                </MenuItem>
+                <MenuItem Header="人员配置">
+                    <MenuItem Header="人员配置" Click ="MenuItem_Click"/>
+                </MenuItem>
+            </Menu>
+        </StackPanel>
+
+        <TabControl  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"  Margin="5,5,5,5" Grid.Row="1">
+
+            <TabItem Header="工具箱" >
+                <ContentControl  Name="nodePanel"/>
+            </TabItem>
+
+        </TabControl>
+
+        <TabControl Name="workPanel"
+                    Grid.Column="1"
+                    HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Grid.Row="1" >
+            <TabItem Header="流程设计器"  >
+                <ContentControl HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"    Name="desienerPanel"  />
+            </TabItem>
+
+            <TabItem Header="流程设计跟踪" >
+                <ListBox Name="desigeerActionList" />
+            </TabItem>
+            <TabItem Header="XAML" 
+                     GotFocus="TabItemGotFocusRefreshXamlBox" >
+                <TextBox Name="xamlTextBox" 
+                         AcceptsReturn="True" 
+                         HorizontalScrollBarVisibility="Auto"
+                         VerticalScrollBarVisibility="Auto" IsReadOnly="True">
+                </TextBox>
+            </TabItem>
+
+
+        </TabControl>
+
+        <TabControl Grid.Column="3" Grid.Row="1"  HorizontalAlignment="Stretch"   Margin="5,5,5,5"  VerticalAlignment="Stretch" >
+
+            <StackPanel>
+            
+           
+                <!--<ContentControl  Name="propertyPanel"/>-->
+                <wpg:PropertyGrid x:Name="propertyGrid" Height="400"
+            Margin="10,10,0,10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+            HelpVisible="{Binding ElementName=ShowDescrip, Path=IsChecked}" 
+            ToolbarVisible="{Binding ElementName=ShowToolbar, Path=IsChecked}"
+            PropertySort="{Binding ElementName=ComboSort, Path=SelectedItem}" />
+                <TabControl>
+                    <TabItem Header="选择模板" >
+                        <ContentControl  Name="templateList"/>
+                    </TabItem>
+                    <TabItem Header="选择参与人员" >
+                        <ContentControl  Name="userList" />
+                    </TabItem>
+                </TabControl>
+
+                    
+
+            </StackPanel>
+        </TabControl>
+        <StackPanel Background="White" Grid.ColumnSpan="3" Margin="10,0,5,0" Grid.Row="2">
+            <TextBlock HorizontalAlignment="Left" Name="statusInfo" ></TextBlock>
+        </StackPanel>
+    </Grid>
+
+</Window>

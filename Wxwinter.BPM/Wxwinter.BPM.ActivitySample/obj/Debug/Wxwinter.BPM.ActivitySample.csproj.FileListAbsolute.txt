@@ -1,0 +1,129 @@
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\ResolveAssemblyReference.cache
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.baml
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.baml
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.g.cs
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.g.cs
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.g.resources
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.dll
+F:\资料\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\ResolveAssemblyReference.cache
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.baml
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.baml
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.g.cs
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.g.cs
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.g.resources
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\wxwinter架构\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.baml
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.g.cs
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.g.resources
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.dll
+D:\ProjectSourceCode100\wxwinterFoundation\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.baml
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.g.cs
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.g.resources
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.dll
+C:\Users\yby\Desktop\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\ResolveAssemblyReference.cache
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.baml
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.g.cs
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.g.resources
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\资料\工作流\UI\Wxwinter.BPM_2\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\ResolveAssemblyReference.cache
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.g.cs
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.g.resources
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\WPFToolkit.Extended.dll
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\发起审核活动Designer.baml
+E:\WorkSpace\CSharp\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\发起审核活动Designer.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\WPFToolkit.Extended.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\ResolveAssemblyReference.cache
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\发起审核活动Designer.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.baml
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\发起审核活动Designer.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.g.cs
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.g.resources
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.dll
+F:\personel\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\ResolveAssemblyReference.cache
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\TemplateDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\UserDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\TemplateDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\UserDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample_MarkupCompile.lref
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\发起审核活动Designer.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\WPFToolkit.Extended.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\发起审核活动Designer.baml
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.g.resources
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.Properties.Resources.resources
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\GenerateResource.read.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\GenerateResource.write.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\Wxwinter.BPM\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\Wxwinter.BPM.ActivitySample.pdb
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Debug\WPFToolkit.Extended.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\ResolveAssemblyReference.cache
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\TemplateDesigner.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\UserDesigner.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\TemplateDesigner.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\UserDesigner.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\发起审核活动Designer.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelDesigner.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\parallelItemDesigner.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample_MarkupCompile.lref
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\会签\发起审核活动Designer.baml
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.g.resources
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.Properties.Resources.resources
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\GenerateResource.read.1.tlog
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\GenerateResource.write.1.tlog
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.dll
+E:\yby.yby-PC\documents\Visual Studio 2010\Projects\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Debug\Wxwinter.BPM.ActivitySample.pdb

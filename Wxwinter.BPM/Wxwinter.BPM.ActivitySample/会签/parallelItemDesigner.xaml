@@ -1,0 +1,43 @@
+﻿<sap:ActivityDesigner x:Class="Wxwinter.BPM.ActivitySample.会签.parallelItemDesigner"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sap="clr-namespace:System.Activities.Presentation;assembly=System.Activities.Presentation"
+    xmlns:sapv="clr-namespace:System.Activities.Presentation.View;assembly=System.Activities.Presentation"
+    xmlns:system="clr-namespace:System;assembly=mscorlib" 
+    xmlns:sapc="clr-namespace:System.Activities.Presentation.Converters;assembly=System.Activities.Presentation"
+                         
+                     MaxWidth="50"     
+                     MaxHeight="65"
+                     MinWidth="50"    
+                     MinHeight="50"
+                     Height="65"
+                     Width="50"
+     
+     >
+    <sap:ActivityDesigner.Resources>
+        <sapc:ArgumentToExpressionConverter x:Key="myArgumentToExpressionConverter" />
+    </sap:ActivityDesigner.Resources>
+        <sap:ActivityDesigner.Template>
+        <ControlTemplate>
+            <Grid>
+            <StackPanel>
+                <Ellipse Width="35" Fill="Red" Height="30"></Ellipse>
+                <Ellipse Width="50" Fill="Red" Height="40"  Margin="0,-5,0,0" ></Ellipse>
+               
+            </StackPanel>
+                <sapv:ExpressionTextBox   Width="50" Height="25" MinWidth="50"
+                         Expression="{Binding Path=ModelItem.userName, Mode=TwoWay, Converter={StaticResource myArgumentToExpressionConverter}, ConverterParameter=In }"
+                         ExpressionType="system:String"
+                         OwnerActivity="{Binding Path=ModelItem}"
+                         MaxLines="1"
+                         VerticalAlignment="Bottom"     
+                         HorizontalAlignment="Center"
+                         />
+                <sapv:TypePresenter Width="50" Height="25" MinWidth="50">
+                  
+                </sapv:TypePresenter>
+            
+            </Grid>
+        </ControlTemplate>
+    </sap:ActivityDesigner.Template>
+</sap:ActivityDesigner>

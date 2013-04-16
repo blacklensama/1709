@@ -1,0 +1,51 @@
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+<title></title>
+</head>
+<script language="javascript">  
+function checkNull(){
+	var suggestion=document.getElementById("suggestion").value;
+	var username=document.getElementById("username").value;
+	var password=document.getElementById("password").value;
+	if(username=="" || suggestion=="" || password == ""){
+		alert("必须填写反馈信息和姓名");
+		return;
+	}
+	test.submit();
+}
+</script>
+<form method="post" name="test" action="/EngineWeb/template/feedback.jsp">
+<input type="hidden" id="formname" name="formname" value="123212131">
+<table  width="60%" border="0" cellspacing="0" style="float:middle" cellpadding="20" class="main_bj">
+				<tr></tr>
+				<tr>
+					<td>
+						反馈信息填写：
+					</td>
+					<td >
+						<textarea id="suggestion" name="suggestion" cols="80" rows="2"></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						用户名：
+					</td>
+					<td >
+						<input type="text"  id="username" name="username"></input>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						密码：
+					</td>
+					<td >
+						<input type="password"  id="password" name="password"></input>
+					</td>
+				</tr>
+				
+				<tr>
+				<td>&nbsp;</td>
+			    <td ><a href="javascript:checkNull();"><span>&nbsp;提&nbsp;交&nbsp;</span></a><a href="/anhuiss/jsp/report/getreportlistunitcity.action"><span>&nbsp;返&nbsp;回&nbsp;</span></a></td>
+			    </tr>
+			</table>
+			</form>

@@ -1,0 +1,126 @@
+﻿<Activity mc:Ignorable="sap" x:Class="Wxwinter.BPM.WFDesigner.template.流程图" sap:VirtualizedContainerService.HintSize="865,1308" mva:VisualBasic.Settings="Assembly references and imported namespaces for internal implementation" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="clr-namespace:Microsoft.VisualBasic;assembly=System" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:s1="clr-namespace:System;assembly=System" xmlns:s2="clr-namespace:System;assembly=System.Xml" xmlns:s3="clr-namespace:System;assembly=System.Core" xmlns:sad="clr-namespace:System.Activities.Debugger;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System" xmlns:scg1="clr-namespace:System.Collections.Generic;assembly=System.ServiceModel" xmlns:scg2="clr-namespace:System.Collections.Generic;assembly=System.Core" xmlns:scg3="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:sl="clr-namespace:System.Linq;assembly=System.Core" xmlns:st="clr-namespace:System.Text;assembly=mscorlib" xmlns:wbw="clr-namespace:Wxwinter.BPM.WFDesigner;assembly=Wxwinter.BPM.WFDesigner" xmlns:wbwc="clr-namespace:Wxwinter.BPM.WFDesigner.CustomActivities;assembly=Wxwinter.BPM.WFDesigner" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Flowchart DisplayName="流程图" sap:VirtualizedContainerService.HintSize="1005,2099">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg3:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+        <av:Point x:Key="ShapeLocation">480,2.5</av:Point>
+        <av:Size x:Key="ShapeSize">60,75</av:Size>
+        <av:PointCollection x:Key="ConnectorLocation">510,77.5 520,77.5 520,80.5</av:PointCollection>
+        <x:Double x:Key="Height">2063</x:Double>
+        <x:Double x:Key="Width">991</x:Double>
+      </scg3:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Flowchart.StartNode>
+      <FlowStep x:Name="__ReferenceID1">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg3:Dictionary x:TypeArguments="x:String, x:Object">
+            <av:Point x:Key="ShapeLocation">119,80.5</av:Point>
+            <av:Size x:Key="ShapeSize">802,659</av:Size>
+            <av:PointCollection x:Key="ConnectorLocation">520,739.5 520,757</av:PointCollection>
+          </scg3:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+        <wbwc:ParallelActivity DisplayName="并行活动" sap:VirtualizedContainerService.HintSize="802,659" hour="0" hour1="0" minute="11" minute1="0">
+          <wbwc:ParallelActivity.Activities>
+            <wbw:发起审核活动 TextMassage="{x:Null}" DisplayName="发送表单3" sap:VirtualizedContainerService.HintSize="364,501" RadioButton1IsChecked="False" RadioButton2IsChecked="False" RadioButton3IsChecked="False" RadioName="发送表单3" deadDay="0" deadHour="0" deadMinute="3" distDay="0" distHour="0" distMinute="0" needFeedback="是">
+              <wbw:发起审核活动.Actors>
+                <wbw:User Department="{x:Null}" Email="{x:Null}" ID="{x:Null}" Name="{x:Null}" PersonDuty="{x:Null}" PersonPosition="{x:Null}" Telephone="{x:Null}" DisplayName="参与者" Group="aa" sap:VirtualizedContainerService.HintSize="171,168" PersonGender="Male" />
+              </wbw:发起审核活动.Actors>
+              <wbw:发起审核活动.Templates>
+                <wbw:Template PersonPosition="{x:Null}" DisplayName="表单模板" sap:VirtualizedContainerService.HintSize="350,114" Name="_IMMEDIATE" />
+              </wbw:发起审核活动.Templates>
+              <wbw:发起审核活动.equivalentActivity>
+                <sco:Collection x:TypeArguments="Activity" />
+              </wbw:发起审核活动.equivalentActivity>
+              <wbw:发起审核活动.exceptionActivity>
+                <sco:Collection x:TypeArguments="Activity" />
+              </wbw:发起审核活动.exceptionActivity>
+            </wbw:发起审核活动>
+            <wbw:发起审核活动 TextMassage="{x:Null}" DisplayName="发送表单2" sap:VirtualizedContainerService.HintSize="364,501" RadioButton1IsChecked="False" RadioButton2IsChecked="False" RadioButton3IsChecked="False" RadioName="发送表单2" deadDay="0" deadHour="0" deadMinute="3" distDay="0" distHour="0" distMinute="0" needFeedback="是">
+              <wbw:发起审核活动.Actors>
+                <wbw:User Department="{x:Null}" Email="{x:Null}" ID="{x:Null}" Name="{x:Null}" PersonDuty="{x:Null}" PersonPosition="{x:Null}" Telephone="{x:Null}" DisplayName="参与者" Group="bb" sap:VirtualizedContainerService.HintSize="171,168" PersonGender="Male" />
+              </wbw:发起审核活动.Actors>
+              <wbw:发起审核活动.Templates>
+                <wbw:Template PersonPosition="{x:Null}" DisplayName="表单模板" sap:VirtualizedContainerService.HintSize="350,114" Name="_IMMEDIATE" />
+              </wbw:发起审核活动.Templates>
+              <wbw:发起审核活动.equivalentActivity>
+                <sco:Collection x:TypeArguments="Activity" />
+              </wbw:发起审核活动.equivalentActivity>
+              <wbw:发起审核活动.exceptionActivity>
+                <sco:Collection x:TypeArguments="Activity" />
+              </wbw:发起审核活动.exceptionActivity>
+            </wbw:发起审核活动>
+          </wbwc:ParallelActivity.Activities>
+          <wbwc:ParallelActivity.equivalentActivity>
+            <sco:Collection x:TypeArguments="Activity" />
+          </wbwc:ParallelActivity.equivalentActivity>
+          <wbwc:ParallelActivity.exceptionActivity>
+            <sco:Collection x:TypeArguments="Activity" />
+          </wbwc:ParallelActivity.exceptionActivity>
+        </wbwc:ParallelActivity>
+        <FlowStep.Next>
+          <FlowStep x:Name="__ReferenceID2">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg3:Dictionary x:TypeArguments="x:String, x:Object">
+                <av:Point x:Key="ShapeLocation">331,757</av:Point>
+                <av:Size x:Key="ShapeSize">378,1186</av:Size>
+                <av:PointCollection x:Key="ConnectorLocation">520,1943 520,2030 180,2030 180,2000</av:PointCollection>
+              </scg3:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <wbwc:SequenceActivity day="{x:Null}" day1="{x:Null}" hour="{x:Null}" hour1="{x:Null}" minute="{x:Null}" minute1="{x:Null}" DisplayName="串行活动" sap:VirtualizedContainerService.HintSize="378,1186">
+              <wbwc:SequenceActivity.Activities>
+                <wbw:发起审核活动 TextMassage="{x:Null}" DisplayName="发送表单4" sap:VirtualizedContainerService.HintSize="364,501" RadioButton1IsChecked="False" RadioButton2IsChecked="False" RadioButton3IsChecked="False" RadioName="发送表单4" deadDay="0" deadHour="0" deadMinute="3" distDay="0" distHour="0" distMinute="0" needFeedback="是">
+                  <wbw:发起审核活动.Actors>
+                    <wbw:User Department="{x:Null}" Email="{x:Null}" ID="{x:Null}" Name="{x:Null}" PersonDuty="{x:Null}" PersonPosition="{x:Null}" Telephone="{x:Null}" DisplayName="参与者" Group="aa" sap:VirtualizedContainerService.HintSize="171,168" PersonGender="Male" />
+                  </wbw:发起审核活动.Actors>
+                  <wbw:发起审核活动.Templates>
+                    <wbw:Template PersonPosition="{x:Null}" DisplayName="表单模板" sap:VirtualizedContainerService.HintSize="350,114" Name="_IMMEDIATE" />
+                  </wbw:发起审核活动.Templates>
+                  <wbw:发起审核活动.equivalentActivity>
+                    <sco:Collection x:TypeArguments="Activity" />
+                  </wbw:发起审核活动.equivalentActivity>
+                  <wbw:发起审核活动.exceptionActivity>
+                    <sco:Collection x:TypeArguments="Activity" />
+                  </wbw:发起审核活动.exceptionActivity>
+                </wbw:发起审核活动>
+                <wbw:发起审核活动 TextMassage="{x:Null}" DisplayName="发送表单5" sap:VirtualizedContainerService.HintSize="364,501" RadioButton1IsChecked="False" RadioButton2IsChecked="False" RadioButton3IsChecked="False" RadioName="发送表单5" deadDay="0" deadHour="0" deadMinute="6" distDay="0" distHour="0" distMinute="0" needFeedback="是">
+                  <wbw:发起审核活动.Actors>
+                    <wbw:User Department="{x:Null}" Email="{x:Null}" ID="{x:Null}" Name="{x:Null}" PersonDuty="{x:Null}" PersonPosition="{x:Null}" Telephone="{x:Null}" DisplayName="参与者" Group="bb" sap:VirtualizedContainerService.HintSize="171,168" PersonGender="Male" />
+                  </wbw:发起审核活动.Actors>
+                  <wbw:发起审核活动.Templates>
+                    <wbw:Template PersonPosition="{x:Null}" DisplayName="表单模板" sap:VirtualizedContainerService.HintSize="350,114" Name="_IMMEDIATE" />
+                  </wbw:发起审核活动.Templates>
+                  <wbw:发起审核活动.equivalentActivity>
+                    <sco:Collection x:TypeArguments="Activity" />
+                  </wbw:发起审核活动.equivalentActivity>
+                  <wbw:发起审核活动.exceptionActivity>
+                    <sco:Collection x:TypeArguments="Activity" />
+                  </wbw:发起审核活动.exceptionActivity>
+                </wbw:发起审核活动>
+              </wbwc:SequenceActivity.Activities>
+              <wbwc:SequenceActivity.equivalentActivity>
+                <sco:Collection x:TypeArguments="Activity" />
+              </wbwc:SequenceActivity.equivalentActivity>
+              <wbwc:SequenceActivity.exceptionActivity>
+                <sco:Collection x:TypeArguments="Activity" />
+              </wbwc:SequenceActivity.exceptionActivity>
+            </wbwc:SequenceActivity>
+            <FlowStep.Next>
+              <FlowStep x:Name="__ReferenceID0">
+                <sap:WorkflowViewStateService.ViewState>
+                  <scg3:Dictionary x:TypeArguments="x:String, x:Object">
+                    <av:Point x:Key="ShapeLocation">218,1910</av:Point>
+                    <av:Size x:Key="ShapeSize">64,80</av:Size>
+                  </scg3:Dictionary>
+                </sap:WorkflowViewStateService.ViewState>
+                <wbw:EndNode sap:VirtualizedContainerService.HintSize="64,80" />
+              </FlowStep>
+            </FlowStep.Next>
+          </FlowStep>
+        </FlowStep.Next>
+      </FlowStep>
+    </Flowchart.StartNode>
+    <x:Reference>__ReferenceID0</x:Reference>
+    <x:Reference>__ReferenceID1</x:Reference>
+    <x:Reference>__ReferenceID2</x:Reference>
+  </Flowchart>
+</Activity>

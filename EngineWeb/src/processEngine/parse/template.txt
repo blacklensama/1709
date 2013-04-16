@@ -1,0 +1,42 @@
+﻿<Flowchart.StartNode>
+      <FlowStep Name="__ReferenceID0">
+        <If>
+          <If.Then>
+            <Parallel>
+              <发起审核活动 DisplayName="发起审核活动" >
+                <发起审核活动.Actors>
+                </发起审核活动.Actors>
+                <发起审核活动.Templates>
+                </发起审核活动.Templates>
+              </发起审核活动>
+              <发起审核活动 DisplayName="发起审核活动" >
+                <发起审核活动.Actors>
+                </发起审核活动.Actors>
+                <发起审核活动.Templates>
+                </发起审核活动.Templates>
+              </发起审核活动>
+            </Parallel>
+          </If.Then>
+          <If.Else>
+            <发起审核活动 DisplayName="发起审核活动">
+              <发起审核活动.Actors>
+              </发起审核活动.Actors>
+              <发起审核活动.Templates>
+              </发起审核活动.Templates>
+            </发起审核活动>
+          </If.Else>
+        </If>
+        <FlowStep.Next>
+          <FlowStep Name="__ReferenceID1">
+            <发起审核活动 DisplayName="发起审核活动">
+              <发起审核活动.Actors>
+                <Collection TypeArguments="User" />
+              </发起审核活动.Actors>
+              <发起审核活动.Templates>
+                <Collection TypeArguments="Template" />
+              </发起审核活动.Templates>
+            </发起审核活动>
+          </FlowStep>
+        </FlowStep.Next>
+      </FlowStep>
+    </Flowchart.StartNode>

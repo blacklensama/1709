@@ -1,0 +1,188 @@
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\ResolveAssemblyReference.cache
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.g.resources
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.SR.resources
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\GenerateResource.read.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\GenerateResource.write.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\ResolveAssemblyReference.cache
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.g.resources
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.SR.resources
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\GenerateResource.read.1.tlog
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\GenerateResource.write.1.tlog
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.g.resources
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.SR.resources
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\GenerateResource.read.1.tlog
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\GenerateResource.write.1.tlog
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.g.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.SR.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\GenerateResource.read.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\GenerateResource.write.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.g.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.SR.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\GenerateResource.read.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\GenerateResource.write.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.g.resources
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.SR.resources
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.pdb
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\bin\Release\Wxwinter.BPM.Machine.pdb
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.csprojResolveAssemblyReference.cache
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.cache
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design_MarkupCompile.lref
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\FreeFormEditing\Connector.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\InitialNode.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateContainerEditor.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\StateMachineDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\TransitionDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.g.resources
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.Properties.Resources.resources
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.SR.resources
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.csproj.GenerateResource.Cache
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\Wxwinter.BPM.Machine.Design.pdb

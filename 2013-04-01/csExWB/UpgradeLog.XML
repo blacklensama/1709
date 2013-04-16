@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="csExWB">
+</Property><Property Name="解决方案文件" Value="C:\Users\jimmy\Desktop\csEXWB\csExWB\csExWB.sln">
+</Property><Property Name="Date" Value="2011年12月15日">
+</Property><Property Name="Time" Value="2:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="csExWB.sln" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\csExWB.sln">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\csExWB.csproj" Description="项目文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\csExWB\csExWB.csproj">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\csExWB.csproj.user" Description="项目用户文件成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\csExWB\csExWB.csproj.user">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\cEXWB.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\csExWB\cEXWB.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\Enums.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\csExWB\Enums.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\Events.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\csExWB\Events.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\GeneralClasses.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\csExWB\GeneralClasses.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\GeneralInterfaces.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\csExWB\GeneralInterfaces.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\HTMLEvents.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\csExWB\HTMLEvents.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\HTMLInterfaces.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\csExWB\HTMLInterfaces.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\OleInterfaces.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\csExWB\OleInterfaces.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\csExWB\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\Structs.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\csExWB\Structs.cs">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\csExWB.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="csExWB" Source="csExWB\csExWB.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="项目文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\DemoApp.csproj">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj.user" Description="项目用户文件成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\DemoApp.csproj.user">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\AllForms.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\AllForms.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\CustomComboBox.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\CustomComboBox.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\CustomSplitter.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\CustomSplitter.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmAbout.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmAbout.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmAbout.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmAuthenticate.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmAuthenticate.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmAuthenticate.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmAuthenticate.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmCacheCookie.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmCacheCookie.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmCacheCookie.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmCacheCookie.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDocInfo.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmDocInfo.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDocInfo.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmDocInfo.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDOM.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmDOM.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDOM.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmDOM.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDynamicConfirm.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmDynamicConfirm.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDynamicConfirm.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmDynamicConfirm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmFileDownload.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmFileDownload.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmFileDownload.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmFileDownload.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmHTMLeditor.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmHTMLeditor.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmHTMLeditor.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmHTMLeditor.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmMain.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmMain.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmFind.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmFind.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmFind.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmFind.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmInput.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmInput.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmInput.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmInput.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmLog.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmLog.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmLog.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmLog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmPopup.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmPopup.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmPopup.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmPopup.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmRequestResponseHeaders.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmRequestResponseHeaders.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmRequestResponseHeaders.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmRequestResponseHeaders.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmTable.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmTable.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmTable.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmTable.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmTableCellProp.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmTableCellProp.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmTableCellProp.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmTableCellProp.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\HtmlColorSelector.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\HtmlColorSelector.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\HtmlColorSelectorComboBox.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\HtmlColorSelectorComboBox.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\HtmlRichTextBox.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\HtmlRichTextBox.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Program.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\Program.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\WinExternal.cs" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\WinExternal.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\app.config" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\app.config">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\App.ICO" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\App.ICO">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmMain.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmPopup.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmPopup.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmFind.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmFind.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmInput.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmInput.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmLog.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmLog.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\IeToolbar.bmp" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\Resources\IeToolbar.bmp">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmRequestResponseHeaders.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmRequestResponseHeaders.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Resources\blank.gif" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\Resources\blank.gif">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDynamicConfirm.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmDynamicConfirm.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmFileDownload.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmFileDownload.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmHTMLeditor.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmHTMLeditor.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmAbout.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmAuthenticate.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmAuthenticate.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmCacheCookie.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmCacheCookie.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDocInfo.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmDocInfo.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmDOM.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmDOM.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmTable.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmTable.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\frmTableCellProp.resx" Description="文件已成功备份为 C:\Users\jimmy\Desktop\csEXWB\csExWB\Backup\DemoApp\frmTableCellProp.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="csExWB.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="csExWB.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="csExWB" Source="csExWB\csExWB.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

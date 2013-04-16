@@ -1,0 +1,14 @@
+% ARFF file for the job execution history data with some numric and string features 
+% 
+@relation jobsNew
+@attribute UserID numeric 
+@attribute JobID numeric 
+@attribute SubmitTime numeric
+@attribute Parallel numeric 
+@attribute RunTime numeric 
+@data
+1,1,1.04668E9,3,218.0
+1,2,1.05020998E9,4,233.0
+1,3,1.06316998E9,2,124.0
+1,1,1.06316998E9,3,564.0
+ 

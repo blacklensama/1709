@@ -1,0 +1,6 @@
+Error executing: DROP EVENT IF EXISTS `e_wom_stat` 
+java.sql.SQLException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DROP EVENT IF EXISTS `e_wom_stat`' at line 1
+Error executing: DELIMITER ;; 
+java.sql.SQLException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DROP EVENT IF EXISTS `e_wom_stat`' at line 1
+Error executing: CREATE DEFINER=`root`@`localhost` EVENT `e_wom_stat` ON SCHEDULE EVERY 1 DAY STARTS '2013-01-01 12:25:00' ON COMPLETION PRESERVE ENABLE DO begin     delete from feedback where formname='1';   end;; 
+java.sql.SQLException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DROP EVENT IF EXISTS `e_wom_stat`' at line 1

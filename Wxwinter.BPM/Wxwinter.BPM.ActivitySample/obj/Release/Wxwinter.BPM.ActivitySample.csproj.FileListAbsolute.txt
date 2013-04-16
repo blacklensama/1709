@@ -1,0 +1,163 @@
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\bin\Release\WPFToolkit.Extended.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\ResolveAssemblyReference.cache
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.lref
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.baml
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.g.resources
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.Properties.Resources.resources
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\GenerateResource.read.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\GenerateResource.write.1.tlog
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.dll
+E:\Wxwinter.BPM\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\bin\Release\WPFToolkit.Extended.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\ResolveAssemblyReference.cache
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.lref
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.baml
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.g.resources
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.Properties.Resources.resources
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\GenerateResource.read.1.tlog
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\GenerateResource.write.1.tlog
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.dll
+D:\Work\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\bin\Release\WPFToolkit.Extended.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.lref
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.baml
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.g.resources
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.Properties.Resources.resources
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\GenerateResource.read.1.tlog
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\GenerateResource.write.1.tlog
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.dll
+E:\WorkSpace\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\bin\Release\WPFToolkit.Extended.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.lref
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.g.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.Properties.Resources.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\GenerateResource.read.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\GenerateResource.write.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM - 新建功能完成\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Release\Images\email.png
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Release\WPFToolkit.Extended.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\ResolveAssemblyReference.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.lref
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.baml
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.g.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.Properties.Resources.resources
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\GenerateResource.read.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\GenerateResource.write.1.tlog
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.dll
+E:\WorkSpace\流程设计器\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Release\Images\email.png
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Release\WPFToolkit.Extended.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.lref
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.baml
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.g.resources
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.Properties.Resources.resources
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.dll
+C:\Users\lenovo\Desktop\业失业动态监测系统\workspace\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.pdb
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Release\Images\email.png
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Release\Wxwinter.BPM.ActivitySample.pdb
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\bin\Release\WPFToolkit.Extended.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.csprojResolveAssemblyReference.cache
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\TemplateDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\UserDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\parallelItemDesigner.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.cache
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample_MarkupCompile.lref
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\会签\发起审核活动Designer.baml
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.g.resources
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.Properties.Resources.resources
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.csproj.GenerateResource.Cache
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.dll
+F:\myProject\Wxwinter.BPM\Wxwinter.BPM.ActivitySample\obj\Release\Wxwinter.BPM.ActivitySample.pdb

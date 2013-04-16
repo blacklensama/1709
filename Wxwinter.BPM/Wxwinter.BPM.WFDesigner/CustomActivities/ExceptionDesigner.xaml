@@ -1,0 +1,73 @@
+﻿<sap:ActivityDesigner x:Class="Wxwinter.BPM.WFDesigner.CustomActivities.ExceptionDesigner"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sap="clr-namespace:System.Activities.Presentation;assembly=System.Activities.Presentation"
+    xmlns:sapv="clr-namespace:System.Activities.Presentation.View;assembly=System.Activities.Presentation"
+                      xmlns:main="clr-namespace:Wxwinter.BPM.WFDesigner">
+    <sap:ActivityDesigner.Resources>
+        <ResourceDictionary x:Uid="ResourceDictionary_1">
+
+            <DataTemplate x:Key="Collapsed">
+                <StackPanel>
+
+                    <TextBlock HorizontalAlignment="Left">发送手机短信给：</TextBlock>
+                    <Label  Height="20"/>
+                    <sap:WorkflowItemsPresenter HintText="将人员图标拖放在这里" FlowDirection="LeftToRight"
+                                    Items="{Binding Path=ModelItem.MessageUsers}" AllowedItemType="{x:Type main:User}" >
+
+
+                    </sap:WorkflowItemsPresenter>
+                    <Label  Height="30"/>
+                    <TextBlock HorizontalAlignment="Left">发送电子邮件给：</TextBlock>
+                    <Label  Height="30"/>
+                    <sap:WorkflowItemsPresenter HintText="将人员图标拖放在这里" FlowDirection="LeftToRight" HorizontalAlignment="Center"
+                                    Items="{Binding Path=ModelItem.EmailUsers}" AllowedItemType="{x:Type main:User}">
+                        <sap:WorkflowItemsPresenter.SpacerTemplate>
+                            <DataTemplate>
+                                <Ellipse Width="30" Height="30" Fill="White"  ToolTip="拖放参与人员图标在这里添加参与人员"/>
+                            </DataTemplate>
+                        </sap:WorkflowItemsPresenter.SpacerTemplate>
+                        <sap:WorkflowItemsPresenter.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <StackPanel Orientation="Horizontal"  />
+                            </ItemsPanelTemplate>
+                        </sap:WorkflowItemsPresenter.ItemsPanel>
+
+                    </sap:WorkflowItemsPresenter>
+                    <Label  Height="30"/>
+                </StackPanel>
+
+            </DataTemplate>
+            
+        </ResourceDictionary>
+    </sap:ActivityDesigner.Resources>
+    <Grid>
+        <StackPanel>
+            <TextBlock HorizontalAlignment="Left">发送手机短信给：</TextBlock>
+            <Label  Height="10"/>
+            <sap:WorkflowItemsPresenter HintText="将人员图标拖放在这里" FlowDirection="LeftToRight"
+                                    Items="{Binding Path=ModelItem.MessageUsers}" AllowedItemType="{x:Type main:User}" >
+
+
+            </sap:WorkflowItemsPresenter>
+            <Label  Height="10"/>
+            <TextBlock HorizontalAlignment="Left">发送电子邮件给：</TextBlock>
+            <Label  Height="10"/>
+            <sap:WorkflowItemsPresenter HintText="将人员图标拖放在这里" FlowDirection="LeftToRight" HorizontalAlignment="Center"
+                                    Items="{Binding Path=ModelItem.EmailUsers}" AllowedItemType="{x:Type main:User}">
+                <sap:WorkflowItemsPresenter.SpacerTemplate>
+                    <DataTemplate>
+                        <Ellipse Width="30" Height="30" Fill="White"  ToolTip="拖放参与人员图标在这里添加参与人员"/>
+                    </DataTemplate>
+                </sap:WorkflowItemsPresenter.SpacerTemplate>
+                <sap:WorkflowItemsPresenter.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal"  />
+                    </ItemsPanelTemplate>
+                </sap:WorkflowItemsPresenter.ItemsPanel>
+
+            </sap:WorkflowItemsPresenter>
+            <Label  Height="10"/>
+        </StackPanel>
+    </Grid>
+</sap:ActivityDesigner>

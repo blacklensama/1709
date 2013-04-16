@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>扩展弹出层提示</title>
+</head>
+
+<body>
+
+<script type="text/javascript" src="http://www.jsfoot.com/skin/js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery-1.3.2.js"></script>
+<script type="text/javascript" src="js/jquery.qtip-1.0.0-rc3.js"></script>
+
+<div class="demo">
+	<a class="modalbox" href="javascript:void(0);" rel="modal">点击这里</a>，看到qTIp模态对话框。
+</div>
+
+<div class="tipbox" style="display:none;">
+	<div class="mainlist">
+		<ul>
+			<li><span>▪</span><a href="http://www.jsfoot.com/jquery/popup/2012-06-24/676.html" target="_blank">jQuery顶部浮动弹出层动画弹出层特效</a></li>
+			<li><span>▪</span><a href="http://www.jsfoot.com/jquery/popup/2012-06-20/670.html" target="_blank">jquery浮动层动画loading页面加载特效</a></li>
+			<li><span>▪</span><a href="http://www.jsfoot.com/jquery/popup/2012-06-12/656.html" target="_blank">jquery浮动定位层导航描点上下滚动的浮动导航</a></li>
+			<li><span>▪</span><a href="http://www.jsfoot.com/jquery/popup/2011-09-13/183.html" target="_blank">jquery 弹出层插件 鼠标点击文字获取标题弹出层内容信息</a></li>
+			<li><span>▪</span><a href="http://www.jsfoot.com/jquery/popup/2012-04-14/563.html" target="_blank">用jquery特效制作左侧侧边浮动导航菜单滑动显示或隐藏</a></li>
+			<li><span>▪</span><a href="http://www.jsfoot.com/js/popup/2012-03-15/424.html" target="_blank">js弹出层特效点击按钮弹出窗口支持鼠标拖动</a></li>
+			<li><span>▪</span><a href="http://www.jsfoot.com/js/popup/2012-03-13/408.html" target="_blank">js浮动层制作在线客服float浮动层固定在浏览器左侧</a></li>
+		</ul>
+	</div>
+</div>
+
+<style type="text/css">
+*{margin:0;padding:0;list-style-type:none;font-style:normal;}
+a,img{border:0;}
+a,a:visited{color:#5e5e5e; text-decoration:none;}
+a:hover{color:#4183C4;text-decoration:underline;}
+body{font:12px/180% Arial, Helvetica, sans-serif, "新宋体";}	
+/* demo */
+.demo{width:950px;margin:20px auto;font-size:18px;text-align:center;}
+.demo a{font-weight:800;color:#3366cc;}
+/* mainlist */
+.mainlist{padding:10px;}
+.mainlist li{height:28px;line-height:28px;font-size:12px;}
+.mainlist li span{margin:0 5px 0 0;font-family:"宋体";font-size:12px;font-weight:400;color:#ddd;}
+/* qtip 提示框基础样式 */
+.qtip .qtip-content{padding:10px;overflow:hidden;}
+.qtip .qtip-content .qtip-title,.qtip-cream .qtip-content .qtip-title{background-color:#F0DE7D;}
+.qtip-light .qtip-content .qtip-title{background-color:#f1f1f1;}
+.qtip-dark .qtip-content .qtip-title{background-color:#404040;}
+.qtip-red .qtip-content .qtip-title{background-color:#F28279;}
+.qtip-green .qtip-content .qtip-title{background-color:#B9DB8C;}
+</style>
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+	$('.modalbox').qtip({
+		content: {
+			title: {
+				text: '对话框',
+				button: '关闭'
+			},
+			text: $(".tipbox").html()
+		},
+		position: {
+			target: $(document.body), // 将其定位文本页面上
+			corner: 'center' // 视口的中心处的
+		},
+		show: {
+			when: 'click', // 单击显示
+			solo: true // 隐藏所有其他的工具提示
+		},
+		hide: false,
+		style: {
+			width: { max: 650 },
+			padding: '14px',
+			border: {
+				width: 9,
+				radius: 9,
+				color: '#666666'
+			},
+			name: 'light'
+		},
+		api: {
+			beforeShow: function(){
+				// 淡入模式“blanket”的使用已定义的显示速度
+				$('#qtip-blanket').fadeIn(this.options.show.effect.length);
+			},
+			beforeHide: function(){
+				// 淡出模式“blanket”的使用定义的隐藏速度
+				$('#qtip-blanket').fadeOut(this.options.hide.effect.length);
+			}
+		}
+	});
+	
+	// 创建模态背景上的文档加载所有模型工具提示可以用它
+	$('<div id="qtip-blanket">').css({
+		position: 'absolute',
+		top: $(document).scrollTop(), // 使用文档的scrollTop的，所以它即使屏幕上的滚动窗口
+		left: 0,
+		height: $(document).height(), // 跨越完整的文档高度...
+		width: '100%', // 全宽
+		opacity: 0.7, // 稍微透明
+		backgroundColor: 'black',
+		zIndex: 5000  // 确保zIndex的是低于6000，以保持它下面的工具提示！
+	})
+	.appendTo(document.body) // 附加到文档正文
+	.hide(); // 最初隐藏
+	
+});
+</script>
+</body>
+</html>

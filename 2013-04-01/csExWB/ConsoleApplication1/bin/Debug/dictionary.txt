@@ -1,0 +1,14 @@
+eq_time 发震时间
+eq_magnitude 地震震级
+eq_site 发震地点
+eq_alarm_level 告警等级
+eq_blind_casualty 伤亡人员盲估
+eq_intensity 灾情衰减分析主题图
+eq_religion 灾区宗教文化
+eq_eq_history 灾区历史地震信息
+eq_geographic_environment 灾区地理环境信息
+eq_airport_damage 机场道路受损情况分析
+eq_local_rescue  当地救援情况开展工作
+eq_secondary_disaster 可能的次生灾害分析
+eq_economic_level 当地经济发展水平
+eq_seismic_damage 重大工程震害分析

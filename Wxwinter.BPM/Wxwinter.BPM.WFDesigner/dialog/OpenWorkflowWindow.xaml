@@ -1,0 +1,39 @@
+﻿<Window x:Class="Wxwinter.BPM.WFDesigner.dialog.OpenWorkflowWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="选择模板" Height="500" Width="500" Loaded="Window_Loaded">
+    <Grid>
+        <ListView Margin="18,32,20,45" Name="listView1" ItemsSource="{Binding}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="名称" DisplayMemberBinding="{Binding WFModel_Name}" Width="150"/>
+                    
+                    <GridViewColumn Header="所有者" DisplayMemberBinding="{Binding WFModel_Owner}" Width="120"/>
+                    <GridViewColumn Header="最后修改时间" DisplayMemberBinding="{Binding lastedit_time}" Width="170"/>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+        
+        <Button Content="打开" Height="23"
+                HorizontalAlignment="Left"
+                Margin="91,430,0,0"
+                Name="button1"
+                VerticalAlignment="Top"
+                Width="75"
+                Click="Confirm_Click" />
+        <Button Content="取消" Height="23"
+                HorizontalAlignment="Left"
+                Margin="221,430,0,0"
+                Name="button2"
+                VerticalAlignment="Top"
+                Width="75"
+                Click="Cancel_Click"/>
+        <Button Content="删除" Margin="352,430,66,0"
+                Name="Button3"
+                Click="Del_Click"
+                Width="75"
+                Height="23"
+                VerticalAlignment ="Top"></Button>
+    </Grid>
+</Window>
