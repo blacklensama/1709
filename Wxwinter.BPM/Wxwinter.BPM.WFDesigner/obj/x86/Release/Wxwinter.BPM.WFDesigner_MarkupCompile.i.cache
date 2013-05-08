@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\
+C:\Users\lenovo\Desktop\程序\templateflowgit\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\obj\x86\Release\
 Wxwinter.BPM.WFDesigner
 none
 false
 TRACE
-F:\myProject\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\App.xaml
+C:\Users\lenovo\Desktop\程序\templateflowgit\Wxwinter.BPM\Wxwinter.BPM.WFDesigner\App.xaml
 31-2142164113
 1-39021776
-64-2060942756
-27-1451508002
+64-65140203
+27-1686575981
 ActivityDesigner1.xaml;ButtonControlDesigner.xaml;CustomActivities\ElseDesigner.xaml;CustomActivities\EquivalentDesigner.xaml;CustomActivities\ExceptionDesigner.xaml;CustomActivities\IfConditionDesigner.xaml;CustomActivities\IfDesigner.xaml;CustomActivities\ParallelDesigner.xaml;CustomActivities\SequenceDesigner.xaml;CustomActivities\ThenDesigner.xaml;CustomActivities\WhileDesigner.xaml;designWindow.xaml;dialog\addArgumentWindow.xaml;dialog\configuration.xaml;dialog\CreateWFModelWindow.xaml;dialog\createWorkflowWindow.xaml;dialog\OpenUserDialog.xaml;dialog\OpenWorkflowWindow.xaml;dialog\peopleManager.xaml;dialog\startWorkflowWindow.xaml;dialog\OpenTemplateDialog.xaml;dialog\OpenUserGroupDialog.xaml;EndNodeDesigner.xaml;MainWindow.xaml;resultBookmarkDesigner.xaml;TemplateDesigner.xaml;TemplateSelection.xaml;UserDesigner.xaml;UserSelection.xaml;Window1.xaml;发起审核活动Desinger.xaml;
 
 True

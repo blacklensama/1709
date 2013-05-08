@@ -1,0 +1,7 @@
+F:\myProject\2012-06-05\2012-06-05\csExWB\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\myProject\2012-06-05\2012-06-05\csExWB\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\myProject\2012-06-05\2012-06-05\csExWB\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+F:\myProject\2012-06-05\2012-06-05\csExWB\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\myProject\2012-06-05\2012-06-05\csExWB\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+F:\myProject\2012-06-05\2012-06-05\csExWB\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+F:\myProject\2012-06-05\2012-06-05\csExWB\ConsoleApplication1\bin\Debug\LinqBridge.dll

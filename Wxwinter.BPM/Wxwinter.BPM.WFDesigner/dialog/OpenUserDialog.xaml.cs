@@ -45,7 +45,7 @@ namespace Wxwinter.BPM.WFDesigner.dialog
         {
             MySQLConnection DBConn = null;
             string connectStr = new MySQLConnectionString(Configuration.getDBIp(), "workflow", Configuration.getDBUsername(), Configuration.getDBPassword()).AsString;
-            System.Windows.Forms.MessageBox.Show(connectStr);
+            //System.Windows.Forms.MessageBox.Show(connectStr);
             DBConn = new MySQLConnection(connectStr);
             DBConn.Open();
             MySQLCommand setformat = new MySQLCommand("set names gb2312", DBConn);

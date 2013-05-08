@@ -43,7 +43,7 @@ namespace Wxwinter.BPM.WFDesigner.dialog
 
                 string sql = "select tb_per.User_Name , tb_user.User_Mail from tb_user, tb_per where tb_per.user_name = tb_user.User_Name and tb_per.user_authority = ";
                 sql += "'" + str + "'";
-                MessageBox.Show(sql);
+                //MessageBox.Show(sql);
                 MySQLDataAdapter mda = new MySQLDataAdapter(sql, DBConn);
 
                 DataTable ds = new DataTable();

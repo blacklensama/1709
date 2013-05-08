@@ -1,0 +1,40 @@
+﻿
+<BODY id=temp_1142901087 style="WIDTH: auto; HEIGHT: auto" tname="_WARN" tdescription ctype="eq_template_B11-2"><P align=center><BR><FONT size=5>灾情汇报</FONT></P>
+<BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
+<P align=center><FONT size=2>地震（ID<INPUT style="WIDTH: 78px; HEIGHT: 21px" disabled size=10 value=地震标识ID propertyname="earthquakeID" datalink="datalink" tablename="modelresult_intensity" index="0"></INPUT></INPUT>）,研判任务（ID<INPUT style="WIDTH: 74px; HEIGHT: 21px" disabled size=8 value=任务标识ID propertyname="taskID" datalink="datalink" tablename="modelresult_casualty" index="0"></INPUT>）</FONT></P></BLOCKQUOTE>
+<P align=center>人口伤亡数据</P>
+<P align=center>
+<TABLE repeattable="repeattable">
+<TBODY>
+<TR>
+<TD propertyname="CasualtyInfo_peopleByOval" table="modelresult_casualty">人口总数</TD>
+<TD propertyname="CasualtyInfo_intensity" table="modelresult_casualty">烈度值</TD>
+<TD propertyname="CasualtyInfo_longtitude" table="modelresult_casualty">中心点经度值</TD>
+<TD propertyname="CasualtyInfo_latitude" table="modelresult_casualty">中心点纬度值</TD>
+<TD propertyname="CasualtyInfo_deathRatio" table="modelresult_casualty">死亡率</TD>
+<TD propertyname="CasualtyInfo_deathPeople" table="modelresult_casualty">死亡人数</TD>
+<TD propertyname="earthquakeID" table="modelresult_casualty">地震标识ID</TD>
+<TD propertyname="taskID" table="modelresult_casualty">任务标识ID</TD></TR></TBODY></TABLE></P>
+<P align=center>建筑物损失数据</P>
+<DIV align=center>
+<TABLE align=center repeattable="repeattable">
+<TBODY>
+<TR>
+<TD propertyname="ConstructionLossInfo_earthquakeDamageRatio" table="modelresult_construction">建筑物损失程度</TD>
+<TD propertyname="ConstructionLossInfo_intensity" table="modelresult_construction">建筑烈度值</TD>
+<TD propertyname="ConstructionLossInfo_magnitude" table="modelresult_construction">建筑物震级</TD>
+<TD propertyname="ConstructionLossInfo_longtitude" table="modelresult_construction">建筑物中心点经度值</TD>
+<TD propertyname="ConstructionLossInfo_latitude" table="modelresult_construction">建筑物中心点纬度值</TD>
+<TD propertyname="taskID" table="modelresult_construction">任务标识ID</TD>
+<TD propertyname="earthquakeID" table="modelresult_construction">地震标识ID</TD></TR></TBODY></TABLE></DIV>
+<DIV align=center>
+<P align=center>经济损失数据</P>
+<DIV align=center>
+<TABLE repeattable="repeattable">
+<TBODY>
+<TR>
+<TD propertyname="economicLoss_magnitude" table="modelresult_economic">震级</TD>
+<TD propertyname="economicLoss_longitude" table="modelresult_economic">经度值</TD>
+<TD propertyname="economicLoss_latitude" table="modelresult_economic">纬度值</TD>
+<TD propertyname="earthquakeID" table="modelresult_economic">地震标识ID</TD>
+<TD propertyname="taskID" table="modelresult_economic">任务标识ID</TD></TR></TBODY></TABLE></DIV></DIV></BODY>

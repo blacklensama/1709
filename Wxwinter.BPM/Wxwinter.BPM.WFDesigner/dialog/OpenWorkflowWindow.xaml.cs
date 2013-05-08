@@ -131,7 +131,7 @@ namespace Wxwinter.BPM.WFDesigner.dialog
                 string sql = "delete from wf_model where model_name = '";
                 sql += ((WFModel)listView1.SelectedItem).WFModel_Name;
                  sql += "'";
-                MessageBox.Show(sql);
+                //MessageBox.Show(sql);
                 MySQLCommand cmd = new MySQLCommand(sql, DBConn);
                 cmd.ExecuteNonQuery();
                 cmd.Dispose();

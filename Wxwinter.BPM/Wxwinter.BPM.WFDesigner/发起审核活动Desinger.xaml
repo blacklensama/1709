@@ -106,7 +106,7 @@
                                       DisplayMemberPath="" Grid.ColumnSpan="3" Margin="0,0,91,0"></ComboBox>
 
             </Grid>
-            <!--chenjian<Grid>
+            <Grid>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="110" />
                     <ColumnDefinition Width="40" />
@@ -174,7 +174,7 @@
                                       DisplayMemberPath=""></ComboBox>
                 <Label Grid.Column="6">分钟</Label>
             </Grid>
-            -->
+           
             <TextBlock HorizontalAlignment="Left">流转的表单</TextBlock>
             <sap:WorkflowItemsPresenter HintText="将表单模板拖放在这里" FlowDirection="LeftToRight"
                                     Items="{Binding Path=ModelItem.Templates}" AllowedItemType="{x:Type main:Template}" >

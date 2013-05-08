@@ -1,0 +1,10 @@
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\bin\Release\csExWB.dll
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\bin\Release\csExWB.pdb
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\bin\Release\Interop.CSEXWBDLMANLib.dll
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Release\Interop.CSEXWBDLMANLib.dll
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Release\csExWB.csproj.ResolveComReference.cache
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Release\DemoApp.toolDialogs.datalinkDefineDia.resources
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Release\csExWB.csproj.GenerateResource.Cache
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Release\csExWB.dll
+C:\Users\jimmy\Desktop\实验室项目相关\程序相关\程序原型\csEXWB简单抽离\csExWB\csExWB\obj\Release\csExWB.pdb

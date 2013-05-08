@@ -1,0 +1,15 @@
+{"circles":
+[
+{"longAxis":541.47,"intensity":1,"longitude":-123.4,"azimuth":45,"latitude":-35.8,"shortAxis":-7},
+{"longAxis":325.25,"intensity":2,"longitude":-123.4,"azimuth":45,"latitude":-35.8,"shortAxis":-7},
+{"longAxis":191.56,"intensity":3,"longitude":-123.4,"azimuth":45,"latitude":-35.8,"shortAxis":-6.99},
+{"longAxis":108.9,"intensity":4,"longitude":-123.4,"azimuth":45,"latitude":-35.8,"shortAxis":-6.99},
+{"longAxis":57.79,"intensity":5,"longitude":-123.4,"azimuth":45,"latitude":-35.8,"shortAxis":-6.98},
+{"longAxis":26.19,"intensity":6,"longitude":-123.4,"azimuth":45,"latitude":-35.8,"shortAxis":-6.96},
+{"longAxis":6.65,"intensity":7,"longitude":-123.4,"azimuth":45,"latitude":-35.8,"shortAxis":-6.91},
+{"longAxis":-5.43,"intensity":8,"longitude":-123.4,"azimuth":45,"latitude":-35.8,"shortAxis":-6.82},
+{"longAxis":-12.9,"intensity":9,"longitude":-123.4,"azimuth":45,"latitude":-35.8,"shortAxis":-6.65},
+{"longAxis":-17.52,"intensity":10,"longitude":-123.4,"azimuth":45,"latitude":-35.8,"shortAxis":-6.3},
+{"longAxis":-20.37,"intensity":11,"longitude":-123.4,"azimuth":45,"latitude":-35.8,"shortAxis":-5.59},
+{"longAxis":-22.14,"intensity":12,"longitude":-123.4,"azimuth":45,"latitude":-35.8,"shortAxis":-4.19}],
+"earthquakeID":"1","taskID":"1"}
