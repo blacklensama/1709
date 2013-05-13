@@ -77,3 +77,12 @@ C:\Documents and Settings\ghm\桌面\2013-01-08\csExWB\csExWB\obj\Debug\Interop.
 C:\Documents and Settings\ghm\桌面\2013-01-08\csExWB\csExWB\obj\Debug\csExWB.csproj.ResolveComReference.cache
 C:\Documents and Settings\ghm\桌面\2013-01-08\csExWB\csExWB\obj\Debug\csExWB.dll
 C:\Documents and Settings\ghm\桌面\2013-01-08\csExWB\csExWB\obj\Debug\csExWB.pdb
+C:\Documents and Settings\ghm\桌面\templategit\csExWB\csExWB\bin\Debug\csExWB.dll
+C:\Documents and Settings\ghm\桌面\templategit\csExWB\csExWB\bin\Debug\csExWB.pdb
+C:\Documents and Settings\ghm\桌面\templategit\csExWB\csExWB\bin\Debug\MySQLDriverCS.dll
+C:\Documents and Settings\ghm\桌面\templategit\csExWB\csExWB\bin\Debug\Interop.CSEXWBDLMANLib.dll
+C:\Documents and Settings\ghm\桌面\templategit\csExWB\csExWB\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ghm\桌面\templategit\csExWB\csExWB\obj\Debug\Interop.CSEXWBDLMANLib.dll
+C:\Documents and Settings\ghm\桌面\templategit\csExWB\csExWB\obj\Debug\csExWB.csproj.ResolveComReference.cache
+C:\Documents and Settings\ghm\桌面\templategit\csExWB\csExWB\obj\Debug\csExWB.dll
+C:\Documents and Settings\ghm\桌面\templategit\csExWB\csExWB\obj\Debug\csExWB.pdb

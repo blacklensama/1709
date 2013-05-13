@@ -37,7 +37,7 @@ namespace DemoApp.eq_controls.dbTools
             }
             return null;
         }
-        public static bool saveTemplate(string name , string html , string description , string uid)
+        public static bool saveTemplate(string name , string html , string description ,string type, string uid)
         {
             OdbcConnection con = getCon();
             try
@@ -56,13 +56,13 @@ namespace DemoApp.eq_controls.dbTools
                 string sqlTest = "select * from template where name = '" + name + "'";
                 OdbcCommand mycmTest = new OdbcCommand(sqlTest, con);
                 OdbcDataReader msdr = (OdbcDataReader)mycmTest.ExecuteReader();
-                string sql = "insert into template (name,htmlsource,description,userid) values ('" + name + "','" + html + "','" + description + "','" + uid + "') ";
+                string sql = "insert into template (name,htmlsource,type,description,userid) values ('" + name + "','" + html + "','" + type + "','" + description + "','" + uid + "') ";
                 while (msdr.Read())
                 {
                     if (msdr.HasRows)
                     {
                         if (System.Windows.Forms.MessageBox.Show(name + "模版已存在，是否覆盖已有记录内容？", "确认覆盖", System.Windows.Forms.MessageBoxButtons.YesNo) == System.Windows.Forms.DialogResult.Yes)
-                            sql = "update template set htmlsource = '" + html + "' where name = '" + name + "'";
+                            sql = "update template set type = '"+type+"' ,htmlsource = '" + html + "' where name = '" + name + "'";
                         else
                         {
                             msdr.Close();
@@ -190,12 +190,13 @@ namespace DemoApp.eq_controls.dbTools
                     string tname = msdr.GetString(0);
                     string html = msdr.GetString(1);
                     string desp = msdr.GetString(2);
+                    string type = msdr.GetString(3);
                     //string userID = msdr.GetString(3);
                     //linkdef[0] = name;
                     //linkdef[1] = html;
                     //linkdef[2] = desp;
                     //linkdef[3] = userID;
-                    result = new string[] {tname , html , desp };
+                    result = new string[] { tname, html, desp, type };
                     break;
 
                 }

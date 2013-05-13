@@ -116,15 +116,15 @@ namespace DemoApp
             this.tsBtnTable = new System.Windows.Forms.ToolStripButton();
             this.tsBtnPicture = new System.Windows.Forms.ToolStripButton();
             this.tsBtnLink = new System.Windows.Forms.ToolStripButton();
-            this.tsBtnTextarea = new System.Windows.Forms.ToolStripButton();
-            this.tsBtnRadiobox = new System.Windows.Forms.ToolStripButton();
-            this.tsBtnCheckbox = new System.Windows.Forms.ToolStripButton();
             this.tsBtnBR = new System.Windows.Forms.ToolStripButton();
             this.tsBtnHorizontalLine = new System.Windows.Forms.ToolStripButton();
             this.tsBtnViewDom = new System.Windows.Forms.ToolStripButton();
             this.tsBtnViewLog = new System.Windows.Forms.ToolStripButton();
             this.jsontest = new System.Windows.Forms.ToolStripButton();
             this.toolStripButton5 = new System.Windows.Forms.ToolStripButton();
+            this.tsBtnCheckbox = new System.Windows.Forms.ToolStripButton();
+            this.tsBtnRadiobox = new System.Windows.Forms.ToolStripButton();
+            this.tsBtnTextarea = new System.Windows.Forms.ToolStripButton();
             this.tsMain = new System.Windows.Forms.ToolStrip();
             this.editorfontCombo = new DemoApp.ToolStripCustomComboBox();
             this.tsComboFontSize = new System.Windows.Forms.ToolStripComboBox();
@@ -153,6 +153,8 @@ namespace DemoApp
             this.layoutView = new System.Windows.Forms.ListView();
             this.panel2 = new System.Windows.Forms.Panel();
             this.button5 = new System.Windows.Forms.Button();
+            this.inserttablelink = new System.Windows.Forms.Button();
+            this.insertdatalink = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
@@ -851,8 +853,8 @@ namespace DemoApp
             this.tsBtnTable,
             this.tsBtnPicture,
             this.tsBtnLink,
-            this.tsBtnBR,
             this.tsBtnHorizontalLine,
+            this.tsBtnBR,
             this.toolStripSeparator9,
             this.tsBtnViewDom,
             this.tsBtnViewLog,
@@ -942,6 +944,7 @@ namespace DemoApp
             this.toolStripButton4.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton4.Text = "toolStripButton4";
             this.toolStripButton4.ToolTipText = "编辑当前模版属性";
+            this.toolStripButton4.Visible = false;
             this.toolStripButton4.Click += new System.EventHandler(this.toolStripButton4_Click);
             // 
             // tsBtnRedo
@@ -1023,6 +1026,7 @@ namespace DemoApp
             this.tsBtnPicture.Size = new System.Drawing.Size(23, 22);
             this.tsBtnPicture.Text = "Add Image";
             this.tsBtnPicture.ToolTipText = "添加图片";
+            this.tsBtnPicture.Visible = false;
             // 
             // tsBtnLink
             // 
@@ -1033,36 +1037,6 @@ namespace DemoApp
             this.tsBtnLink.Size = new System.Drawing.Size(23, 22);
             this.tsBtnLink.Text = "Add Link";
             this.tsBtnLink.ToolTipText = "添加链接";
-            // 
-            // tsBtnTextarea
-            // 
-            this.tsBtnTextarea.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsBtnTextarea.Image = global::DemoApp.Properties.Resources.textArea;
-            this.tsBtnTextarea.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsBtnTextarea.Name = "tsBtnTextarea";
-            this.tsBtnTextarea.Size = new System.Drawing.Size(23, 22);
-            this.tsBtnTextarea.Text = "add textarea";
-            this.tsBtnTextarea.ToolTipText = "添加文本框";
-            // 
-            // tsBtnRadiobox
-            // 
-            this.tsBtnRadiobox.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsBtnRadiobox.Image = global::DemoApp.Properties.Resources.radio;
-            this.tsBtnRadiobox.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsBtnRadiobox.Name = "tsBtnRadiobox";
-            this.tsBtnRadiobox.Size = new System.Drawing.Size(23, 22);
-            this.tsBtnRadiobox.Text = "add radiobox";
-            this.tsBtnRadiobox.ToolTipText = "添加单选框";
-            // 
-            // tsBtnCheckbox
-            // 
-            this.tsBtnCheckbox.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.tsBtnCheckbox.Image = global::DemoApp.Properties.Resources.checkbox;
-            this.tsBtnCheckbox.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.tsBtnCheckbox.Name = "tsBtnCheckbox";
-            this.tsBtnCheckbox.Size = new System.Drawing.Size(23, 22);
-            this.tsBtnCheckbox.Text = "add checkbox";
-            this.tsBtnCheckbox.ToolTipText = "添加复选框";
             // 
             // tsBtnBR
             // 
@@ -1092,6 +1066,7 @@ namespace DemoApp
             this.tsBtnViewDom.Name = "tsBtnViewDom";
             this.tsBtnViewDom.Size = new System.Drawing.Size(23, 22);
             this.tsBtnViewDom.Text = "查看dom模型";
+            this.tsBtnViewDom.Visible = false;
             // 
             // tsBtnViewLog
             // 
@@ -1101,6 +1076,7 @@ namespace DemoApp
             this.tsBtnViewLog.Name = "tsBtnViewLog";
             this.tsBtnViewLog.Size = new System.Drawing.Size(23, 22);
             this.tsBtnViewLog.Text = "查看日志";
+            this.tsBtnViewLog.Visible = false;
             this.tsBtnViewLog.Click += new System.EventHandler(this.tsBtnViewLog_Click);
             // 
             // jsontest
@@ -1111,6 +1087,7 @@ namespace DemoApp
             this.jsontest.Name = "jsontest";
             this.jsontest.Size = new System.Drawing.Size(23, 22);
             this.jsontest.Text = "插入数据项";
+            this.jsontest.Visible = false;
             this.jsontest.Click += new System.EventHandler(this.jsontest_Click);
             // 
             // toolStripButton5
@@ -1121,7 +1098,40 @@ namespace DemoApp
             this.toolStripButton5.Name = "toolStripButton5";
             this.toolStripButton5.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton5.Text = "插入数据表";
+            this.toolStripButton5.Visible = false;
             this.toolStripButton5.Click += new System.EventHandler(this.toolStripButton5_Click);
+            // 
+            // tsBtnCheckbox
+            // 
+            this.tsBtnCheckbox.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsBtnCheckbox.Image = global::DemoApp.Properties.Resources.checkbox;
+            this.tsBtnCheckbox.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsBtnCheckbox.Name = "tsBtnCheckbox";
+            this.tsBtnCheckbox.Size = new System.Drawing.Size(23, 22);
+            this.tsBtnCheckbox.Text = "add checkbox";
+            this.tsBtnCheckbox.ToolTipText = "添加复选框";
+            this.tsBtnCheckbox.Visible = false;
+            // 
+            // tsBtnRadiobox
+            // 
+            this.tsBtnRadiobox.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsBtnRadiobox.Image = global::DemoApp.Properties.Resources.radio;
+            this.tsBtnRadiobox.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsBtnRadiobox.Name = "tsBtnRadiobox";
+            this.tsBtnRadiobox.Size = new System.Drawing.Size(23, 22);
+            this.tsBtnRadiobox.Text = "add radiobox";
+            this.tsBtnRadiobox.ToolTipText = "添加单选框";
+            this.tsBtnRadiobox.Visible = false;
+            // 
+            // tsBtnTextarea
+            // 
+            this.tsBtnTextarea.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.tsBtnTextarea.Image = global::DemoApp.Properties.Resources.textArea;
+            this.tsBtnTextarea.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsBtnTextarea.Name = "tsBtnTextarea";
+            this.tsBtnTextarea.Size = new System.Drawing.Size(23, 22);
+            this.tsBtnTextarea.Text = "add textarea";
+            this.tsBtnTextarea.ToolTipText = "添加文本框";
             // 
             // tsMain
             // 
@@ -1342,7 +1352,6 @@ namespace DemoApp
             this.tabControl2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
                         | System.Windows.Forms.AnchorStyles.Right)));
             this.tabControl2.Controls.Add(this.tabPage1);
-            this.tabControl2.Controls.Add(this.tabPage2);
             this.tabControl2.Location = new System.Drawing.Point(847, 113);
             this.tabControl2.Name = "tabControl2";
             this.tabControl2.SelectedIndex = 0;
@@ -1405,6 +1414,8 @@ namespace DemoApp
             this.panel2.AutoScroll = true;
             this.panel2.BackColor = System.Drawing.SystemColors.Control;
             this.panel2.Controls.Add(this.button5);
+            this.panel2.Controls.Add(this.inserttablelink);
+            this.panel2.Controls.Add(this.insertdatalink);
             this.panel2.Controls.Add(this.button4);
             this.panel2.Location = new System.Drawing.Point(847, 53);
             this.panel2.Name = "panel2";
@@ -1413,19 +1424,39 @@ namespace DemoApp
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(104, 17);
+            this.button5.Location = new System.Drawing.Point(127, 3);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(62, 23);
+            this.button5.Size = new System.Drawing.Size(86, 23);
             this.button5.TabIndex = 1;
             this.button5.Text = "添加控件";
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
+            // inserttablelink
+            // 
+            this.inserttablelink.Location = new System.Drawing.Point(127, 28);
+            this.inserttablelink.Name = "inserttablelink";
+            this.inserttablelink.Size = new System.Drawing.Size(86, 23);
+            this.inserttablelink.TabIndex = 0;
+            this.inserttablelink.Text = "插入数据表";
+            this.inserttablelink.UseVisualStyleBackColor = true;
+            this.inserttablelink.Click += new System.EventHandler(this.inserttablelink_Click);
+            // 
+            // insertdatalink
+            // 
+            this.insertdatalink.Location = new System.Drawing.Point(28, 28);
+            this.insertdatalink.Name = "insertdatalink";
+            this.insertdatalink.Size = new System.Drawing.Size(93, 23);
+            this.insertdatalink.TabIndex = 0;
+            this.insertdatalink.Text = "插入数据项";
+            this.insertdatalink.UseVisualStyleBackColor = true;
+            this.insertdatalink.Click += new System.EventHandler(this.insertdatalink_Click);
+            // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(23, 17);
+            this.button4.Location = new System.Drawing.Point(28, 3);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 23);
+            this.button4.Size = new System.Drawing.Size(93, 23);
             this.button4.TabIndex = 0;
             this.button4.Text = "保存控件";
             this.button4.UseVisualStyleBackColor = true;
@@ -1615,5 +1646,7 @@ namespace DemoApp
         private System.Windows.Forms.ToolStripMenuItem insertJScriptMenuItem;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button inserttablelink;
+        private System.Windows.Forms.Button insertdatalink;
     }
 }

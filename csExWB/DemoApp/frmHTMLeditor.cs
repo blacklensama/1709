@@ -2321,6 +2321,85 @@ namespace DemoApp
             //MessageBox.Show("test");
         }
 
+        private void insertdatalink_Click(object sender, EventArgs e)
+        {
+            JsonForm j = new JsonForm();
+            if (j.ShowDialog() != System.Windows.Forms.DialogResult.OK)
+            {
+                return;
+            }
+            if (j.tablename.Text == "")
+            {
+                return;
+            }
+            string html;
+            html = "<input datalink='datalink' tablename = " + j.tableNameString + " propertyname = "
+               + j.propertyNameString + " index = " + j.index.Text + " value = " + j.property.Text
+               + " disabled = disabled " + ">";
+            html += "</input>";
+            addControl(html);
+        }
+
+        private void inserttablelink_Click(object sender, EventArgs e)
+        {
+            string str = "";
+            JsonFormTable j = new JsonFormTable();
+            if (j.ShowDialog() != DialogResult.OK)
+            {
+                return;
+            }
+            if (j.tableName.Text == "")
+            {
+                return;
+            }
+            foreach (var key in wordDictionary.dict.Keys)
+            {
+                if (mathDictionary.dict[key.ToString()] == j.tableName.Text)
+                {
+                    str = key.ToString();
+                    break;
+                }
+            }
+            string html;
+            int i = wordDictionary.dict[str].Count;
+            html = "<table repeattable='repeattable'><tr>";
+            //html = html  + "<td table=\"" + j.tableNameString + "\" propertyname=\"";
+            string htmlstr = j.html;
+            string[] stringArray;
+            stringArray = htmlstr.Split(' ');
+            try
+            {
+                foreach (var item in stringArray)
+                {
+                    html = html + "<td table=\"" + j.tableNameString + "\" propertyname=\"" + mathDictionary.Ddict[item] + "\" >" + item.ToString() + "</td>";
+                }
+            }
+            catch (System.Exception ex)
+            {
+
+            }
+            /*try
+            {
+                foreach (Dictionary<string, int> key in wordDictionary.dict[j.tableNameString])
+                {
+                    foreach (var t in key.Keys)
+                    {
+                        / *property.Items.Add(mathDictionary.dict[t.ToString()]);* /
+                        html = html + "<td table=\"" + j.tableNameString + "\" propertyname=\"" + t.ToString() + "\" >" + j.tableName.Text + "</td>";
+                    }
+                }
+            }
+            catch (System.Exception ex)
+            {
+
+            }*/
+            html += "</tr>";
+            html += "</table>";
+            addControl(html);
+        }
+
+
+
         private void jsontest_Click(object sender, EventArgs e)
         {
             JsonForm j = new JsonForm();

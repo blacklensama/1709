@@ -33,6 +33,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
+            this.templatetype = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // label1
@@ -54,7 +56,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(33, 70);
+            this.label2.Location = new System.Drawing.Point(33, 112);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(53, 12);
             this.label2.TabIndex = 0;
@@ -63,7 +65,7 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(97, 67);
+            this.textBox2.Location = new System.Drawing.Point(97, 109);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(335, 69);
@@ -80,14 +82,42 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(33, 74);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(53, 12);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "模板类型";
+            this.label3.Click += new System.EventHandler(this.label2_Click);
+            // 
+            // templatetype
+            // 
+            this.templatetype.FormattingEnabled = true;
+            this.templatetype.Items.AddRange(new object[] {
+            "速判",
+            "半小时研判",
+            "1小时研判",
+            "3小时研判",
+            "6小时研判",
+            "10小时研判",
+            "14小时研判"});
+            this.templatetype.Location = new System.Drawing.Point(97, 71);
+            this.templatetype.Name = "templatetype";
+            this.templatetype.Size = new System.Drawing.Size(138, 20);
+            this.templatetype.TabIndex = 4;
+            // 
             // templateCreateForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(548, 148);
+            this.ClientSize = new System.Drawing.Size(548, 190);
+            this.Controls.Add(this.templatetype);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
@@ -106,5 +136,7 @@
         private System.Windows.Forms.Label label2;
         public System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label label3;
+        public System.Windows.Forms.ComboBox templatetype;
     }
 }

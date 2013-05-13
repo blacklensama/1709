@@ -8,6 +8,7 @@ namespace DemoApp.eq_controls
     {
         public string name = "";
         public string description = "";
+        public string type = "";
         public string ID ="temp_" +  new Random().Next().ToString();
         public DemoApp.frmHTMLeditor pform = null;
         public templateBase(DemoApp.frmHTMLeditor p)
@@ -40,6 +41,7 @@ namespace DemoApp.eq_controls
                 this.name = dbt.sel_template[0];
                 string html = dbt.sel_template[1];
                 this.description = dbt.sel_template[2];
+                this.type = dbt.sel_template[3];
 
 
                 IfacesEnumsStructsClasses.IHTMLDocument2  doc = pform.cEXWB1.GetActiveDocument();
@@ -207,10 +209,42 @@ namespace DemoApp.eq_controls
             {
                 name = cf.textBox1.Text;
                 description = cf.textBox2.Text;
+                this.type = cf.typeStr;
                 this.setDocNameDesp();
                 loadDefault();
             }
         }
+        public static string getTypeName(string name) {
+            string result = "";
+            switch (name)
+            {
+                case "速判": result = "_IMMEDIATE"; break;
+                case "半小时研判": result = "_30MIN"; break;
+                case "1小时研判": result = "_1HR"; break;
+                case "3小时研判": result = "_3HR"; break;
+                case "6小时研判": result = "_6HR"; break;
+                case "10小时研判": result = "_10HR"; break;
+                case "14小时研判": result = "_14HR"; break;
+            };
+            return result;
+        }
+
+        public static int getSelectedIndex(string name)
+        {
+            int  result = 0;
+            switch (name)
+            {
+                case "_IMMEDIATE": result = 0; break;
+                case "_30MIN": result = 1; break;
+                case "_1HR": result = 2; break;
+                case "_3HR": result = 3; break;
+                case "_6HR": result = 4; break;
+                case "_10HR": result = 5; break;
+                case "_14HR": result = 6; break;
+            };
+            return result;
+        }
+
         public void saveToDB()
         {
            /* SaveForm save = new SaveForm();
@@ -221,6 +255,8 @@ namespace DemoApp.eq_controls
             templateCreateForm tcf = new templateCreateForm();
             tcf.textBox1.Text = this.name;
             tcf.textBox2.Text = this.description;
+            tcf.templatetype.SelectedIndex = templateBase.getSelectedIndex(this.type);
+
             if (tcf.ShowDialog() != DialogResult.OK)
                 return;
 
@@ -229,6 +265,7 @@ namespace DemoApp.eq_controls
             IfacesEnumsStructsClasses.IHTMLElement bd = (IfacesEnumsStructsClasses.IHTMLElement)doc.body;
             this.name = tcf.textBox1.Text;
             this.description = tcf.textBox2.Text;
+            this.type = tcf.typeStr;
 
             pform.Text = "模版:" + name;
           /*  object o = bd.getAttribute("tname", 1);
@@ -277,7 +314,7 @@ namespace DemoApp.eq_controls
             }*/
             s = s +"</html>";
 
-            if (dbTools.dbTool.saveTemplate(name, s, description, ""))
+            if (dbTools.dbTool.saveTemplate(name, s, description,type, "1"))
                 MessageBox.Show("数据存储成功");
             else MessageBox.Show("数据存储失败");
             
@@ -311,6 +348,8 @@ namespace DemoApp.eq_controls
             
             this.name = tcf.textBox1.Text;
             this.description = tcf.textBox2.Text;
+            this.type = tcf.typeStr;
+            
 
            
 

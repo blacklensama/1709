@@ -10,6 +10,7 @@ namespace DemoApp.eq_controls
 {
     public partial class templateCreateForm : Form
     {
+        public string typeStr = "";
         public templateCreateForm()
         {
             InitializeComponent();
@@ -23,6 +24,8 @@ namespace DemoApp.eq_controls
                 this.DialogResult = DialogResult.None;
                 //return;
             }
+            this.typeStr = templateBase.getTypeName(this.templatetype.SelectedItem.ToString());
+           
             
         }
 

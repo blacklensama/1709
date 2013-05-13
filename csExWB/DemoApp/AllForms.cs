@@ -195,7 +195,7 @@ namespace DemoApp
                     combo.Items.Add(c);
                 }
             }
-            //Select default
+            //Select default 
             combo.SelectedIndex = 0;
         }
 
