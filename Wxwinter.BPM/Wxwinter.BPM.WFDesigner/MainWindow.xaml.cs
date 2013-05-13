@@ -283,7 +283,7 @@ namespace Wxwinter.BPM.WFDesigner
                     break;
                 case "人员配置":
                     dialog.peopleManager p = new dialog.peopleManager();
-                    p.ShowDialog();
+                    p.Show();
                     break;
                 case "保存至数据库":
                     if(saveWorkflowToFile())

@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\lenovo\Desktop\程序\templateflowgit\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\
+F:\github1\Wxwinter.BPM\Wxwinter.BPM.Machine.Design\obj\Release\
 Wxwinter.BPM.Machine.Design
 none
 false
@@ -12,9 +12,9 @@ TRACE
 
 6-2078049970
 
-43-1942162142
-14-1095328603
+43-386122312
+141404378212
 FreeFormEditing\Connector.xaml;InitialNode.xaml;StateContainerEditor.xaml;StateDesigner.xaml;StateMachineDesigner.xaml;TransitionDesigner.xaml;
 
-True
+False
 

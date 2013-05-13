@@ -9,6 +9,9 @@ namespace Wxwinter.BPM.WFDesigner.model
     {
         public string peopleName { set; get; }
         public string peopleEmail { set; get; }
-        public string peopleAut { set; get; }
+        public string peopleJob { set; get; }
+        public string peopleDept { set; get; }
+        public string peoplePassword { set; get; }
+        public string peopleCell { set; get; }
     }
 }

@@ -125,6 +125,12 @@
     <Compile Include="dialog\CreateWFModelWindow.xaml.cs">
       <DependentUpon>CreateWFModelWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="dialog\newGroup.xaml.cs">
+      <DependentUpon>newGroup.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="dialog\newPeople.xaml.cs">
+      <DependentUpon>newPeople.xaml</DependentUpon>
+    </Compile>
     <Compile Include="dialog\OpenUserDialog.xaml.cs">
       <DependentUpon>OpenUserDialog.xaml</DependentUpon>
     </Compile>
@@ -259,6 +265,14 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="dialog\createWorkflowWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="dialog\newGroup.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="dialog\newPeople.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

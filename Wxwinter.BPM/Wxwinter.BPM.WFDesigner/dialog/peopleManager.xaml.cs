@@ -24,6 +24,7 @@ namespace Wxwinter.BPM.WFDesigner.dialog
     {
         CollectionViewSource view = new CollectionViewSource();
         ObservableCollection<peopleInfo> models = new ObservableCollection<peopleInfo>();
+        string nowUser;
         public peopleManager()
         {
             InitializeComponent();
@@ -31,6 +32,7 @@ namespace Wxwinter.BPM.WFDesigner.dialog
 
         public void GetPeopleDate(string str)
         {
+            nowUser = str;
             models.Clear();
             MySQLConnection DBConn = null;
             DBConn = new MySQLConnection(new MySQLConnectionString(Configuration.getDBIp(), "workflow", Configuration.getDBUsername(), Configuration.getDBPassword()).AsString);
@@ -41,9 +43,8 @@ namespace Wxwinter.BPM.WFDesigner.dialog
                 setformat.ExecuteNonQuery();
                 setformat.Dispose();
 
-                string sql = "select tb_per.User_Name , tb_user.User_Mail from tb_user, tb_per where tb_per.user_name = tb_user.User_Name and tb_per.user_authority = ";
+                string sql = "SELECT * FROM tb_user WHERE tb_user.User_Dept = ";
                 sql += "'" + str + "'";
-                //MessageBox.Show(sql);
                 MySQLDataAdapter mda = new MySQLDataAdapter(sql, DBConn);
 
                 DataTable ds = new DataTable();
@@ -54,7 +55,11 @@ namespace Wxwinter.BPM.WFDesigner.dialog
                 {
                     peopleInfo wfm = new peopleInfo();
                     wfm.peopleName = dr["user_name"].ToString();
-                    wfm.peopleEmail = dr["User_Mail"].ToString();       
+                    wfm.peopleEmail = dr["User_Mail"].ToString();
+                    wfm.peopleJob = dr["User_Job"].ToString();
+                    wfm.peopleDept = dr["User_Dept"].ToString();
+                    wfm.peoplePassword = dr["User_Password"].ToString();
+                    wfm.peopleCell = dr["User_Cell"].ToString();
                     models.Add(wfm);
                 }
                 view.Source = models;
@@ -69,26 +74,133 @@ namespace Wxwinter.BPM.WFDesigner.dialog
 
         private void testLoad(object sender, RoutedEventArgs e)
         {
-            peopleList.Items.Add("管理员");
-            peopleList.Items.Add("专业用户");
-            peopleList.Items.Add("普通用户");
+            getinformation();
+        }
+
+        private void getinformation()
+        {
+            peopleList.Items.Clear();
+            MySQLConnection DBConn = null;
+            DBConn = new MySQLConnection(new MySQLConnectionString(Configuration.getDBIp(), "workflow", Configuration.getDBUsername(), Configuration.getDBPassword()).AsString);
+            try
+            {
+                DBConn.Open();
+                MySQLCommand setformat = new MySQLCommand("set names gb2312", DBConn);
+                setformat.ExecuteNonQuery();
+                setformat.Dispose();
+
+                string sql = "select display_name from tb_per";
+                MySQLDataAdapter mda = new MySQLDataAdapter(sql, DBConn);
+
+                DataTable ds = new DataTable();
+                mda.Fill(ds);
+                DBConn.Close();
+
+                foreach (DataRow dr in ds.Rows)
+                {
+                    peopleList.Items.Add(dr["display_name"].ToString());
+                }
+            }
+            catch (System.Exception ex)
+            {
+                MessageBox.Show("数据库连接失败，请检查网络连接或者数据库配置");
+                return;
+            }
         }
 
         private void select_change(object sender, SelectionChangedEventArgs e)
         {
+            if (peopleList.SelectedItem == null)
+            {
+                return;
+            }
             string str = peopleList.SelectedItem.ToString();
-            if (str == "管理员")
+            GetPeopleDate(str);
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            newPeople people = new newPeople();
+            people.ShowDialog();
+            people.Close();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            string name = ((peopleInfo)(peopleListView.SelectedItem)).peopleName;
+            MessageBox.Show(name);
+            MySQLConnection DBConn = null;
+            DBConn = new MySQLConnection(new MySQLConnectionString(Configuration.getDBIp(), "workflow", Configuration.getDBUsername(), Configuration.getDBPassword()).AsString);
+            try
             {
-                GetPeopleDate("admin");
+                DBConn.Open();
+                MySQLCommand setformat = new MySQLCommand("set names gb2312", DBConn);
+                setformat.ExecuteNonQuery();
+                setformat.Dispose();
+
+                string sql = "delete from tb_user where User_Name = " + "'" + name + "'";
+                MySQLCommand mda = new MySQLCommand(sql, DBConn);
+
+                mda.ExecuteNonQuery();
+                mda.Dispose();
+                DBConn.Close();
+                GetPeopleDate(nowUser);
             }
-            else if (str == "专业用户")
+            catch (System.Exception ex)
             {
-                GetPeopleDate("special");
+                MessageBox.Show("数据库连接失败，请检查网络连接或者数据库配置");
+                return;
             }
-            else if (str == "普通用户")
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            newGroup gp = new newGroup();
+            gp.ShowDialog();
+            testLoad(null, null);
+        }
+
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            string name = peopleList.SelectedItem.ToString();
+            if (name == "")
             {
-                GetPeopleDate("normal");
+                return;
             }
+            peopleList.Items.Remove(peopleList.SelectedItem);
+            MySQLConnection DBConn = null;
+            DBConn = new MySQLConnection(new MySQLConnectionString(Configuration.getDBIp(), "workflow", Configuration.getDBUsername(), Configuration.getDBPassword()).AsString);
+            try
+            {
+                DBConn.Open();
+                MySQLCommand setformat = new MySQLCommand("set names gb2312", DBConn);
+                setformat.ExecuteNonQuery();
+                setformat.Dispose();
+
+                string sql = "delete from tb_per where display_name = " + "'" + name + "'";
+                MySQLCommand mda = new MySQLCommand(sql, DBConn);
+                //MessageBox.Show(sql);
+                mda.ExecuteNonQuery();
+                sql = "UPDATE tb_user set User_Dept = '未分组' where User_Dept = '" + name + "'";
+                mda = new MySQLCommand(sql, DBConn);
+                MessageBox.Show(sql);
+                mda.ExecuteNonQuery();
+                mda.Dispose();
+                DBConn.Close();
+            }
+            catch (System.Exception ex)
+            {
+                MessageBox.Show("数据库连接失败，请检查网络连接或者数据库配置");
+                return;
+            }
+        }
+
+        private void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            string name = ((peopleInfo)(peopleListView.SelectedItem)).peopleName;
+            newPeople np = new newPeople();
+            np.setInf(name);
+            np.Show();
         }
     }
 }

@@ -85,3 +85,13 @@ C:\Users\lenovo\Desktop\程序\templateflowgit\Wxwinter.BPM\Wxwinter.BPM.Machine
 C:\Users\lenovo\Desktop\程序\templateflowgit\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\GenerateResource.write.1.tlog
 C:\Users\lenovo\Desktop\程序\templateflowgit\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.dll
 C:\Users\lenovo\Desktop\程序\templateflowgit\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.pdb
+F:\github1\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.dll
+F:\github1\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.pdb
+F:\github1\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.dll
+F:\github1\Wxwinter.BPM\Wxwinter.BPM.Machine\bin\Release\Wxwinter.BPM.Machine.Design.pdb
+F:\github1\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.csprojResolveAssemblyReference.cache
+F:\github1\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.Properties.Resources.resources
+F:\github1\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.SR.resources
+F:\github1\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.csproj.GenerateResource.Cache
+F:\github1\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.dll
+F:\github1\Wxwinter.BPM\Wxwinter.BPM.Machine\obj\Release\Wxwinter.BPM.Machine.pdb
